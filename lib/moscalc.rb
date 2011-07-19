@@ -1,5 +1,19 @@
-require "moscalc/version"
+require 'moscalc/version'
 
 module Moscalc
-  # Your code goes here...
+  require 'moscalc/data_fetcher'
 end
+
+#Things we need:
+#EPS
+#Last price
+#Latest EPS
+#Market cap
+#Current PE
+#ROIC
+#Equity
+#Revenue
+#Cash flow
+#Free cash flow
+#Long term debt
+#Analyst growth rate
