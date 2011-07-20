@@ -7,5 +7,6 @@ group :test do
   gem 'autotest'
   gem 'test_notifier'
   gem 'fakeweb'
+  gem 'ruby-debug19'
 end
 

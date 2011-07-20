@@ -1,0 +1,791 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang='en-US'>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Company Financial Information</title>
+<meta name="description" content="Google financial information, fundamentals and company reports including full balance sheet, profit and Loss, debtors, creditors, financial ratios, rates, margins, prices and yields.">
+<meta name="keywords" content="Google company information fixed assets balance sheet operating cash flow bid offer open close volume market cap value PE ratio debt to equity creditors crest data debtors dividend yield operating margin equity financial ratios growth rates historic returns liabilities pe ratio sales pre tax profit margin profit and loss statement share price turnover">
+<LINK rel='stylesheet' href='http://images.advfn.com/static/financials.css' type='text/css'></LINK>
+<LINK rel='stylesheet' href='http://images.advfn.com/static/us_nav.css'></LINK>
+<LINK rel="stylesheet" href="/style.css?v=8cc37c5ffaad1af7a2c197e666a51f3e"></LINK>
+<script language="javascript">
+<!--
+document.domain='advfn.com';
+// -->
+</script>
+<script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1972854-2']);
+  _gaq.push(['_setDomainName', '.advfn.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script language='javascript' type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js'></script>
+<script language="javascript" type="text/javascript" src="/common/script.js?v=8cc37c5ffaad1af7a2c197e666a51f3e"></script>
+<script language="javascript" type="text/javascript" src="/script.js?v=8cc37c5ffaad1af7a2c197e666a51f3e"></script>
+			<script language="javascript">
+			<!--
+			if(window!=top)
+				top.location.href=location.href;
+		// -->
+		</script>
+<script type="text/javascript" src="http://images.advfn.com/static/advfn_sl.js"></script><script language='javascript'>
+<!--
+function doSubmit() {if(document.forms[0].btn.value == "" ) {document.forms[0].btn.value="s_ok"; return true;} else { return true; } }// -->
+</script>
+</head>
+<body id='afnmainbodid' leftmargin='5' topmargin='0' rightmargin='5' bottommargin='5' style='margin:0px 5px 5px 5px' onLoad=' ' bgcolor='white' link='#2b3266' vlink='black'>
+<form name='afnmain' enctype='application/x-www-form-urlencoded' action='/p.php' method='GET'  onsubmit='return doSubmit();'>
+<input type='hidden' name='pid' value='financials'>
+<input type='hidden' name='btn' value=''>
+<img src="http://img.advfn.com/space.gif?s=advfn&p=%2Ffinancials%2Ffront&ss=us&us=F&h=b20bd1ba5995aad4cf0abe68074a6eb1&pts=1311134853" width="0" height="0" style="display:block">
+
+<!-- SERVER: 10.0.1.33 -->
+
+
+<!-- MENU START -->
+
+<span id='dmcont'></span>
+<script language='javascript'>
+var a1 = '';
+var a2 = '/p.php?pid=';
+var dmcb = 1311134853;
+var dmsy = 'symbol=NASDAQ%3AGOOG';
+var jlink = false;
+dd_trn = new Array();
+dd_trn[0] = new Array("U","Training","/p.php?pid=clicktrack&par=MTU2MTA%3D&advfn_par=cHI9cHJpc3RpbmUmZnY9dXM%3D&symbol=NASDAQ%3AGOOG","",1);
+dd_wlnku = new Array();
+dd_wlnku[0] = new Array("U","Web links","/p.php?pid=clicktrack&par=MTY0MTY%3D&advfn_par=cHI9ZmluZCZmdj11cw%3D%3D&symbol=NASDAQ%3AGOOG","",1);
+dd_shop = new Array();
+dd_shop[0] = new Array("U","Financial Software","/p.php?pid=clicktrack&par=MTgyMjA%3D&advfn_par=cHI9c2hvcCZmdj11cw%3D%3D&symbol=NASDAQ%3AGOOG","",0);
+var dd_stf = new Array();
+var staff_id = 'N/A';
+dd_cry = new Array();
+var i = 0;
+dd_cry[i++] = new Array("U","World Overview",a2+"countrysum&cid=0");
+dd_cry[i++] = new Array("U","Australia",a2+"countrysum&cid=1");
+dd_cry[i++] = new Array("U","Brazil",a2+"countrysum&cid=26");
+dd_cry[i++] = new Array("U","Canada",a2+"countrysum&cid=2");
+dd_cry[i++] = new Array("U","China",a2+"countrysum&cid=27");
+dd_cry[i++] = new Array("U","Nordic",a2+"countrysum&cid=4");
+dd_cry[i++] = new Array("U","Europe (EURONEXT)",a2+"countrysum&cid=5");
+dd_cry[i++] = new Array("U","France",a2+"countrysum&cid=7");
+dd_cry[i++] = new Array("U","Germany",a2+"countrysum&cid=8");
+dd_cry[i++] = new Array("U","Greece",a2+"countrysum&cid=9");
+dd_cry[i++] = new Array("U","Netherlands",a2+"countrysum&cid=10");
+dd_cry[i++] = new Array("U","Hong Kong",a2+"countrysum&cid=28");
+dd_cry[i++] = new Array("U","India",a2+"countrysum&cid=11");
+dd_cry[i++] = new Array("U","Indonesia",a2+"countrysum&cid=12");
+dd_cry[i++] = new Array("U","Ireland",a2+"countrysum&cid=13");
+dd_cry[i++] = new Array("U","Italy",a2+"countrysum&cid=14");
+dd_cry[i++] = new Array("U","Japan",a2+"countrysum&cid=15");
+dd_cry[i++] = new Array("U","Poland",a2+"countrysum&cid=17");
+dd_cry[i++] = new Array("U","Portugal",a2+"countrysum&cid=18");
+dd_cry[i++] = new Array("U","Russia",a2+"countrysum&cid=19");
+dd_cry[i++] = new Array("U","Singapore",a2+"countrysum&cid=20");
+dd_cry[i++] = new Array("U","United Kingdom",a2+"countrysum&cid=24");
+dd_cry[i++] = new Array("U","USA",a2+"countrysum&cid=25");
+
+</script>
+<script language='javascript' src='http://images.advfn.com/static/us_dmenu.js'></script>
+<script language='javascript' src='http://images.advfn.com/static/smenu.js?v=2'></script>
+
+<!--[if IE]><style type="text/css">#nav li a{height:23px;}</style><![endif]-->
+<div id='header'>
+	<div id='header_logo'><a  href='/' title='Home'><img border='0' src='http://images.advfn.com/imagesnew/2/us/space.gif' width='180' height='60' id='home_lnk' /></a>
+		<div id='nav'><ul><li class="nav_f"><a href="/p.php?pid=mon&symbol=NASDAQ%3AGOOG" title="Multiple streaming real-time quotes for US and other exchanges"  rel="nofollow">Monitor</a></li><li class=""><a href="/p.php?pid=quote&symbol=NASDAQ%3AGOOG" title="Quick single quote with prices and charts for US and other exchanges"  rel="nofollow">Quote</a></li><li class=""><a href="/p.php?pid=charts&symbol=NASDAQ%3AGOOG" title="Fully featured, interactive real-time charts"  rel="nofollow">Charts</a></li><li class=""><a href="/p.php?pid=trades&symbol=NASDAQ%3AGOOG" title="Complete record of individual trades on a stock"  rel="nofollow">Trades</a></li><li class=""><a href="/p.php?pid=news&symbol=NASDAQ%3AGOOG" title="Real-time regulatory & non-regulatory financial news"  rel="nofollow">News</a></li><li class=""><a href="/p.php?pid=financials&symbol=NASDAQ%3AGOOG" title="Detailed company statistics and analysis based upon audited annual reports"  rel="nofollow">Financials</a></li><li class=""><a href="/p.php?pid=toplist&symbol=NASDAQ%3AGOOG" title="A wide variety of stock lists sorted by a number of performance criteria"  rel="nofollow">Toplists</a></li><li class=""><a href="/p.php?pid=alerts&symbol=NASDAQ%3AGOOG" title="Configurable stock alerts to your e-mail and mobile phone"  rel="nofollow">Alerts</a></li><li class=""><a href="/p.php?pid=pf&symbol=NASDAQ%3AGOOG" title="Track your own portfolio"  rel="nofollow">Portfolio</a></li><li class=""><a href="/p.php?pid=level2&symbol=NASDAQ%3AGOOG" title="Market Maker quotes and order book"  rel="nofollow">Level&nbsp;2</a></li><li class=""><a href="/forex" title="Exchange Rates, FX Prices & Charts, Forex Brokers & Currency Conversion, Real Time Forex Prices" >Forex</a></li><li class=""><a href="http://bb.us.advfn.com/boards/hubstocks.aspx?symbol=NASDAQ%3AGOOG" title="Bulletin Boards"  rel="nofollow">Boards</a></li></ul></div>
+
+		<table id='header_links'><tr><td valign='middle'><ul><li><a href="/p.php?pid=help&symbol=NASDAQ%3AGOOG" title="Get help and support">Help</a></li><li><a href="/p.php?pid=sc&symbol=NASDAQ%3AGOOG" title="Search for news and stocks">Search</a></li><li><a href="/p.php?pid=sitemap&symbol=NASDAQ%3AGOOG" title="Site map">Site map</a></li>
+		</ul></td></tr></table>
+
+		<div id='nav_b'>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec570' name='oasissec570' src='http://as1.advfn.com/oasis/oasisi-i.php?s=570&w=728&h=90&ord=1311134853&t=_blank&k=' width='728' height='90' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=570&w=728&h=90&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=570&w=728&h=90&ord=1311134853&t=_blank&k=' border='0' width='728' height='90' />
+	</a>
+</iframe></div>
+
+		<div id='share_fb'><a name='fb_share' type='button_count' href='http://www.facebook.com/sharer.php' target='_blank'>Share</a>
+<script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script></div><a id="nav_reg" target="_top" href="http://mkta.advfn.com/oasisc.php?s=288&c=599&cb=1311134853">FREE Membership</a><a id="nav_login" title="Please log ins" rel="nofollow" href="/p.php?pid=mon&amp;loginbtn=1">Login</a>
+
+<span id='ddcont'></span>
+<script language='javascript'>
+var ddhead = new Array();
+ddhead[1] = 'PRICE DATA';
+ddhead[2] = 'CHARTS & RESEARCH';
+ddhead[3] = 'FOREX & DERIVATIVES';
+ddhead[4] = 'WORLD EXCHANGES';
+ddhead[5] = 'ADVFN SERVICES';
+</script>
+
+	</div>
+</div>
+<script LANGUAGE="JavaScript" src="http://mkta.advfn.com/oasisi-j.php?s=357&w=0&h=0&iid=1311134853&k=fFVMPTB8cGlkPWZpbmFuY2lhbHN8" pid="financials">
+</script>
+<div id="siteButtons"><span>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec5481' name='oasissec5481' src='http://as1.advfn.com/oasis/oasisi-i.php?s=5481&w=600&h=19&ord=1311134853&t=_blank&k=' width='600' height='19' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=5481&w=600&h=19&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=5481&w=600&h=19&ord=1311134853&t=_blank&k=' border='0' width='600' height='19' />
+	</a>
+</iframe></span><table><tr><td>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec583' name='oasissec583' src='http://as1.advfn.com/oasis/oasisi-i.php?s=583&w=120&h=30&ord=1311134853&t=_blank&k=' width='120' height='30' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=583&w=120&h=30&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=583&w=120&h=30&ord=1311134853&t=_blank&k=' border='0' width='120' height='30' />
+	</a>
+</iframe></td><td>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec584' name='oasissec584' src='http://as1.advfn.com/oasis/oasisi-i.php?s=584&w=120&h=30&ord=1311134853&t=_blank&k=' width='120' height='30' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=584&w=120&h=30&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=584&w=120&h=30&ord=1311134853&t=_blank&k=' border='0' width='120' height='30' />
+	</a>
+</iframe></td><td>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec585' name='oasissec585' src='http://as1.advfn.com/oasis/oasisi-i.php?s=585&w=120&h=30&ord=1311134853&t=_blank&k=' width='120' height='30' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=585&w=120&h=30&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=585&w=120&h=30&ord=1311134853&t=_blank&k=' border='0' width='120' height='30' />
+	</a>
+</iframe></td><td>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec586' name='oasissec586' src='http://as1.advfn.com/oasis/oasisi-i.php?s=586&w=120&h=30&ord=1311134853&t=_blank&k=' width='120' height='30' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=586&w=120&h=30&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=586&w=120&h=30&ord=1311134853&t=_blank&k=' border='0' width='120' height='30' />
+	</a>
+</iframe></td><td>
+<iframe allowtransparency="true" style="background-color:transparent;" id='oasissec2115' name='oasissec2115' src='http://as1.advfn.com/oasis/oasisi-i.php?s=2115&w=120&h=30&ord=1311134853&t=_blank&k=' width='120' height='30' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'>
+	<a href='http://as1.advfn.com/oasis/oasisc.php?s=2115&w=120&h=30&ord=1311134853&t=_blank&k=' target='_blank' rel='nofollow'>
+		<img src='http://as1.advfn.com/oasis/oasisi.php?s=2115&w=120&h=30&ord=1311134853&t=_blank&k=' border='0' width='120' height='30' />
+	</a>
+</iframe></td><td><iframe allowtransparency="true" style="background-color:transparent;" id="mkta_90_93591" name="mkta_90_93591" src="http://mkta.advfn.com/oasisi-i.php?s=90&w=120&h=30&iid=1311134853&k=fFVMPTB8" width="120" height="30" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"><a href="http://mkta.advfn.com/oasisc.php?s=90&w=120&h=30&iid=1311134853 target="_top" rel="nofollow"><img src="http://mkta.advfn.com/oasisi.php?s=90&w=120&h=30&iid=1311134853&k=fFVMPTB8" border='0' width="120" height="30" /></a></iframe></td></tr></table></div>
+<script language='javascript'>
+if(!window.dm) window.dm = dd_stf;
+buildSMenu();
+</script>
+
+<!-- MENU END -->
+
+<table cellpadding='0' cellspacing='0' border='0' width='100%' class='Tabs'><tr><td><ul><li class='selected'><a href='/p.php?pid=financials&symbol=NASDAQ%3AGOOG' title='Company financials'>Financials</a></li><li><a href='/p.php?pid=sectorsheet&symbol=NASDAQ%3AGOOG' title='Balance sheet charts for sector'>Sector Sheet</a></li><li><a href='/p.php?pid=searchbysector&symbol=NASDAQ%3AGOOG' title='Find a stock by sector'>Search by Sector</a></li><li><a href='/p.php?pid=usfilterx&symbol=NASDAQ%3AGOOG' title='Filter stocks by financials'>FilterX</a></li><li class='message'>For help & enquiries: 1-888-992-3836 (toll free)</li></ul></td></tr></table></TD></TR></TABLE><input type='hidden' name='mode' value='annual_reports'><table border='0' cellspacing='1' cellpadding='0' bgcolor='#808080' width='100%' ><tr><td><table border='0' cellspacing='0' cellpadding='1' bgcolor='#e0e0e0' width='100%'><tr><td class='sb'>
+<span id='symbol_component_us'><table border='0' cellspacing='0' cellpadding='0'><tr><td class='mb' valign='middle' style='padding: 0 3px' nowrap>Google Inc. (MM)</td><td nowrap><div><input type='text' name='symbol'  onchange='this.form.btn.value="";' class='mb'  onclick='if(typeof autoSuggestStart == "function") {autoSuggestStart();} ' value='NASDAQ:GOOG'  size='14' maxlength='24' />&nbsp;<input type='submit' id='s_okid' name='s_ok' value='OK' onclick='this.form.btn.value=this.name; return true;' style='text-decoration:none;' class='sb'  />&nbsp;<input type='button' name='s_find' value='Search' onclick='this.form.btn.value=this.name; this.form.submit();' style='text-decoration:none;' class='sb'  />&nbsp;<input type='button' name='s_atoz' value='A - Z' onclick='this.form.btn.value=this.name; this.form.submit();' style='text-decoration:none;' class='sb' style='width: 75px;' /></div></td>
+</tr></table><!-- est -->
+<script type='text/javascript'>
+<!--
+var searchInputInterval;
+var searchInputValPre;
+var state = {"mouse":"","lastKey":"","lastAction":""};
+var searchResultsData = {};
+var ASCF;$(document).ready(function() {
+	$('input[name=\'symbol\']').eq(0).focusin(function(){
+		if(!ASCF)
+		{
+			$('input[name=\'symbol\']').eq(0).val('');
+			ASCF = true;
+		}
+		autoSuggestStart();
+	}).focusout(function(){
+		autoSuggestEnd();
+	}).keyup(function(event){
+		autoSuggestKeyp(event);
+	}).attr('autocomplete','off');
+	$(document).mousemove(function(e){
+		state.mouse = e;
+	});
+
+	$('form[name=\'afnmain\']').submit(function(event){
+		if('arrow' == state.lastAction)
+		{
+			event.preventDefault();
+		}
+	});
+});function autoSuggestStart()
+{
+	if(!searchInputInterval)	//if not started yet
+	{
+		searchInputInterval = window.setInterval(function(){runAutoSuggest();},1000);
+		tryReopenSS();
+	}
+	return;
+}
+
+function autoSuggestEnd()
+{
+	if(searchInputInterval)
+	{
+		clearInterval(searchInputInterval);
+		searchInputInterval = null;
+		var $searchBox = $('#resAcMain').eq(0);
+		var offset = $searchBox.offset();
+		var xfail = true;
+		var yfail = true;
+		if(state.mouse.pageX >= offset.left)//if mouse x coord is right of box left edge
+		{
+			var rightEdge = $searchBox.width()+offset.left;
+			if(state.mouse.pageX <= rightEdge)
+			{
+				xfail = false;
+			}
+		}
+		if(state.mouse.pageY >= offset.top)
+		{
+			var bottomEdge = $searchBox.height()+offset.top;
+			if(state.mouse.pageY <= bottomEdge)
+			{
+				yfail = false;
+			}
+		}
+		if(xfail || yfail)
+		{
+			$searchBox.css('display','none');
+			$('applet').parent().css('visibility','visible');
+		}
+	}}function autoSuggestKeyp(event)
+{
+	var action = '';
+	if(event.which == 38)	{
+		action = 'up';
+	}
+	else if(event.which == 40)	{
+		tryReopenSS();
+		action = 'down';
+
+	}
+	else if(event.which == 13)
+	{
+		if('arrow' == state.lastAction)
+		{
+			var indexPut = $('#resAcMain').find('tr.resAcb').index();
+			if(-1 != indexPut)
+			{
+				putSearchResult(indexPut);
+			}
+		}
+	}
+
+	if(action)	{
+		var $searchResults = $('#resAcMain').eq(0);
+		var nextBlue = -1;
+		if(1 == $searchResults.length)		{
+			var $srTbody = $searchResults.find('tbody');
+			var $blueBar = $searchResults.find('.resAcb');
+			var $srTr = $srTbody.find('tr');
+			var currentIndex = $srTr.index($blueBar);
+			if('down' == action)
+			{
+				if(-1 == currentIndex || ($srTr.length-1) == currentIndex)//loop case
+				{
+					nextBlue = 0;
+				}
+				else
+				{
+					//assume current index is 0 to n-2
+					nextBlue = currentIndex+1;
+				}
+			}
+			else if('up' == action)
+			{
+				if(-1 == currentIndex || 0 == currentIndex)
+				{
+					nextBlue = $srTr.length - 1;
+				}
+				else
+				{
+					//assume not at head
+					nextBlue = currentIndex-1;
+				}
+			}
+			if(-1 != nextBlue)//if we've decided
+			{
+				$srTr.removeClass().addClass('resAca');
+				$srTr.eq(nextBlue).removeClass().addClass('resAcb');
+			}
+		}		state.lastAction = 'arrow';	}	else
+	{
+		state.lastAction = 'notArrow';
+	}
+	state.lastKey = event.which;
+	return;
+}
+function runAutoSuggest()
+{
+	var temp = $('input[name=\'symbol\']').val();
+	temp = jQuery.trim(temp);
+	temp = temp.split(' ');
+	temp = temp[0];
+	if(temp != searchInputValPre && '' != temp)	{
+jQuery.ajax({
+	url: 'p.php?pid=ss&s=' + encodeURI(temp),
+	dataType: 'json',
+	success: function(data, textStatus, jqXHR){
+		//to prevent out of order execution
+		if(data.query == temp.toUpperCase())
+		{
+			autoSugRes(data);
+		}
+	}
+});
+
+	}	else if('' == temp)
+	{
+		$('#resAcMain').remove();
+	}
+searchInputValPre = temp;
+}function autoSugRes(data)
+{
+	var results = data.results;
+	$('#resAcMain').remove();
+	searchResultsData = {};
+	if(0 < results.length)
+	{		searchResultsData = results;
+		var $resDisp = $('<span id=\'resAcMain\'><table cellpadding=\'0\' cellspacing=\'0\'><tbody></tbody></table></span>');
+		for(var x=0; x < results.length; x++)
+		{
+			$resDisp.find('tbody').append('<tr class=\'resAca\'><td>' + srBolding(results[x].s,data.query) + '</td><td>' + srBolding(results[x].n,data.query) + '</td><td class=\'resGry\'>' + results[x].m2 + '</td></tr>');
+		}
+//<position>
+		var $inputSource = $('input[name=\'symbol\']').eq(0);
+		var inputOffset = $inputSource.offset();
+		var topAsr = inputOffset.top + $inputSource.height() + 6;
+		var leftAsr = inputOffset.left - 1;
+
+		$resDisp.css('top',topAsr+'px');
+		$resDisp.css('left',leftAsr+'px');
+//</position>
+
+		$resDisp.find('td').hover(function(event){
+			var $toBlue = $(event.target).parent();
+			$toBlue.siblings().removeClass().addClass('resAca');
+			$toBlue.removeClass().addClass('resAcb');
+			state.lastAction = 'mouse';
+		},
+		function(event){
+			$(event.target).parent().removeClass().addClass('resAca');
+		});		$resDisp.find('td').click(function(event){
+			var indexSearch = $(event.target).parent().index();
+			putSearchResult(indexSearch);
+		});		$('body').append($resDisp);
+		$('applet').parent().css('visibility','hidden');
+	}	return;
+}
+function srBolding(text,query)
+{
+	var toReturn = text;
+	var searchIndex = text.search(new RegExp(query,'i'));
+	if(-1 != searchIndex)
+	{
+		toReturn = text.substring(0,searchIndex) + '<b>' + text.substring(searchIndex,searchIndex + query.length) + '</b>' + text.substring(searchIndex + query.length);
+	}
+	return toReturn;
+}
+function putSearchResult(indexSearch)
+{
+	var toReplace = searchResultsData[indexSearch].m2 + ':' + searchResultsData[indexSearch].s;
+	$('input[name=\'symbol\']').eq(0).val(toReplace);
+	searchInputValPre = toReplace;
+	$('#resAcMain').css('display','none');
+	$('applet').parent().css('visibility','visible');
+	state.lastAction = 'submit';	//to get around preventDefault
+	$('form[name=\'afnmain\']').trigger('submit');
+	return;
+}
+function tryReopenSS()
+{
+	var $pastResults = $('#resAcMain');
+	if(1 == $pastResults.length)	{
+		$pastResults.css('display','inline-block');
+		$('applet').parent().css('visibility','hidden');
+	}
+return;
+}
+//-->
+</script>
+
+<style type='text/css'>
+.resGry
+{
+	color:#999999;
+}
+#resAcMain
+{
+	padding:2px;
+	display:inline-block;
+	border-color: #A2BFF0 #558BE3 #558BE3 #A2BFF0;
+	border-style: solid;
+	border-width: 1px;
+	background-color:#FFFFFF;
+	margin: 0px;
+	position:absolute;
+	cursor:default;
+}
+#resAcMain *
+{font-family:arial,helvetica,sans-serif;font-size:14px;}
+#resAcMain td
+{
+	padding: 2px 2px 2px 6px;
+}
+#resAcMain td:hover
+{
+	cursor:default;
+}
+tr.resAca td
+{
+	background-color:#FFFFFF;
+}
+tr.resAcb td
+{
+	background-color:#D5E2FF;
+}
+</style>
+</span></td><td align="right"><iframe allowtransparency="true" style="background-color:transparent;" id="mkta_174_11929" name="mkta_174_11929" src="http://mkta.advfn.com/oasisi-i.php?s=174&w=410&h=27&iid=1311134853&k=fFVMPTB8" width="410" height="27" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"><a href="http://mkta.advfn.com/oasisc.php?s=174&w=410&h=27&iid=1311134853 target="_top" rel="nofollow"><img src="http://mkta.advfn.com/oasisi.php?s=174&w=410&h=27&iid=1311134853&k=fFVMPTB8" border='0' width="410" height="27" /></a></iframe></td></td></tr></table></td></tr></table>
+<table border='0' cellspacing='10' align='center'><tr><td valign='top'><p><center><table border='0'><tr><td><table align="center" width="710" border="0" cellspacing="0" cellpadding="0" bgcolor="#e0e0e0" style="border: 1px solid black"><tr><td valign="top" style="width:710px;height:61px;background:url() top right no-repeat"><div align="right" style="margin-top:38px;margin-bottom:-10px;"><input type='button' name='company_data' value='Company Data' onclick='this.form.btn.value=this.name;if(doSubmit()) {this.form.submit();}' style='text-decoration:none;sb' class='sb'  />&nbsp;<input type='button' name='quarterly_reports' value='Quarterly Reports' onclick='this.form.btn.value=this.name;if(doSubmit()) {this.form.submit();}' style='text-decoration:none;sb' class='sb'  />&nbsp;<input type='button' name='annual_reports' value='Annual Reports' onclick='this.form.btn.value=this.name;if(doSubmit()) {this.form.submit();}' style='text-decoration:none;sb' class='sb' disabled="disabled" />&nbsp;</div><h1 style="width:480px;top:-45px;position:relative;margin-bottom:-36px;margin-top:0;">Google</h1></td></tr></table>	<table border='0' width='710'>		<tr><td>&nbsp;</td><td align='right' >			<font face='arial' size='2'>			All amounts in Millions of 			</font>			<font face='arial' size='2'>			US Dollars			</font>			<font face='arial' size='2'> except per share items</font>		</td></tr>		<tr><td style="font-family:Arial,sans-serif;font-size:12px;">Select start date for annual reports</td><td><select id='start_dateid' name='start_date' class='sb' size='1'   onchange='document.forms[0].btn.value="start_date" ; submit()' >
+<option  value='0'>2001/12</option>
+<option  value='1'>2002/12</option>
+<option  value='2'>2003/12</option>
+<option  value='3'>2004/12</option>
+<option  value='4'>2005/12</option>
+<option  value='5' selected>2006/12</option>
+<option  value='6'>2007/12</option>
+<option  value='7'>2008/12</option>
+<option  value='8'>2009/12</option>
+<option  value='9'>2010/12</option>
+</select>		</td></tr>	</table>	<span style='text-transform: capitalize'><table align="center" cellspacing="1" width="710" cellpadding="2">
+			<tr><td bgcolor="#6566a3" colspan="6" align="left" class="mb" style="color:white">BALANCE SHEET (at a glance)</td></tr>
+			<tr><td rowspan="2"><img border='0' src='http://images.advfn.com/imagesnew/2/us/fun_legend_us.gif' height='162' width='127'  /></td><td bgcolor="#aaaad3" class="mb" style="color:white" align="center">2006/12</td><td bgcolor="#aaaad3" class="mb" style="color:white" align="center">2007/12</td><td bgcolor="#aaaad3" class="mb" style="color:white" align="center">2008/12</td><td bgcolor="#aaaad3" class="mb" style="color:white" align="center">2009/12</td><td bgcolor="#aaaad3" class="mb" style="color:white" align="center">2010/12</td></tr><tr><td bgcolor="#f0f0e7" align="center"><img border='0' style='margin-right:1px;' src='http://www.advfn.com/p.php?pid=fundc&title=Liabilities%2BEQ&val1=1304.587&val2=128.924&sum_col=18,473.4&val3=17039.84&col1=ff0000&col2=800000&col3=c0c000&bm_w=50&bm_h=110&bm_c=f0f0e7'><img border='0' src='http://www.advfn.com/p.php?pid=fundc&title=Assets&val1=1.8775207595&val2=27.5351396723&val3=9.72174999544&val4=60.8655895728&sum_col=18,473.4&col1=b0b0b0&col2=206000&col3=50c000&col4=ffff00&bm_w=50&bm_h=110&bm_c=f0f0e7'></a></td><td bgcolor="#f0f0e7" align="center"><img border='0' style='margin-right:1px;' src='http://www.advfn.com/p.php?pid=fundc&title=Liabilities%2BEQ&val1=2035.602&val2=610.525&sum_col=25,335.8&val3=22689.679&col1=ff0000&col2=800000&col3=c0c000&bm_w=50&bm_h=110&bm_c=f0f0e7'><img border='0' src='http://www.advfn.com/p.php?pid=fundc&title=Assets&val1=1.7627068979&val2=29.9973563107&val3=12.1193105126&val4=56.1206262789&sum_col=25,335.8&col1=b0b0b0&col2=206000&col3=50c000&col4=ffff00&bm_w=50&bm_h=110&bm_c=f0f0e7'></a></td><td bgcolor="#f0f0e7" align="center"><img border='0' style='margin-right:1px;' src='http://www.advfn.com/p.php?pid=fundc&title=Liabilities%2BEQ&val1=2302.09&val2=1226.623&sum_col=31,767.6&val3=28238.862&col1=ff0000&col2=800000&col3=c0c000&bm_w=50&bm_h=110&bm_c=f0f0e7'><img border='0' src='http://www.advfn.com/p.php?pid=fundc&title=Assets&val1=3.13744439102&val2=33.3443865325&val3=13.6378398414&val4=49.8803292351&sum_col=31,767.6&col1=b0b0b0&col2=206000&col3=50c000&col4=ffff00&bm_w=50&bm_h=110&bm_c=f0f0e7'></a></td><td bgcolor="#f0f0e7" align="center"><img border='0' style='margin-right:1px;' src='http://www.advfn.com/p.php?pid=fundc&title=Liabilities%2BEQ&val1=2747.467&val2=1745.087&sum_col=40,496.8&val3=36004.224&col1=ff0000&col2=800000&col3=c0c000&bm_w=50&bm_h=110&bm_c=f0f0e7'><img border='0' src='http://www.advfn.com/p.php?pid=fundc&title=Assets&val1=1.91357939637&val2=26.0635105341&val3=11.5618654896&val4=60.4610445799&sum_col=40,496.8&col1=b0b0b0&col2=206000&col3=50c000&col4=ffff00&bm_w=50&bm_h=110&bm_c=f0f0e7'></a></td><td bgcolor="#f0f0e7" align="center"><img border='0' style='margin-right:1px;' src='http://www.advfn.com/p.php?pid=fundc&title=Liabilities%2BEQ&val1=9996&val2=1614&sum_col=57,851.0&val3=46241&col1=ff0000&col2=800000&col3=c0c000&bm_w=50&bm_h=110&bm_c=f0f0e7'><img border='0' src='http://www.advfn.com/p.php?pid=fundc&title=Assets&val1=1.80463604778&val2=26.3521806019&val3=11.3861471712&val4=60.4570361791&sum_col=57,851.0&col1=b0b0b0&col2=206000&col3=50c000&col4=ffff00&bm_w=50&bm_h=110&bm_c=f0f0e7'></a></td></tr></table>	<table align='center'>		<tr><td><table border='0' bgColor='ffffff' cellspacing='1' cellpadding='2' width='705'  align='left' ><tr bgcolor='#6566a3'><td colspan='6' align='left' class='mb'><font color='white'>INDICATORS</font></td></tr><TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>year end date</td><td class='s' align='right'>2006/12</td><td class='s' align='right'>2007/12</td><td class='s' align='right'>2008/12</td><td class='s' align='right'>2009/12</td><td class='s' align='right'>2010/12</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>date preliminary data loaded</td><td class='s' align='right'>2007-02-01</td><td class='s' align='right'>2008-02-01</td><td class='s' align='right'>2009-01-23</td><td class='s' align='right'>2010-01-25</td><td class='s' align='right'>2011-01-21</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>earnings period indicator</td><td class='s' align='right'>F</td><td class='s' align='right'>F</td><td class='s' align='right'>F</td><td class='s' align='right'>F</td><td class='s' align='right'>F</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>quarterly indicator</td><td class='s' align='right'>4</td><td class='s' align='right'>4</td><td class='s' align='right'>4</td><td class='s' align='right'>4</td><td class='s' align='right'>4</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>basic earnings indicator</td><td class='s' align='right'>Y</td><td class='s' align='right'>Y</td><td class='s' align='right'>Y</td><td class='s' align='right'>Y</td><td class='s' align='right'>Y</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>template indicator</td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>preliminary full context ind</td><td class='s' align='right'>N</td><td class='s' align='right'>N</td><td class='s' align='right'>N</td><td class='s' align='right'>N</td><td class='s' align='right'>N</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>projected fiscal year date</td><td class='s' align='right'>0000-00-00</td><td class='s' align='right'>0000-00-00</td><td class='s' align='right'>0000-00-00</td><td class='s' align='right'>0000-00-00</td><td class='s' align='right'>0000-00-00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>number of months last report period</td><td class='s' align='right'>12</td><td class='s' align='right'>12</td><td class='s' align='right'>12</td><td class='s' align='right'>12</td><td class='s' align='right'>12</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' >INCOME STATEMENT</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>operating revenue</td><td class='sb' align='right'>10,604.9</td><td class='sb' align='right'>16,594.0</td><td class='sb' align='right'>21,795.6</td><td class='sb' align='right'>23,650.6</td><td class='sb' align='right'>29,321.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>total revenue</td><td class='s' align='right'>9.0</td><td class='s' align='right'>10.0</td><td class='s' align='right'>11.0</td><td class='s' align='right'>12.0</td><td class='s' align='right'>13.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>adjustments to revenue</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>cost of sales</td><td class='s' align='right'>3,653.1</td><td class='s' align='right'>5,681.4</td><td class='s' align='right'>7,121.6</td><td class='s' align='right'>7,319.8</td><td class='s' align='right'>9,021.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cost of sales with depreciation</td><td class='s' align='right'>4,225.0</td><td class='s' align='right'>6,649.1</td><td class='s' align='right'>8,621.5</td><td class='s' align='right'>8,844.1</td><td class='s' align='right'>10,417.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>gross margin</td><td class='s' align='right'>6,951.8</td><td class='s' align='right'>10,912.6</td><td class='s' align='right'>14,673.9</td><td class='s' align='right'>16,330.8</td><td class='s' align='right'>20,300.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>gross operating profit</td><td class='sb' align='right'>6,951.8</td><td class='sb' align='right'>10,912.6</td><td class='sb' align='right'>14,673.9</td><td class='sb' align='right'>16,330.8</td><td class='sb' align='right'>20,300.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Research & Development (R&D) Expense</td><td class='s' align='right'>1,228.6</td><td class='s' align='right'>2,120.0</td><td class='s' align='right'>2,793.2</td><td class='s' align='right'>2,843.0</td><td class='s' align='right'>3,762.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Selling, General & Administrative (SG&A) Expense</td><td class='s' align='right'>1,601.3</td><td class='s' align='right'>2,740.5</td><td class='s' align='right'>3,748.9</td><td class='s' align='right'>3,651.2</td><td class='s' align='right'>4,761.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>advertising</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>operating income</td><td class='s' align='right'>3,550.0</td><td class='s' align='right'>5,084.4</td><td class='s' align='right'>6,632.0</td><td class='s' align='right'>8,312.2</td><td class='s' align='right'>10,381.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>EBITDA</td><td class='sb' align='right'>4,121.9</td><td class='sb' align='right'>6,052.1</td><td class='sb' align='right'>8,131.9</td><td class='sb' align='right'>9,836.5</td><td class='sb' align='right'>11,777.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>depreciation</td><td class='s' align='right'>571.9</td><td class='s' align='right'>967.7</td><td class='s' align='right'>1,499.9</td><td class='s' align='right'>1,524.3</td><td class='s' align='right'>1,396.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>depreciation (unrecognized)</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>amortization</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>amortization of intangibles</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>operating profit after depreciation</td><td class='sb' align='right'>3,550.0</td><td class='sb' align='right'>5,084.4</td><td class='sb' align='right'>6,632.0</td><td class='sb' align='right'>8,312.2</td><td class='sb' align='right'>10,381.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>interest income</td><td class='s' align='right'>412.1</td><td class='s' align='right'>559.2</td><td class='s' align='right'>389.5</td><td class='s' align='right'>229.7</td><td class='s' align='right'>579.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>earnings from equity interest</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other income net</td><td class='s' align='right'>49.2</td><td class='s' align='right'>31.6</td><td class='s' align='right'>-73.1</td><td class='s' align='right'>-160.7</td><td class='s' align='right'>-164.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>income, acquired in process r&a</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Income, Restructuring and M&A</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other special charges</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-1,094.8</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>special income charges</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-1,094.8</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>EBIT</td><td class='sb' align='right'>4,011.3</td><td class='sb' align='right'>5,675.2</td><td class='sb' align='right'>5,853.6</td><td class='sb' align='right'>8,381.2</td><td class='sb' align='right'>10,796.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>interest expense</td><td class='s' align='right'>0.3</td><td class='s' align='right'>1.2</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>pre-tax income </td><td class='sb' align='right'>4,011.0</td><td class='sb' align='right'>5,674.0</td><td class='sb' align='right'>5,853.6</td><td class='sb' align='right'>8,381.2</td><td class='sb' align='right'>10,796.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>income taxes</td><td class='s' align='right'>933.6</td><td class='s' align='right'>1,470.3</td><td class='s' align='right'>1,626.7</td><td class='s' align='right'>1,860.7</td><td class='s' align='right'>2,291.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>minority interest</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>pref. securities of subsid. trust</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>income before income taxes</td><td class='s' align='right'>4,011.0</td><td class='s' align='right'>5,674.0</td><td class='s' align='right'>5,853.6</td><td class='s' align='right'>8,381.2</td><td class='s' align='right'>10,796.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>net income (continuing operations)</td><td class='s' align='right'>3,077.4</td><td class='s' align='right'>4,203.7</td><td class='s' align='right'>4,226.9</td><td class='s' align='right'>6,520.4</td><td class='s' align='right'>8,505.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net income (discontinued operations)</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>net income (total operations)</td><td class='sb' align='right'>3,077.4</td><td class='sb' align='right'>4,203.7</td><td class='sb' align='right'>4,226.9</td><td class='sb' align='right'>6,520.4</td><td class='sb' align='right'>8,505.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>extraordinary income/losses</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>income from cum. effect of acct. change</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>income from tax loss carryforward</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other gains/losses</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total net income</td><td class='sb' align='right'>3,077.4</td><td class='sb' align='right'>4,203.7</td><td class='sb' align='right'>4,226.9</td><td class='sb' align='right'>6,520.4</td><td class='sb' align='right'>8,505.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>normalized income</td><td class='s' align='right'>3,077.4</td><td class='s' align='right'>4,203.7</td><td class='s' align='right'>5,321.6</td><td class='s' align='right'>6,520.4</td><td class='s' align='right'>8,505.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net income available for common</td><td class='s' align='right'>3,077.4</td><td class='s' align='right'>4,203.7</td><td class='s' align='right'>4,226.9</td><td class='s' align='right'>6,520.4</td><td class='s' align='right'>8,505.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>preferred dividends</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>excise taxes</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' ><font color='#6566a3'>*</font></TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Basic EPS (Continuing)</td><td class='s' align='right'>10.21</td><td class='s' align='right'>13.53</td><td class='s' align='right'>13.46</td><td class='s' align='right'>20.62</td><td class='s' align='right'>26.69</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Basic EPS (Discontinued)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>Basic EPS from Total Operations</td><td class='sb' align='right'>10.21</td><td class='sb' align='right'>13.53</td><td class='sb' align='right'>13.46</td><td class='sb' align='right'>20.62</td><td class='sb' align='right'>26.69</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Basic EPS (Extraordinary Items)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Basic EPS (Cum. Effect of Acct. Change)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Basic EPS (Tax Loss Carry Forward)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Basic EPS (Other Gains/Losses)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>Basic EPS - Total</td><td class='sb' align='right'>10.21</td><td class='sb' align='right'>13.53</td><td class='sb' align='right'>13.46</td><td class='sb' align='right'>20.62</td><td class='sb' align='right'>26.69</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>Basic EPS - Normalized</td><td class='sb' align='right'>10.21</td><td class='sb' align='right'>13.53</td><td class='sb' align='right'>16.95</td><td class='sb' align='right'>20.62</td><td class='sb' align='right'>26.69</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' ><font color='#6566a3'>*</font></TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Diluted EPS (Continuing)</td><td class='s' align='right'>9.94</td><td class='s' align='right'>13.29</td><td class='s' align='right'>13.31</td><td class='s' align='right'>20.41</td><td class='s' align='right'>26.31</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Diluted EPS (Discontinued)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>Diluted EPS from Total Operations</td><td class='sb' align='right'>9.94</td><td class='sb' align='right'>13.29</td><td class='sb' align='right'>13.31</td><td class='sb' align='right'>20.41</td><td class='sb' align='right'>26.31</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Diluted EPS (Extraordinary)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Diluted EPS (Cum. Effect of Acct. Change)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Diluted EPS (Tax Loss Carry Forward)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Diluted EPS (Other Gains/Losses)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>Diluted EPS - Total</td><td class='sb' align='right'>9.94</td><td class='sb' align='right'>13.29</td><td class='sb' align='right'>13.31</td><td class='sb' align='right'>20.41</td><td class='sb' align='right'>26.31</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>Diluted EPS - Normalized</td><td class='sb' align='right'>6.0</td><td class='sb' align='right'>7.0</td><td class='sb' align='right'>8.0</td><td class='sb' align='right'>9.0</td><td class='sb' align='right'>10.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>Dividends Paid Per Share (DPS)</td><td class='sb' align='right'>0.00</td><td class='sb' align='right'>0.00</td><td class='sb' align='right'>0.00</td><td class='sb' align='right'>0.00</td><td class='sb' align='right'>0.00</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' >INCOME STATEMENT (YEAR-TO-DATE)</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Revenue (YTD)</td><td class='s' align='right'>10,604.9</td><td class='s' align='right'>16,594.0</td><td class='s' align='right'>21,795.6</td><td class='s' align='right'>23,650.6</td><td class='s' align='right'>29,321.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Net Income from Total Operations (YTD)</td><td class='s' align='right'>3,077.4</td><td class='s' align='right'>4,203.7</td><td class='s' align='right'>4,226.9</td><td class='s' align='right'>6,520.4</td><td class='s' align='right'>8,505.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>EPS from Total Operations (YTD)</td><td class='s' align='right'>9.94</td><td class='s' align='right'>13.29</td><td class='s' align='right'>13.31</td><td class='s' align='right'>20.41</td><td class='s' align='right'>26.31</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Dividends Paid Per Share (YTD)</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' >BALANCE SHEET</TD></TR>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >ASSETS</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cash & equivalents</td><td class='s' align='right'>3,544.7</td><td class='s' align='right'>6,081.6</td><td class='s' align='right'>8,656.7</td><td class='s' align='right'>10,197.6</td><td class='s' align='right'>13,630.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>restricted cash</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>marketable securities</td><td class='s' align='right'>7,699.2</td><td class='s' align='right'>8,137.0</td><td class='s' align='right'>7,189.1</td><td class='s' align='right'>14,287.2</td><td class='s' align='right'>21,345.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>accounts receivable</td><td class='s' align='right'>1,322.3</td><td class='s' align='right'>2,162.5</td><td class='s' align='right'>2,642.2</td><td class='s' align='right'>3,178.5</td><td class='s' align='right'>4,252.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>loans receivable</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other receivable</td><td class='s' align='right'>0.0</td><td class='s' align='right'>145.3</td><td class='s' align='right'>0.0</td><td class='s' align='right'>23.2</td><td class='s' align='right'>750.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>receivables</td><td class='s' align='right'>1,322.3</td><td class='s' align='right'>2,307.8</td><td class='s' align='right'>2,642.2</td><td class='s' align='right'>3,201.7</td><td class='s' align='right'>5,002.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>inventories, raw materials</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>inventories, work in progress</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>inventories, purchased components</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>inventories, finished goods</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>inventories, other</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>inventories, adjustments & allowances</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>inventories</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>prepaid expenses</td><td class='s' align='right'>443.9</td><td class='s' align='right'>694.2</td><td class='s' align='right'>1,404.1</td><td class='s' align='right'>836.1</td><td class='s' align='right'>1,326.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>current defered income taxes</td><td class='s' align='right'>29.7</td><td class='s' align='right'>68.5</td><td class='s' align='right'>286.1</td><td class='s' align='right'>644.4</td><td class='s' align='right'>259.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other current assets</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>total current assets</td><td class='sb' align='right'>13,039.8</td><td class='sb' align='right'>17,289.1</td><td class='sb' align='right'>20,178.2</td><td class='sb' align='right'>29,167.0</td><td class='sb' align='right'>41,562.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>land and improvements</td><td class='s' align='right'>352.1</td><td class='s' align='right'>951.3</td><td class='s' align='right'>1,725.3</td><td class='s' align='right'>1,907.5</td><td class='s' align='right'>3,969.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>building and improvements</td><td class='s' align='right'>273.3</td><td class='s' align='right'>416.9</td><td class='s' align='right'>572.9</td><td class='s' align='right'>645.9</td><td class='s' align='right'>738.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>machinery, furniture & equipment</td><td class='s' align='right'>36.0</td><td class='s' align='right'>52.1</td><td class='s' align='right'>61.5</td><td class='s' align='right'>64.8</td><td class='s' align='right'>65.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>construction in progress</td><td class='s' align='right'>850.2</td><td class='s' align='right'>1,364.7</td><td class='s' align='right'>1,643.1</td><td class='s' align='right'>1,643.6</td><td class='s' align='right'>2,329.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other fixed assets</td><td class='s' align='right'>1,778.0</td><td class='s' align='right'>2,734.9</td><td class='s' align='right'>3,573.5</td><td class='s' align='right'>3,868.3</td><td class='s' align='right'>4,670.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>total fixed assets</td><td class='sb' align='right'>3,289.6</td><td class='sb' align='right'>5,519.9</td><td class='sb' align='right'>7,576.3</td><td class='sb' align='right'>8,130.1</td><td class='sb' align='right'>11,771.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>gross fixed assets</td><td class='s' align='right'>3,289.6</td><td class='s' align='right'>5,519.9</td><td class='s' align='right'>7,576.3</td><td class='s' align='right'>8,130.1</td><td class='s' align='right'>11,771.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>accumulated depreciation</td><td class='s' align='right'>894.4</td><td class='s' align='right'>1,480.7</td><td class='s' align='right'>2,342.5</td><td class='s' align='right'>3,285.5</td><td class='s' align='right'>4,012.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net fixed assets</td><td class='s' align='right'>2,395.2</td><td class='s' align='right'>4,039.3</td><td class='s' align='right'>5,233.8</td><td class='s' align='right'>4,844.6</td><td class='s' align='right'>7,759.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>intangibles</td><td class='s' align='right'>346.8</td><td class='s' align='right'>446.6</td><td class='s' align='right'>996.7</td><td class='s' align='right'>774.9</td><td class='s' align='right'>1,044.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cost in excess</td><td class='s' align='right'>1,545.1</td><td class='s' align='right'>2,299.4</td><td class='s' align='right'>4,839.9</td><td class='s' align='right'>4,902.6</td><td class='s' align='right'>6,256.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>non-current deferred income taxes</td><td class='s' align='right'>0.0</td><td class='s' align='right'>33.2</td><td class='s' align='right'>0.0</td><td class='s' align='right'>262.6</td><td class='s' align='right'>265.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other non-current assets</td><td class='s' align='right'>1,146.3</td><td class='s' align='right'>1,228.2</td><td class='s' align='right'>519.0</td><td class='s' align='right'>545.1</td><td class='s' align='right'>965.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>total non-current assets</td><td class='s' align='right'>5,433.5</td><td class='s' align='right'>8,046.7</td><td class='s' align='right'>11,589.4</td><td class='s' align='right'>11,329.8</td><td class='s' align='right'>16,289.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total assets</td><td class='sb' align='right'>18,473.4</td><td class='sb' align='right'>25,335.8</td><td class='sb' align='right'>31,767.6</td><td class='sb' align='right'>40,496.8</td><td class='sb' align='right'>57,851.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>inventory valuation method</td><td class='sb' align='right'>C</td><td class='sb' align='right'>C</td><td class='sb' align='right'>C</td><td class='sb' align='right'></td><td class='sb' align='right'>C</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >EQUITY & LIABILITIES</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>accounts payable</td><td class='s' align='right'>211.2</td><td class='s' align='right'>282.1</td><td class='s' align='right'>178.0</td><td class='s' align='right'>215.9</td><td class='s' align='right'>2,844.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>notes payable</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>short-term debt</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>3,465.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>accrued expenses</td><td class='s' align='right'>265.9</td><td class='s' align='right'>465.0</td><td class='s' align='right'>480.3</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>accrued liabilities</td><td class='s' align='right'>722.0</td><td class='s' align='right'>1,110.4</td><td class='s' align='right'>1,344.2</td><td class='s' align='right'>2,246.5</td><td class='s' align='right'>3,256.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>deferred revenues</td><td class='s' align='right'>105.1</td><td class='s' align='right'>178.1</td><td class='s' align='right'>218.1</td><td class='s' align='right'>285.1</td><td class='s' align='right'>394.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>current deferred income taxes</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other current liabilities</td><td class='s' align='right'>0.4</td><td class='s' align='right'>0.0</td><td class='s' align='right'>81.5</td><td class='s' align='right'>0.0</td><td class='s' align='right'>37.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total current liabilities</td><td class='sb' align='right'>1,304.6</td><td class='sb' align='right'>2,035.6</td><td class='sb' align='right'>2,302.1</td><td class='sb' align='right'>2,747.5</td><td class='sb' align='right'>9,996.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>long-term debt</td><td class='s' align='right'>12.0</td><td class='s' align='right'>13.0</td><td class='s' align='right'>14.0</td><td class='s' align='right'>15.0</td><td class='s' align='right'>16.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>capital lease obligations</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>deferred income taxes</td><td class='s' align='right'>40.4</td><td class='s' align='right'>0.0</td><td class='s' align='right'>12.5</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other non-current liabilities</td><td class='s' align='right'>88.5</td><td class='s' align='right'>610.5</td><td class='s' align='right'>1,214.1</td><td class='s' align='right'>1,745.1</td><td class='s' align='right'>1,614.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>minority interest liability</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>preferred secur. of subsid. trust</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>preferred equity outside stock equity</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total non-current liabilities</td><td class='sb' align='right'>128.9</td><td class='sb' align='right'>610.5</td><td class='sb' align='right'>1,226.6</td><td class='sb' align='right'>1,745.1</td><td class='sb' align='right'>1,614.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>total liabilities</td><td class='sb' align='right'>1,433.5</td><td class='sb' align='right'>2,646.1</td><td class='sb' align='right'>3,528.7</td><td class='sb' align='right'>4,492.6</td><td class='sb' align='right'>11,610.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>preferred stock equity</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>common stock equity</td><td class='s' align='right'>17,039.8</td><td class='s' align='right'>22,689.7</td><td class='s' align='right'>28,238.9</td><td class='s' align='right'>36,004.2</td><td class='s' align='right'>46,241.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>common par</td><td class='s' align='right'>0.3</td><td class='s' align='right'>0.3</td><td class='s' align='right'>0.3</td><td class='s' align='right'>0.3</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>additional paid-in capital</td><td class='s' align='right'>11,882.9</td><td class='s' align='right'>13,241.2</td><td class='s' align='right'>14,450.3</td><td class='s' align='right'>15,816.7</td><td class='s' align='right'>18,235.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cumulative translation adjustments</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>6.7</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>retained earnings</td><td class='s' align='right'>5,133.3</td><td class='s' align='right'>9,334.8</td><td class='s' align='right'>13,561.6</td><td class='s' align='right'>20,082.1</td><td class='s' align='right'>27,868.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>treasury stock</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other equity adjustments</td><td class='s' align='right'>23.3</td><td class='s' align='right'>113.4</td><td class='s' align='right'>219.9</td><td class='s' align='right'>105.1</td><td class='s' align='right'>138.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>total capitalization</td><td class='s' align='right'>17,039.8</td><td class='s' align='right'>22,689.7</td><td class='s' align='right'>28,238.9</td><td class='s' align='right'>36,004.2</td><td class='s' align='right'>46,241.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>total equity</td><td class='sb' align='right'>8.0</td><td class='sb' align='right'>9.0</td><td class='sb' align='right'>10.0</td><td class='sb' align='right'>11.0</td><td class='sb' align='right'>12.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total liabilities & stock equity</td><td class='sb' align='right'>18,473.4</td><td class='sb' align='right'>25,335.8</td><td class='sb' align='right'>31,767.6</td><td class='sb' align='right'>40,496.8</td><td class='sb' align='right'>57,851.0</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' ><font color='#6566a3'>*</font></TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>cash flow</td><td class='s' align='right'>11.0</td><td class='s' align='right'>12.0</td><td class='s' align='right'>13.0</td><td class='s' align='right'>14.0</td><td class='s' align='right'>15.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>working capital</td><td class='s' align='right'>11,735.3</td><td class='s' align='right'>15,253.5</td><td class='s' align='right'>17,876.1</td><td class='s' align='right'>26,419.5</td><td class='s' align='right'>31,566.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>free cash flow</td><td class='s' align='right'>10.0</td><td class='s' align='right'>11.0</td><td class='s' align='right'>12.0</td><td class='s' align='right'>13.0</td><td class='s' align='right'>14.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>invested capital</td><td class='s' align='right'>17,039.8</td><td class='s' align='right'>22,689.7</td><td class='s' align='right'>28,238.9</td><td class='s' align='right'>36,004.2</td><td class='s' align='right'>46,241.0</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' ><font color='#6566a3'>*</font></TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>shares out (common class only)</td><td class='s' align='right'>309.0</td><td class='s' align='right'>236.1</td><td class='s' align='right'>240.1</td><td class='s' align='right'>317.8</td><td class='s' align='right'>317.8</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>preferred shares</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>total ordinary shares</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>total common shares out</td><td class='sb' align='right'>309.0</td><td class='sb' align='right'>312.9</td><td class='sb' align='right'>315.1</td><td class='sb' align='right'>317.8</td><td class='sb' align='right'>317.8</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>treasury shares</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.4</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='sb' width='200' align='left'>basic weighted shares</td><td class='sb' align='right'>301.4</td><td class='sb' align='right'>310.8</td><td class='sb' align='right'>314.0</td><td class='sb' align='right'>316.2</td><td class='sb' align='right'>318.7</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>diluted weighted shares</td><td class='sb' align='right'>397.7</td><td class='sb' align='right'>396.3</td><td class='sb' align='right'>393.4</td><td class='sb' align='right'>394.2</td><td class='sb' align='right'>323.3</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>number of employees</td><td class='s' align='right'>10674</td><td class='s' align='right'>16805</td><td class='s' align='right'>20222</td><td class='s' align='right'>19835</td><td class='s' align='right'>24400</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>number of part-time employees</td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' >CASH-FLOW STATEMENT</TD></TR>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >OPERATING ACTIVITIES</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net income/loss</td><td class='s' align='right'>3,077.4</td><td class='s' align='right'>4,203.7</td><td class='s' align='right'>4,226.9</td><td class='s' align='right'>6,520.4</td><td class='s' align='right'>8,505.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>depreciation</td><td class='s' align='right'>494.4</td><td class='s' align='right'>807.7</td><td class='s' align='right'>1,212.2</td><td class='s' align='right'>1,240.0</td><td class='s' align='right'>1,067.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>amortization</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>amortization of intangibles</td><td class='s' align='right'>77.5</td><td class='s' align='right'>159.9</td><td class='s' align='right'>287.7</td><td class='s' align='right'>284.3</td><td class='s' align='right'>329.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>deferred income taxes</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-164.2</td><td class='s' align='right'>-224.6</td><td class='s' align='right'>-268.1</td><td class='s' align='right'>9.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>operating gains</td><td class='s' align='right'>12.5</td><td class='s' align='right'>-39.7</td><td class='s' align='right'>-31.9</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>extraordinary gains</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>(increase) decrease in receivables</td><td class='s' align='right'>-624.0</td><td class='s' align='right'>-92.4</td><td class='s' align='right'>-334.5</td><td class='s' align='right'>-504.0</td><td class='s' align='right'>-1,129.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>(increase) decrease in inventories</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>(increase) decrease in prepaid expenses</td><td class='s' align='right'>-289.2</td><td class='s' align='right'>-298.7</td><td class='s' align='right'>-147.1</td><td class='s' align='right'>262.0</td><td class='s' align='right'>-414.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>(increase) decrease in other current assets</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>decrease (increase) in payables</td><td class='s' align='right'>95.4</td><td class='s' align='right'>70.1</td><td class='s' align='right'>-211.5</td><td class='s' align='right'>33.6</td><td class='s' align='right'>272.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>decrease (increase) in other current liabilities</td><td class='s' align='right'>461.6</td><td class='s' align='right'>569.2</td><td class='s' align='right'>394.3</td><td class='s' align='right'>618.3</td><td class='s' align='right'>1,061.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>decrease (increase) in other working capital</td><td class='s' align='right'>398.4</td><td class='s' align='right'>70.3</td><td class='s' align='right'>626.0</td><td class='s' align='right'>76.1</td><td class='s' align='right'>111.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>other non-cash items</td><td class='s' align='right'>-123.6</td><td class='s' align='right'>489.4</td><td class='s' align='right'>2,055.4</td><td class='s' align='right'>1,053.5</td><td class='s' align='right'>1,270.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>net cash from continuing operations</td><td class='s' align='right'>3,580.5</td><td class='s' align='right'>5,775.4</td><td class='s' align='right'>7,852.9</td><td class='s' align='right'>9,316.2</td><td class='s' align='right'>11,081.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net cash from discontinued operations</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>net cash from total operating activities</td><td class='sb' align='right'>3,580.5</td><td class='sb' align='right'>5,775.4</td><td class='sb' align='right'>7,852.9</td><td class='sb' align='right'>9,316.2</td><td class='sb' align='right'>11,081.0</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >INVESTING ACTIVITIES</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>sale of property, plant & equipment</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>sale of long-term investments</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>sale of short-term investments</td><td class='s' align='right'>23,107.1</td><td class='s' align='right'>15,659.5</td><td class='s' align='right'>15,762.8</td><td class='s' align='right'>22,102.9</td><td class='s' align='right'>37,099.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>purchase of property, plant & equipment</td><td class='s' align='right'>-1,902.8</td><td class='s' align='right'>-2,402.8</td><td class='s' align='right'>-2,358.5</td><td class='s' align='right'>-809.9</td><td class='s' align='right'>-4,018.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>acquisitions</td><td class='s' align='right'>-402.4</td><td class='s' align='right'>-906.7</td><td class='s' align='right'>-3,320.3</td><td class='s' align='right'>-108.0</td><td class='s' align='right'>-1,067.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>purchase of long-term investments</td><td class='s' align='right'>-1,019.1</td><td class='s' align='right'>-34.5</td><td class='s' align='right'>-47.2</td><td class='s' align='right'>-65.1</td><td class='s' align='right'>-320.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>purchase of  short-term investments</td><td class='s' align='right'>-26,681.9</td><td class='s' align='right'>-15,997.1</td><td class='s' align='right'>-15,356.3</td><td class='s' align='right'>-29,139.1</td><td class='s' align='right'>-44,735.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other investing changes, net</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>2,361.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cash from discontinued investing activities</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>net cash from investing activities</td><td class='sb' align='right'>-6,899.2</td><td class='sb' align='right'>-3,681.6</td><td class='sb' align='right'>-5,319.4</td><td class='sb' align='right'>-8,019.2</td><td class='sb' align='right'>-10,680.0</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >FINANCING ACTIVITIES</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>issuance of debt</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>5,246.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>issuance of capital stock</td><td class='s' align='right'>2,384.7</td><td class='s' align='right'>23.9</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>294.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>repayment of long-term debt</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-1,783.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>repurchase of capital stock</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-71.5</td><td class='s' align='right'>0.0</td><td class='s' align='right'>-801.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>payment of cash dividends</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>other financing charges, net</td><td class='s' align='right'>581.7</td><td class='s' align='right'>379.2</td><td class='s' align='right'>159.1</td><td class='s' align='right'>233.4</td><td class='s' align='right'>94.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cash from discontinued financing activities</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>net cash from financing activities</td><td class='sb' align='right'>2,966.4</td><td class='sb' align='right'>403.1</td><td class='sb' align='right'>87.6</td><td class='sb' align='right'>233.4</td><td class='sb' align='right'>3,050.0</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >NET CASH FLOW</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>effect exchange rate changes</td><td class='s' align='right'>19.7</td><td class='s' align='right'>40.0</td><td class='s' align='right'>-45.9</td><td class='s' align='right'>10.5</td><td class='s' align='right'>-19.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='sb' width='200' align='left'>net change in cash & equivalents</td><td class='sb' align='right'>-332.5</td><td class='sb' align='right'>2,536.9</td><td class='sb' align='right'>2,575.1</td><td class='sb' align='right'>1,540.9</td><td class='sb' align='right'>3,432.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cash at beginning of period</td><td class='s' align='right'>3,877.2</td><td class='s' align='right'>3,544.7</td><td class='s' align='right'>6,081.6</td><td class='s' align='right'>8,656.7</td><td class='s' align='right'>10,198.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>cash end of period</td><td class='s' align='right'>3,544.7</td><td class='s' align='right'>6,081.6</td><td class='s' align='right'>8,656.7</td><td class='s' align='right'>10,197.6</td><td class='s' align='right'>13,630.0</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' ><font color='#6566a3'>*</font></TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>foreign sales</td><td class='s' align='right'>4,574.8</td><td class='s' align='right'>7,896.0</td><td class='s' align='right'>11,160.0</td><td class='s' align='right'>12,457.0</td><td class='s' align='right'>15,265.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>domestic sales</td><td class='s' align='right'>6,030.1</td><td class='s' align='right'>8,698.0</td><td class='s' align='right'>10,635.6</td><td class='s' align='right'>11,193.6</td><td class='s' align='right'>14,056.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>auditor name</td><td class='s' align='right'>Ernst & Young LLP</td><td class='s' align='right'>Ernst & Young LLP</td><td class='s' align='right'>Ernst & Young LLP</td><td class='s' align='right'>Ernst & Young LLP</td><td class='s' align='right'>Ernst & Young LLP</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>auditor report</td><td class='s' align='right'>UQ</td><td class='s' align='right'>UQ</td><td class='s' align='right'>UQ</td><td class='s' align='right'>UQ</td><td class='s' align='right'>UQ</td></tr>
+<TR bgcolor='#6566a3'><TD colspan='6' align='left' class='mbw' >RATIOS CALCULATIONS</TD></TR>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >PROFIT MARGINS</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Close PE Ratio</td><td class='s' align='right'>46.3</td><td class='s' align='right'>52.0</td><td class='s' align='right'>23.1</td><td class='s' align='right'>30.4</td><td class='s' align='right'>22.6</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>High PE Ratio</td><td class='s' align='right'>51.6</td><td class='s' align='right'>56.2</td><td class='s' align='right'>52.4</td><td class='s' align='right'>30.7</td><td class='s' align='right'>24.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Low PE Ratio</td><td class='s' align='right'>33.4</td><td class='s' align='right'>32.9</td><td class='s' align='right'>18.6</td><td class='s' align='right'>13.9</td><td class='s' align='right'>16.5</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>gross profit margin</td><td class='s' align='right'>65.6</td><td class='s' align='right'>65.8</td><td class='s' align='right'>67.3</td><td class='s' align='right'>69.1</td><td class='s' align='right'>69.2</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>pre-tax profit margin</td><td class='s' align='right'>37.8</td><td class='s' align='right'>34.2</td><td class='s' align='right'>26.9</td><td class='s' align='right'>35.4</td><td class='s' align='right'>36.8</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>post-tax profit margin</td><td class='s' align='right'>29.0</td><td class='s' align='right'>25.3</td><td class='s' align='right'>19.4</td><td class='s' align='right'>27.6</td><td class='s' align='right'>29.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>net profit margin</td><td class='s' align='right'>29.0</td><td class='s' align='right'>25.3</td><td class='s' align='right'>19.4</td><td class='s' align='right'>27.6</td><td class='s' align='right'>29.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>interest coverage (cont. operations)</td><td class='s' align='right'>15608.2</td><td class='s' align='right'>4717.5</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>interest as % of invested capital</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>effective tax rate</td><td class='s' align='right'>23.3</td><td class='s' align='right'>25.9</td><td class='s' align='right'>27.8</td><td class='s' align='right'>22.2</td><td class='s' align='right'>21.2</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>income per employee</td><td class='s' align='right'>288312</td><td class='s' align='right'>250147</td><td class='s' align='right'>209023</td><td class='s' align='right'>328734</td><td class='s' align='right'>348566</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >NORMALIZED RATIOS</TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Normalized Close PE Ratio</td><td class='s' align='right'>46.3</td><td class='s' align='right'>52.0</td><td class='s' align='right'>18.4</td><td class='s' align='right'>30.4</td><td class='s' align='right'>22.6</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Normalized High PE Ratio</td><td class='s' align='right'>51.6</td><td class='s' align='right'>56.2</td><td class='s' align='right'>41.6</td><td class='s' align='right'>30.7</td><td class='s' align='right'>24.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Normalized Low PE Ratio</td><td class='s' align='right'>33.4</td><td class='s' align='right'>32.9</td><td class='s' align='right'>14.8</td><td class='s' align='right'>13.9</td><td class='s' align='right'>16.5</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>normalized net profit margin</td><td class='s' align='right'>29.0</td><td class='s' align='right'>25.3</td><td class='s' align='right'>24.4</td><td class='s' align='right'>27.6</td><td class='s' align='right'>29.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Normalized ROE</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.5</td><td class='s' align='right'>18.8</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.4</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Normalized ROA</td><td class='s' align='right'>16.7</td><td class='s' align='right'>16.6</td><td class='s' align='right'>16.8</td><td class='s' align='right'>16.1</td><td class='s' align='right'>14.7</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Normalized ROCI</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.5</td><td class='s' align='right'>18.8</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.4</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>normalized income per employee</td><td class='s' align='right'>288312</td><td class='s' align='right'>250147</td><td class='s' align='right'>263160</td><td class='s' align='right'>328734</td><td class='s' align='right'>348566</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >SOLVENCY RATIOS</TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>quick ratio</td><td class='s' align='right'>9.6</td><td class='s' align='right'>8.1</td><td class='s' align='right'>8.0</td><td class='s' align='right'>10.1</td><td class='s' align='right'>4.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>current ratio</td><td class='s' align='right'>10.0</td><td class='s' align='right'>8.5</td><td class='s' align='right'>8.8</td><td class='s' align='right'>10.6</td><td class='s' align='right'>4.2</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>payout ratio</td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>total debt/equity ratio</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.07</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>long-term debt/total capital </td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >EFFICIENCY RATIOS</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>leverage ratio</td><td class='s' align='right'>1.1</td><td class='s' align='right'>1.1</td><td class='s' align='right'>1.1</td><td class='s' align='right'>1.1</td><td class='s' align='right'>1.3</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>asset turnover</td><td class='s' align='right'>0.7</td><td class='s' align='right'>0.8</td><td class='s' align='right'>0.8</td><td class='s' align='right'>0.7</td><td class='s' align='right'>0.6</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>cash as % of revenue</td><td class='s' align='right'>33.4</td><td class='s' align='right'>36.6</td><td class='s' align='right'>39.7</td><td class='s' align='right'>43.1</td><td class='s' align='right'>46.5</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>receivables as % of revenue</td><td class='s' align='right'>12.5</td><td class='s' align='right'>13.9</td><td class='s' align='right'>12.1</td><td class='s' align='right'>13.5</td><td class='s' align='right'>17.1</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>SG&A as % of Revenue</td><td class='s' align='right'>15.1</td><td class='s' align='right'>16.5</td><td class='s' align='right'>17.2</td><td class='s' align='right'>15.4</td><td class='s' align='right'>16.2</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>R&D as % of Revenue</td><td class='s' align='right'>11.6</td><td class='s' align='right'>12.8</td><td class='s' align='right'>12.8</td><td class='s' align='right'>12.0</td><td class='s' align='right'>12.8</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >ACTIVITY RATIOS</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>revenue per $ cash</td><td class='s' align='right'>2.99</td><td class='s' align='right'>2.73</td><td class='s' align='right'>2.52</td><td class='s' align='right'>2.32</td><td class='s' align='right'>2.15</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>revenue per $  plant (net)</td><td class='s' align='right'>4.43</td><td class='s' align='right'>4.11</td><td class='s' align='right'>4.16</td><td class='s' align='right'>4.88</td><td class='s' align='right'>3.78</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>revenue per $ common equity</td><td class='s' align='right'>0.62</td><td class='s' align='right'>0.73</td><td class='s' align='right'>0.77</td><td class='s' align='right'>0.66</td><td class='s' align='right'>0.63</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>revenue per $ invested capital</td><td class='s' align='right'>0.62</td><td class='s' align='right'>0.73</td><td class='s' align='right'>0.77</td><td class='s' align='right'>0.66</td><td class='s' align='right'>0.63</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >LIQUIDITY RATIOS</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>receivables turnover</td><td class='s' align='right'>10.6</td><td class='s' align='right'>9.1</td><td class='s' align='right'>8.8</td><td class='s' align='right'>8.1</td><td class='s' align='right'>7.1</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>inventory turnover</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>receivables per day sales</td><td class='s' align='right'>44.89</td><td class='s' align='right'>50.07</td><td class='s' align='right'>43.64</td><td class='s' align='right'>48.74</td><td class='s' align='right'>61.41</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>sales per $ receivables</td><td class='s' align='right'>8.02</td><td class='s' align='right'>7.19</td><td class='s' align='right'>8.25</td><td class='s' align='right'>7.39</td><td class='s' align='right'>5.86</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>sales per $ inventory</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>revenue/assets</td><td class='s' align='right'>0.6</td><td class='s' align='right'>0.7</td><td class='s' align='right'>0.7</td><td class='s' align='right'>0.6</td><td class='s' align='right'>0.5</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>number of days cost of goods in inventory</td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td><td class='s' align='right'></td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>current assets per share</td><td class='s' align='right'>42.20</td><td class='s' align='right'>55.25</td><td class='s' align='right'>64.03</td><td class='s' align='right'>91.79</td><td class='s' align='right'>130.79</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>total assets per share</td><td class='s' align='right'>59.78</td><td class='s' align='right'>80.97</td><td class='s' align='right'>100.81</td><td class='s' align='right'>127.44</td><td class='s' align='right'>182.05</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>intangibles as % of book-value</td><td class='s' align='right'>11.1</td><td class='s' align='right'>12.1</td><td class='s' align='right'>20.7</td><td class='s' align='right'>15.8</td><td class='s' align='right'>15.8</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>inventory as % of revenue</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >CAPITAL STRUCTURE RATIOS</TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>long-term debt per share</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>current liabilities per share</td><td class='s' align='right'>4.22</td><td class='s' align='right'>6.51</td><td class='s' align='right'>7.31</td><td class='s' align='right'>8.65</td><td class='s' align='right'>31.46</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>cash per share</td><td class='s' align='right'>11.47</td><td class='s' align='right'>19.44</td><td class='s' align='right'>27.47</td><td class='s' align='right'>32.09</td><td class='s' align='right'>42.89</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>LT-Debt to Equity Ratio</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td><td class='s' align='right'>0.00</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>LT-Debt as % of Invested Capital</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>LT-Debt as % of Total Debt</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>total debt as % total assets</td><td class='s' align='right'>7.8</td><td class='s' align='right'>10.4</td><td class='s' align='right'>11.1</td><td class='s' align='right'>11.1</td><td class='s' align='right'>20.1</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>working captial as % of equity</td><td class='s' align='right'>68.9</td><td class='s' align='right'>67.2</td><td class='s' align='right'>63.3</td><td class='s' align='right'>73.4</td><td class='s' align='right'>68.3</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>revenue per share</td><td class='s' align='right'>34.32</td><td class='s' align='right'>53.03</td><td class='s' align='right'>69.17</td><td class='s' align='right'>74.43</td><td class='s' align='right'>92.27</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>book value per share</td><td class='s' align='right'>55.15</td><td class='s' align='right'>72.51</td><td class='s' align='right'>89.61</td><td class='s' align='right'>113.30</td><td class='s' align='right'>145.52</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>tangible book value per share</td><td class='s' align='right'>49.02</td><td class='s' align='right'>63.73</td><td class='s' align='right'>71.09</td><td class='s' align='right'>95.44</td><td class='s' align='right'>122.54</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>price/revenue ratio</td><td class='s' align='right'>13.42</td><td class='s' align='right'>13.04</td><td class='s' align='right'>4.45</td><td class='s' align='right'>8.33</td><td class='s' align='right'>6.44</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>price/equity ratio</td><td class='s' align='right'>8.35</td><td class='s' align='right'>9.54</td><td class='s' align='right'>3.43</td><td class='s' align='right'>5.47</td><td class='s' align='right'>4.08</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>price/tangible book ratio</td><td class='s' align='right'>9.39</td><td class='s' align='right'>10.85</td><td class='s' align='right'>4.33</td><td class='s' align='right'>6.50</td><td class='s' align='right'>4.85</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>working capital as % of price</td><td class='s' align='right'>8.2</td><td class='s' align='right'>7.1</td><td class='s' align='right'>18.4</td><td class='s' align='right'>13.4</td><td class='s' align='right'>16.7</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >PROFITABILITY</TD></TR>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>working capital per share</td><td class='s' align='right'>37.98</td><td class='s' align='right'>48.75</td><td class='s' align='right'>56.73</td><td class='s' align='right'>83.14</td><td class='s' align='right'>99.34</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>cash flow per share</td><td class='s' align='right'>11.81</td><td class='s' align='right'>16.53</td><td class='s' align='right'>18.17</td><td class='s' align='right'>25.32</td><td class='s' align='right'>31.16</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>free cash flow per share</td><td class='s' align='right'>4.13</td><td class='s' align='right'>7.88</td><td class='s' align='right'>6.90</td><td class='s' align='right'>26.43</td><td class='s' align='right'>18.87</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Return on Stock Equity (ROE)</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.5</td><td class='s' align='right'>15.0</td><td class='s' align='right'>18.1</td><td class='s' align='right'>18.4</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>Return on Capital Invested (ROCI)</td><td class='s' align='right'>7.0</td><td class='s' align='right'>8.0</td><td class='s' align='right'>9.0</td><td class='s' align='right'>10.0</td><td class='s' align='right'>11.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>Return on Assets (ROA)</td><td class='s' align='right'>16.7</td><td class='s' align='right'>16.6</td><td class='s' align='right'>13.3</td><td class='s' align='right'>16.1</td><td class='s' align='right'>14.7</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>price/cash flow ratio</td><td class='s' align='right'>39.0</td><td class='s' align='right'>41.8</td><td class='s' align='right'>16.9</td><td class='s' align='right'>24.5</td><td class='s' align='right'>19.1</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>price/free cash flow ratio</td><td class='s' align='right'>111.5</td><td class='s' align='right'>87.8</td><td class='s' align='right'>44.6</td><td class='s' align='right'>23.5</td><td class='s' align='right'>31.5</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>sales per employee</td><td class='s' align='right'>993528</td><td class='s' align='right'>987443</td><td class='s' align='right'>1077814</td><td class='s' align='right'>1192365</td><td class='s' align='right'>1201680</td></tr>
+<TR bgcolor='#aaaad3'><TD colspan='6' align='left' class='mbw' >AGAINST THE INDUSTRY RATIOS</TD></TR>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of sales-to-industry</td><td class='s' align='right'>46.3</td><td class='s' align='right'>52.4</td><td class='s' align='right'>57.1</td><td class='s' align='right'>62.3</td><td class='s' align='right'>65.5</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of earnings-to-industry</td><td class='s' align='right'>70.9</td><td class='s' align='right'>72.0</td><td class='s' align='right'>124.9</td><td class='s' align='right'>81.7</td><td class='s' align='right'>84.3</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of EPS-to-Industry</td><td class='s' align='right'>-55.5</td><td class='s' align='right'>791.1</td><td class='s' align='right'>936.8</td><td class='s' align='right'>877.3</td><td class='s' align='right'>1025.6</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of price-to-industry</td><td class='s' align='right'>845.3</td><td class='s' align='right'>1003.2</td><td class='s' align='right'>789.3</td><td class='s' align='right'>781.5</td><td class='s' align='right'>723.7</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of PE-to-Industry</td><td class='s' align='right'>0.0</td><td class='s' align='right'>126.8</td><td class='s' align='right'>84.2</td><td class='s' align='right'>89.2</td><td class='s' align='right'>70.7</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of price/book-to-industry</td><td class='s' align='right'>168.3</td><td class='s' align='right'>180.0</td><td class='s' align='right'>127.5</td><td class='s' align='right'>118.7</td><td class='s' align='right'>90.7</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of price/sales-to-industry</td><td class='s' align='right'>169.2</td><td class='s' align='right'>181.4</td><td class='s' align='right'>128.6</td><td class='s' align='right'>120.0</td><td class='s' align='right'>92.9</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of price/cashflow-to-industry</td><td class='s' align='right'>127.4</td><td class='s' align='right'>146.9</td><td class='s' align='right'>83.8</td><td class='s' align='right'>102.8</td><td class='s' align='right'>80.4</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of pric/free cashlow-to-industry</td><td class='s' align='right'>147.4</td><td class='s' align='right'>142.6</td><td class='s' align='right'>143.0</td><td class='s' align='right'>96.1</td><td class='s' align='right'>88.2</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of debt/equity-to-industry</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td><td class='s' align='right'>0.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of current ratio-to-industry</td><td class='s' align='right'>243.9</td><td class='s' align='right'>265.6</td><td class='s' align='right'>179.6</td><td class='s' align='right'>200.0</td><td class='s' align='right'>113.5</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of gross profit margin-to-industry</td><td class='s' align='right'>96.8</td><td class='s' align='right'>97.3</td><td class='s' align='right'>101.4</td><td class='s' align='right'>103.0</td><td class='s' align='right'>100.6</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of pre-tax profit margin-to-industry</td><td class='s' align='right'>145.9</td><td class='s' align='right'>137.9</td><td class='s' align='right'>175.8</td><td class='s' align='right'>129.7</td><td class='s' align='right'>129.1</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of post-tax profit margin-to-industry</td><td class='s' align='right'>153.4</td><td class='s' align='right'>139.8</td><td class='s' align='right'>218.0</td><td class='s' align='right'>132.1</td><td class='s' align='right'>128.9</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of net profit margin-to-industry</td><td class='s' align='right'>153.4</td><td class='s' align='right'>137.5</td><td class='s' align='right'>218.0</td><td class='s' align='right'>131.4</td><td class='s' align='right'>128.9</td></tr>
+<TR bgcolor='#e5e5f3' ><td class='s' width='200' align='left'>% of ROE-to-Industry</td><td class='s' align='right'>153.4</td><td class='s' align='right'>136.0</td><td class='s' align='right'>217.4</td><td class='s' align='right'>129.3</td><td class='s' align='right'>126.0</td></tr>
+<TR bgcolor='#f0f0E7' ><td class='s' width='200' align='left'>% of leverage-to-industry</td><td class='s' align='right'>91.7</td><td class='s' align='right'>84.6</td><td class='s' align='right'>91.7</td><td class='s' align='right'>91.7</td><td class='s' align='right'>100.0</td></tr>
+</table>
+</td></tr></table></span></td></tr></table></td><td valign='top' rowspan='2'><div><img src='http://images.advfn.com/imagesnew/2/us/space.gif' height='1' width='1' alt='noad'></div></td></tr><tr><td><div><img src='http://images.advfn.com/imagesnew/2/us/space.gif' height='1' width='1' alt='noad'></div></td></tr></table><br><br>
+<table id='footerTextTbl' width='100%' cellpadding='0' cellspacing='0' border='0' style='border-top:1px solid #a0a0a0;margin-top:50px;padding-top:10px;'>
+	<tr align=center class='s' width='100%'>
+		<td nowrap>
+NYSE, NASDAQ, AMEX, OTCBB, and PinkSheets stock quotes are delayed by at least 20 minutes.		</td>
+	</tr>
+	<tr><td><img src='http://images.advfn.com/imagesnew/2/gb/space.gif'  height='5'  border='0'  /></td></tr>
+<tr align=center class='s'>
+	<td nowrap style="padding:10px 0">
+
+		By accessing the services available at ADVFN you are agreeing to be bound by ADVFN's <a href='/p.php?pid=tandc_us' class='s' target='_top' rel="nofollow">Terms & Conditions</a> ::
+		<a href='/p.php?pid=help&hid=274' class='s' target='_top' rel="nofollow">Contact Us</a> ::
+		<a rel='nofollow' class='s' href='/advfnpage_affiliate.html' target='_top'>Affiliate Scheme</a>
+
+		<br>
+
+		Copyright 1999-2011 ADVFN PLC. <a href='/p.php?pid=copyright' class='s' target='_top' rel="nofollow">Copyright Notice &amp; Privacy Policy</a> ::
+		<a href='/p.php?pid=privacy' class='s' target='_top' rel="nofollow">Privacy Policy</a> ::
+		<a href='/p.php?pid=inv_warning' class='s' target='_top' rel="nofollow">Investment Warning</a> ::
+		<a href='/p.php?pid=advert_op' rel="nofollow" class='s' target='_top'>Advertise with us</a> ::
+		<a href='http://www.advfn.com/accreditations' rel='nofollow' target='_top' class='s'>Data accreditations</a> ::
+		<a href='/advfn_ir' class='s' target='_top' rel="nofollow">Investor Relations</a> ::
+		<a href='/p.php?pid=press_office' class='s' target='_top' rel="nofollow">Press office</a> ::
+		<a href='/jobs' class='s' target='_top'  title='Job Opportunities at ADVFN Plc' rel="nofollow">Jobs</a>
+	</td>
+</tr>	<tr><td class='s' align='center' style='padding-top:20px;'>33 site:2us nasdaq goog110720 00:07</td></tr>
+</table>
+</form>
+<div id='overlay'></div><SCRIPT LANGUAGE="JavaScript" SRC="http://as1.advfn.com/oasis/oasisi-j.php?s=293&w=0&h=0&t=_blank" ></SCRIPT><NOSCRIPT><A HREF="http://jpas1.advfn.com/oasis/oasisc.php?s=&w=0&h=0&t=_blank"><IMG SRC="http://as1.advfn.com/oasis/oasisi.php?s=293&w=0&h=0&t=_blank" WIDTH=0 HEIGHT=0 BORDER=0></A></NOSCRIPT><SCRIPT LANGUAGE="JavaScript" SRC="http://as1.advfn.com/oasis/oasisi-j.php?s=291&w=0&h=1&t=_blank" ></SCRIPT><NOSCRIPT><A HREF="http://jpas1.advfn.com/oasis/oasisc.php?s=&w=0&h=1&t=_blank"><IMG SRC="http://as1.advfn.com/oasis/oasisi.php?s=291&w=0&h=1&t=_blank" WIDTH=0 HEIGHT=1 BORDER=0></A></NOSCRIPT><div><img src='http://images.advfn.com/imagesnew/2/us/space.gif' height='1' width='2' alt='noad'></div></body>
+</html>
+
