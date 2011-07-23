@@ -2,3 +2,5 @@
 .bundle
 Gemfile.lock
 pkg/*
+tradeking.yml
+tk.rb
