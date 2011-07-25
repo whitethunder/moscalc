@@ -2,7 +2,6 @@ require 'moscalc/version'
 
 module Moscalc
   #TODO: General integration tests
-  require 'moscalc/data_fetcher'
   require 'moscalc/stock'
 end
 
