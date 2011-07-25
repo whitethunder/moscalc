@@ -1,0 +1,2163 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="ltr" lang="en-us" xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>
+
+
+    GOOG - Stock Quote for Google Inc - MSN Money
+
+
+    </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="US:GOOG - Get Stock quote detail for Google Inc. Stock quotes include the latest US:GOOG market price and fundamental investing data, price charts and" /><meta name="keywords" content="quote,quotes,stock quote,stocks,change,volume,day's high,day's low,open,previous close,bid,ask,52 week high,52 week low,P/E,Earnings/Share,Dividend/Share,Current Div. Yield,Market Capitalization,Shares outstanding,Google Inc,US:GOOG,Google Inc quote,US:GOOG quote,Google Inc change,US:GOOG change,Google Inc last quote" /><link rel="Shortcut Icon" href="http://col.stc.s-msn.com/br/gbl/lg/csl/favicon.ico" type="image/x-icon" /><link rel="stylesheet" type="text/css" href="http://cpc.db3.s-msn.com/MSN/sc/css/35/08311a993b5e9d708ef9b6040d0779.css" media="all" />
+    <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://cpc.db3.s-msn.com/MSN/sc/css/6f/7593fe83612dca6c589b24b8548585.css" media="all" /><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://cpc.db3.s-msn.com/MSN/sc/css/03/b9a1f64fa59b300f408327043e7dc5.css" media="all" /><![endif]-->
+    <script type="text/javascript" src="http://col.stj.s-msn.com/br/sc/js/jquery/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/(function($){$.extend({dapUrl:"http://ads.msn.com/library/dap.js",signedIn:"False",jsUrl:"http://cpc.db3.s-msn.com/MSN/sc/js/8e/fa657e7f13f1ffc23d2602e7799fca.js"})})(jQuery);document.write("<style type='text/css'>.cogr .co{display:none}.cogr .cof .co{display:block}</style>");(function(b){function a(b,d,c){return typeof b=="number"&&(a(d)?b>=d:true)&&(a(c)?b<=c:true)}function d(c,b){return typeof c=="string"&&(a(b)?c.length>=b:true)}var c=b.isArray;b.extend({isNumber:a,isString:d,isObject:function(a){return typeof a=="object"&&a!==null},isDefined:function(a){return typeof a!="undefined"},isArray:function(d,b){return c(d)&&(a(b)?d.length>=b:true)}})})(jQuery);(function(a){var g={timeout:50},h={},d=[],e=[],i,f=a.isString,l=a.isFunction,j=window;function n(n,e,o){var q;if(f(n,1)&&(q=this[n])){if(l(e))c(e,this);else if(l(q))if(a.isArray(e))c(q,this,e);else!a.isDefined(e)&&c(q,this)}else if(f(o)){var p=h[o];if(p)p.push(new b(n,e,this));else{h[o]=[new b(n,e,this)];a.ajax({url:o,dataType:"script",cache:1,success:function(){p=h[o];for(var a,b=0;a=p[b];++b)m(a)}})}}else if(f(n,1)){d.push(new b(n,e,this));if(!i)i=j.setTimeout(k,g.timeout)}}function c(f,c,d){if(c.selector&&c.size()==0){e.push(new b(f,d,c));return}if(c.selector&&a.isArray(d)&&d[0].asyncp){c=c.filter(o);e.push(new b(f,d,c.end()))}if(d)f.apply(c,d);else f.apply(c)}function o(){var b=a(this);if(b.data("asyncfilter"))return 0;b.data("asyncfilter",1);return 1}function p(){var g=e;e=[];for(var b,d,f=0;b=g[f];++f){d=a(b.callee.selector,b.callee.context);c(b.func,d,b.action)}}function k(){var c=d;d=[];for(var a,b=0;a=c[b];++b)m(a);i=d.length==0?0:j.setTimeout(k,g.timeout)}function m(a){n.call(a.callee,a.func,a.action)}function b(c,a,b){this.func=c;this.action=a;this.callee=b}a.async=a.fn.async=j.async=n;a.async.defaults=g;a.async.delayed=p})(jQuery);(function(){String.prototype.format=function(){for(var b=this,a=0;a<arguments.length;++a)b=b.replace(new RegExp("\\{"+a+"\\}","g"),arguments[a]);return b};String.prototype.findKey=function(g,b,a){b=b||"|";a=a||":";var f=null,c=this.split(b);if(c)for(var d=0;d<c.length;d++){var e=c[d].split(a);if(e[0]==g){f=e[1];break}}return f}})();(function(){String.prototype.getCookie=function(){var b=new RegExp("\\b"+this+"\\s*=\\s*([^;]*)","i"),a=b.exec(document.cookie);return a&&a.length>1?a[1]:""}})();(function(){String.prototype.setCookie=function(g,c,d,e,f){var a=[this,"=",g];if(c){var b=new Date;b.setTime(b.getTime()+c*8.64e7);a.push(";expires=");a.push(b.toUTCString())}if(d){a.push(";domain=");a.push(d)}if(e){a.push(";path=");a.push(e)}f&&a.push(";secure");document.cookie=a.join("")};String.prototype.delCookie=function(){document.cookie=this+"=; expires=Fri, 31 Dec 1999 23:59:59 GMT;"}})();var dapData=[];(function(a){var b=a.dapUrl;function c(k,m,j,f,e){e=a.extend(true,{},c.defaults,e);var l=!!e.acb;dapData[dapData.length]={params:k,width:m,height:j,id:f,acb:l};var n=!!e.imm,d=a("#"+f).parents("div.co");if(d.length){var h=d.parents("div.cogr.cotb");if(h.length)i("OnTabFocus");else{h=d.parents("div.cogr.coss");if(h.length)i("OnSlideFocus");else g()}}else g();function i(a){d.bind(a,function(){d.unbind(a,arguments.callee);g()})}function g(){n?c():a(c);function c(){var c=window;c.async("dapMgr",function(){c.dapMgr.enableACB(f,l);c.dapMgr.renderAd(f,k,m,j);a(document).ready(function(){a("div.adfb").removeClass("none")})},b)}}}c.defaults={acb:0,imm:1};a.dap=c;b&&a.async(0,0,b)})(jQuery);(function(a){a.fireAndForget=function(b){if(b){var a=new Image;a.onload=a.onerror=function(){a.onload=a.onerror=null};a.src=b.replace(/&amp;/gi,"&")}}})(jQuery);(function(b){var c={silverlightVersions:["5.0","4.0","3.0","2.0"],silverlightMimeType:"application/x-silverlight-2"};function d(l){var h=b.extend(true,{},c,l),j=window,a;if(!b.isArray(h.silverlightVersions,1))return 0;var d=0;try{var m=j.navigator,f=m.plugins;if(f&&f.length){a=f["Silverlight Plug-In"];if(a)d=/^\d+\.\d+/.exec(a.description)[0];a=0}else if(j.ActiveXObject){var k=new ActiveXObject("AgControl.AgControl");if(k){d=1;var e=b("<OBJECT/>")[0];e.codeType=h.silverlightMimeType;if(typeof e.IsVersionSupported!="undefined")for(var g,i=0;g=h.silverlightVersions[i];++i)if(e.IsVersionSupported(g)){d=g;break}e=0}}}catch(n){}return d}var a={};a.version=d();a.defaults=c;a._silverlightCount=0;a.__onSilverlightInstalledCalled=false;a.fwlinkRoot="http://go2.microsoft.com/fwlink/?LinkID=";a.__installationEventFired=false;a.onGetSilverlight=null;a.onSilverlightInstalled=function(){window.location.reload(false)};a.isInstalled=function(b){if(b==undefined)b=null;var a=false;try{var i=null,j=false;if(window.ActiveXObject)try{i=new ActiveXObject("AgControl.AgControl");if(b===null)a=true;else if(i.IsVersionSupported(b))a=true;i=null}catch(l){j=true}else j=true;if(j){var k=navigator.plugins["Silverlight Plug-In"];if(k)if(b===null)a=true;else{var h=k.description;if(h==="1.0.30226.2")h="2.0.30226.2";var c=h.split(".");while(c.length>3)c.pop();while(c.length<4)c.push(0);var e=b.split(".");while(e.length>4)e.pop();var d,g,f=0;do{d=parseInt(e[f]);g=parseInt(c[f]);f++}while(f<e.length&&d===g);if(d<=g&&!isNaN(d))a=true}}}catch(l){a=false}return a};a.WaitForInstallCompletion=function(){if(!a.isBrowserRestartRequired&&a.onSilverlightInstalled){try{navigator.plugins.refresh()}catch(b){}if(a.isInstalled(null)&&!a.__onSilverlightInstalledCalled){a.onSilverlightInstalled();a.__onSilverlightInstalledCalled=true}else setTimeout(a.WaitForInstallCompletion,3e3)}};a.__startup=function(){navigator.plugins.refresh();a.isBrowserRestartRequired=a.isInstalled(null);if(!a.isBrowserRestartRequired){a.WaitForInstallCompletion();if(!a.__installationEventFired){a.onInstallRequired();a.__installationEventFired=true}}else if(window.navigator.mimeTypes){var c=navigator.mimeTypes["application/x-silverlight-2"],d=navigator.mimeTypes["application/x-silverlight-2-b2"],e=navigator.mimeTypes["application/x-silverlight-2-b1"],b=e;if(d)b=d;if(!c&&(e||d)){if(!a.__installationEventFired){a.onUpgradeRequired();a.__installationEventFired=true}}else if(c&&b)if(c.enabledPlugin&&b.enabledPlugin)if(c.enabledPlugin.description!=b.enabledPlugin.description)if(!a.__installationEventFired){a.onRestartRequired();a.__installationEventFired=true}}if(!a.disableAutoStartup)if(window.removeEventListener)window.removeEventListener("load",a.__startup,false);else window.detachEvent("onload",a.__startup)};if(!a.disableAutoStartup)if(window.addEventListener)window.addEventListener("load",a.__startup,false);else window.attachEvent("onload",a.__startup);a.createObject=function(o,h,g,m,n,j,l){var e={},b=m,d=n,f;e.version=b.version;b.source=o;e.alt=b.alt;if(j)b.initParams=j;if(b.isWindowless&&!b.windowless)b.windowless=b.isWindowless;if(b.framerate&&!b.maxFramerate)b.maxFramerate=b.framerate;if(g&&!b.id)b.id=g;delete b.ignoreBrowserVer;delete b.inplaceInstallPrompt;delete b.version;delete b.isWindowless;delete b.framerate;delete b.data;delete b.src;delete b.alt;if(a.isInstalled(e.version)){for(var c in d)if(d[c]){if(c=="onLoad"&&typeof d[c]=="function"&&d[c].length!=1){var k=d[c];d[c]=function(a){return k(document.getElementById(g),l,a)}}var i=a.__getHandlerName(d[c]);if(i!=null){b[c]=i;d[c]=null}else throw"typeof events."+c+" must be 'function' or 'string'";}f=a.buildHTML(b)}else f=a.buildPromptHTML(e);if(h)h.innerHTML=f;else return f};a.buildHTML=function(b){var c=[];c.push('<object type="application/x-silverlight-2" data="data:application/x-silverlight-2,"');b.id!=null&&c.push(' id="'+a.HtmlAttributeEncode(b.id)+'"');b.width!=null&&c.push(' width="'+b.width+'"');b.height!=null&&c.push(' height="'+b.height+'"');c.push(" >");delete b.id;delete b.width;delete b.height;for(var d in b)b[d]&&c.push('<param name="'+a.HtmlAttributeEncode(d)+'" value="'+a.HtmlAttributeEncode(b[d])+'" />');c.push("</object>");return c.join("")};a.createObjectEx=function(c){var b=c,d=a.createObject(b.source,b.parentElement,b.id,b.properties,b.events,b.initParams,b.context);if(b.parentElement==null)return d};a.buildPromptHTML=function(c){var b="",e=a.fwlinkRoot,d=c.version;if(c.alt)b=c.alt;else{if(!d)d="";b="<a href='javascript:Silverlight.getSilverlight(\"{1}\");' style='text-decoration: none;'><img src='{2}' alt='Get Microsoft Silverlight' style='border-style: none'/></a>";b=b.replace("{1}",d);b=b.replace("{2}",e+"108181")}return b};a.getSilverlight=function(f){a.onGetSilverlight&&a.onGetSilverlight();var c="",b=String(f).split(".");if(b.length>1){var d=parseInt(b[0]);if(isNaN(d)||d<2)c="1.0";else c=b[0]+"."+b[1]}var e="";if(c.match(/^\d+\056\d+$/))e="&v="+c;a.followFWLink("114576"+e)};a.followFWLink=function(b){top.location=a.fwlinkRoot+String(b)};a.HtmlAttributeEncode=function(c){var a,b="";if(c==null)return null;for(var d=0;d<c.length;d++){a=c.charCodeAt(d);if(a>96&&a<123||a>64&&a<91||a>43&&a<58&&a!=47||a==95)b=b+String.fromCharCode(a);else b=b+"&#"+a+";"}return b};a.default_error_handler=function(e,b){var d,c=b.ErrorType;d=b.ErrorCode;var a="\nSilverlight error message     \n";a+="ErrorCode: "+d+"\n";a+="ErrorType: "+c+"       \n";a+="Message: "+b.ErrorMessage+"     \n";if(c=="ParserError"){a+="XamlFile: "+b.xamlFile+"     \n";a+="Line: "+b.lineNumber+"     \n";a+="Position: "+b.charPosition+"     \n"}else if(c=="RuntimeError"){if(b.lineNumber!=0){a+="Line: "+b.lineNumber+"     \n";a+="Position: "+b.charPosition+"     \n"}a+="MethodName: "+b.methodName+"     \n"}alert(a)};a.__cleanup=function(){for(var b=a._silverlightCount-1;b>=0;b--)window["__slEvent"+b]=null;a._silverlightCount=0;if(window.removeEventListener)window.removeEventListener("unload",a.__cleanup,false);else window.detachEvent("onunload",a.__cleanup)};a.__getHandlerName=function(c){var b="";if(typeof c=="string")b=c;else if(typeof c=="function"){if(a._silverlightCount==0)if(window.addEventListener)window.addEventListener("onunload",a.__cleanup,false);else window.attachEvent("onunload",a.__cleanup);var d=a._silverlightCount++;b="__slEvent"+d;window[b]=c}else b=null;return b};a.onRequiredVersionAvailable=function(){};a.onRestartRequired=function(){};a.onUpgradeRequired=function(){};a.onInstallRequired=function(){};a.IsVersionAvailableOnError=function(d,b){var c=false;try{if(b.ErrorCode==8001&&!a.__installationEventFired){a.onUpgradeRequired();a.__installationEventFired=true}else if(b.ErrorCode==8002&&!a.__installationEventFired){a.onRestartRequired();a.__installationEventFired=true}else if(b.ErrorCode==5014||b.ErrorCode==2106){if(a.__verifySilverlight2UpgradeSuccess(b.getHost()))c=true}else c=true}catch(e){}return c};a.IsVersionAvailableOnLoad=function(c){var b=false;try{if(a.__verifySilverlight2UpgradeSuccess(c.getHost()))b=true}catch(d){}return b};a.__verifySilverlight2UpgradeSuccess=function(e){var d=false,c="2.0.31005",b=null;try{if(e.IsVersionSupported(c+".99")){b=a.onRequiredVersionAvailable;d=true}else if(e.IsVersionSupported(c+".0"))b=a.onRestartRequired;else b=a.onUpgradeRequired;if(b&&!a.__installationEventFired){b();a.__installationEventFired=true}}catch(f){}return d};if(!window.Silverlight)window.Silverlight={};a.supportedUserAgent=function(g,f){try{var b=null;if(f)b=f;else b=window.navigator.userAgent;var a={OS:"Unsupported",Browser:"Unsupported"};if(b.indexOf("Windows NT")>=0||b.indexOf("Mozilla/4.0 (compatible; MSIE 6.0)")>=0)a.OS="Windows";else if(b.indexOf("PPC Mac OS X")>=0)a.OS="MacPPC";else if(b.indexOf("Intel Mac OS X")>=0)a.OS="MacIntel";else if(b.indexOf("Linux")>=0)a.OS="Linux";if(a.OS!="Unsupported")if(b.indexOf("MSIE")>=0){if(navigator.userAgent.indexOf("Win64")==-1)if(parseInt(b.split("MSIE")[1])>=6)a.Browser="MSIE"}else if(b.indexOf("Firefox")>=0){var e=b.split("Firefox/")[1].split("."),h=parseInt(e[0]);if(h>=2)a.Browser="Firefox";else{var i=parseInt(e[1]);if(h==1&&i>=5)a.Browser="Firefox"}}else if(b.indexOf("Chrome")>=0)a.Browser="Chrome";else if(b.indexOf("Safari")>=0)a.Browser="Safari";var d=parseInt(g),c=!(a.OS=="Unsupported"||a.Browser=="Unsupported"||a.OS=="Windows"&&a.Browser=="Safari"||a.OS.indexOf("Mac")>=0&&a.Browser=="MSIE"||a.OS.indexOf("Mac")>=0&&a.Browser=="Chrome");return a.OS.indexOf("Windows")>=0&&a.Browser=="Chrome"&&d<4?false:a.OS=="MacPPC"&&d>1?c&&a.OS!="MacPPC":a.OS=="Linux"&&d>2?c&&a.OS!="Linux":g=="1.0"?c&&b.indexOf("Windows NT 5.0")<0:c}catch(j){return false}};b.silverlight=b.extend(true,{},b.silverlight,a)})(jQuery);(function(a){var e=document,d=window,f=d.location,g={evtType:"click",spinTimeout:150,trackInfoOpts:{notrack:"notrack",cmSeparator:">",defaultModule:"body",defaultFormHeadline:"[form submit]",piitxt:"piitxt",piiurl:"piiurl",wrapperId:"wrapper",defaultConnectionType:"LAN",smpCookie:"Sample",smpExp:182,MUIDCookie:"MUID",event:{},sitePage:{},userStatic:{}}};function b(i){var d=a.extend(true,{},g,i);b.recipients=[];b.trackInfo=new c(d.trackInfoOpts);b.register=function(){b.recipients=b.recipients.concat(Array.prototype.slice.call(arguments));return b};b.trackEvent=function(h,f,a,d,g,i,c){b.trackInfo.event=h;b.trackInfo.createReport(f,a,d,g,i,c)&&e("getEventTrackingUrl",true)};b.trackPage=function(){e("getPageViewTrackingUrl",false)};a.fn.trackForms=function(){return this.each(function(){var b=a(this);b=!b.is("form")?a("form",b):b;b.bind("submit",f)})};function e(c,f){b.trackInfo.incrementEventNumber();for(var h in b.recipients){var e=b.recipients[h];a.isFunction(e[c])&&a.fireAndForget(e[c](b.trackInfo))}if(f&&!b.trackInfo.client.isIE()){var g=d.spinTimeout+ +new Date;while(g>+new Date);}}function h(c){if(c&&c.target&&c.button!=2){var e=a(c.target),d=e.filter("*[href]:first");if(!d.length)d=e.closest("*[href]");d.length&&b.trackEvent(c,d[0])}}function f(a){b.trackEvent(a)}a(document).bind(d.evtType,h).bind("impr",b.trackEvent);a(window).bind("load unload scroll",b.trackEvent);a(function(){a("body").trackForms()});return b}a.track=b;function c(s){var n=screen,g=c.prototype,b=a.extend(true,{},s);g.sitePage=b.sitePage;g.userStatic=b.userStatic;var i,j,m,h=-1,l,k;g.client=a.extend({screenResolution:function(){return n.width+"x"+n.height},clientId:function(){if(!k){var a=b.MUIDCookie.getCookie();k=a?a:b.userStatic.requestId}return k},colorDepth:n.colorDepth,cookieSupport:function(){return e.cookie?"Y":"N"},height:function(){!i&&p();return i},width:function(){!j&&p();return j},isIE:function(){if(!a.isDefined(m))m=a.isDefined(d.ActiveXObject);return m},connectionType:function(){return b.defaultConnectionType},pageUrl:f.href,referrer:e.referrer,sample:function(){if(h==-1){var d=b.smpCookie.getCookie();h=parseInt(d);h=!isNaN(h)?h%100:Math.floor(Math.random()*100);var a=location.hostname.match(/([^.]+\.[^.]*)$/),c=a?a[0]:"";b.smpCookie.setCookie(h,b.smpExp,c)}return h},timezone:function(){if(!l){var b=new Date,a=new Date;a.setMonth(b.getMonth()+6);var c=Math.round(b.getTimezoneOffset()/60)*-1,d=Math.round(a.getTimezoneOffset()/60)*-1;l=c<d?c:d}return l}},g.client);g.createReport=function(d,j,f,q,t,p){var c,g=this;if(!d&&g.event&&g.event.target)d=g.event.target;if(d&&!a(d).attr(b.notrack)){var e=a(d);c={destinationUrl:j,campaignId:"",contentElement:t,contentModule:q,headline:f,sourceIndex:d.sourceIndex?d.sourceIndex:"",nodeName:d.nodeName};if(!j){var s=d.href||d.action;c.destinationUrl=e.attr(b.piiurl)||s||""}if(!f){f=e.attr(b.piitxt);if(!f)if(e.filter("form").length)f=b.defaultFormHeadline;else f=e.text()||e.attr("alt")||a("[alt]",e).attr("alt");c.headline=f}c.campaignId=p||r(c.destinationUrl);var h=e.parents("[id]");if(!c.contentModule){for(var k=[],l,m=0;l=h[m];++m){var n=l.id;if(n==b.wrapperId)break;k.splice(0,0,n)}c.contentModule=k.join(b.cmSeparator);if(!c.contentModule)c.contentModule=b.defaultModule}if(!c.contentElement){var i=0;if(e.attr("id"))i=1;else if(h.length)i=o(h[0],d,-1);c.contentElement=i}}g.report=c;return c};g.report={};g.incrementEventNumber=function(){this.userDynamic.eventNumber++};g.isSampled=function(a){return!(g.client.sample()>a)};g.generateUrl=function(i,j,h,k,b){var f="",d=a.extend(true,{},k,j);b=a.extend(true,{},h,b);if(b)for(var c in b)if(this[c]){var g=q(b[c],this[c]);d=a.extend(true,{},g,d)}var e=a.param(d);if(e.length>0)f=i+e;return f};function q(c,d){var e=[];if(c&&d)for(var f in c){var g=c[f],b=d[g];if(b)e[f]=a.isFunction(b)?b():b}return e}function o(h,f,c){if(!c)c=-1;for(var i=a(h).children(),d,g=0;c<0&&(d=i[g]);++g){if(d==f)return-c;var e=a(d);if(!e.attr("id")){if(e.attr("href")&&!e.attr(b.notrack))--c;c=o(d,f,c)}}return c}function r(b){var a=/\bGT1=(\d+)/i.exec(b);return a?a[1]:""}function p(){if(a.isNumber(d.innerWidth)){j=d.innerWidth;i=d.innerHeight}else{var b=e.documentElement;if(b&&b.clientWidth){j=b.clientWidth;i=b.clientHeight}else if(b.offsetWidth){j=b.offsetWidth;i=b.offsetHeight}}}}c.prototype.client={};c.prototype.userDynamic={isHomePage:function(){var b=e.documentElement;if(a.isDefined(b.addBehavior)){b.addBehavior("#default#homePage");return typeof b.isHomepage!=undefined&&b.isHomepage(f.href)?"Y":"N"}return 0},anid:function(){return"ANON".getCookie()},timeStamp:function(){return+new Date},eventNumber:0};b.trackInfo=c})(jQuery);(function(b){var a=new Date,d={base:"",linkTrack:1,samplingRate:100,common:{v:"Y",j:"1.3"},commonMap:{client:{c:"colorDepth"}},page:{v1:a.getMonth()+1+"/"+a.getFullYear(),v2:a.getMonth()+1+"/"+a.getDate()+"/"+a.getFullYear(),t:c()},pageMap:{sitePage:{c3:"pageVersion"}},link:{t:c(),ndh:1,pidt:1,pe:"lnk_o"},linkMap:{sitePage:{c38:"pageVersion"}},eventList:["click","mouseenter","mouseleave","submit"]};b.track.omniTracking=function(e){var c=this,a=c.opts=b.extend(true,{},d,e);c.getEventTrackingUrl=function(c){var e="";if(c.isSampled(a.samplingRate)){var d=c.event?c.event.type:"";if(d=="impr")return this.getPageViewTrackingUrl(c);if(a.linkTrack&&b.inArray(d,a.eventList)!=-1){var g=b.extend(true,{},a.link,{c11:d=="mouseenter"||d=="mouseleave"?"hover":d,events:"events4"}),f=c.generateUrl("",a.common,a.commonMap,g,a.linkMap);e=a.base.format(c.userDynamic.timeStamp(),f)}}return e};c.getPageViewTrackingUrl=function(b){var c="";if(b.isSampled(a.samplingRate)){var d=b.generateUrl("",a.common,a.commonMap,a.page,a.pageMap);c=a.base.format(b.userDynamic.timeStamp(),d)}return c}};function c(){var b=[a.getDate(),"/",a.getMonth(),"/",a.getFullYear()," ",a.getHours(),":",a.getMinutes(),":",a.getSeconds()," ",a.getDay()," ",a.getTimezoneOffset()];return b.join("")}b.track.omniTracking.defaults=d})(jQuery);(function(a){if(a.track&&a.track.trackInfo){var c=a.track.trackInfo.prototype.client,b=-1;if(c){function d(){if(b==-1)b=a.silverlight&&a.silverlight.version?a.silverlight.version:"";return b}c.silverlightVersion=d;c.silverlightEnabled=function(){return Number(d()>0)}}}})(jQuery);(function(a){var b={base:"",samplingRate:100,eventAlias:{submit:"click",mouseenter:"click",mouseleave:"click"}};a.track.genericTracking=function(e){var d=this,c=d.opts=a.extend(true,{},b,e);d.getEventTrackingUrl=function(f,d){var g="";if(f.isSampled(c.samplingRate)){d=d?d:f.event.type;var b=c[d];if(!a.isDefined(b)&&a.isDefined(c.eventAlias[d]))b=c[c.eventAlias[d]];if(a.isDefined(b)){var e=b.condition;if(!a.isDefined(e)||a.isNumber(e)&&e||a.isFunction(a[e])&&a[e].call()){var h=c.base+(b.url?b.url:"");g=f.generateUrl(h,c.common,c.commonMap,b.param,b.paramMap)}}}return g};d.getPageViewTrackingUrl=function(a){return d.getEventTrackingUrl(a,"impr")}}})(jQuery);(function($){$.async(0,0,$.jsUrl);})(jQuery);//]]></script>
+<script type="text/javascript">/*<![CDATA[*/$.track({"trackInfoOpts":{"sitePage":{"DomainIdentifier":"7290","PropertyIdentifier":"7288","lang":"en-us","pageName":"QuotesDetail mktPage","department":"investing","subDepartment":"stocks","contentType":"quote","sourceUrl":null,"pageId":"urn:MSN:2E1BFFEB-592A-4EF6-AA48-50C799AD7D89"},"userStatic":{"signedIn":"false","requestId":"7724bc4c44554f5f8521f4190183a088"}}}).register(new $.track.genericTracking({"base":"http://udc.msn.com/c.gif?","commonMap":{"event":{"evt":"type"},"userStatic":{"rid":"requestId"},"userDynamic":{"cts":"timeStamp"},"client":{"clid":"clientId"}},"impr":{"param":{"evt":"impr","js":"1"},"paramMap":{"client":{"rf":"referrer","cu":"pageUrl","sl":"silverlightEnabled","slv":"silverlightVersion","bh":"height","bw":"width","scr":"screenResolution","sd":"colorDepth"},"sitePage":{"di":"DomainIdentifier","St.dpt":"department","St.sdpt":"subDepartment","dv.ContntTp":"contentType","pi":"PropertyIdentifier","ps":"PropertySpecific","mk":"lang","pn":"pageName","pid":"pageId","mv":"pageVersion","su":"sourceUrl"},"userStatic":{"pp":"signedIn"},"userDynamic":{"dv.snlogin":"settings"}}},"click":{"paramMap":{"report":{"ce":"contentElement","cm":"contentModule","hl":"headline","du":"destinationUrl"}}},"unload":{}}),new $.track.genericTracking({"base":"http://b.scorecardresearch.com/b?","impr":{"param":{"c1":"2","c2":"3000001"},"paramMap":{"client":{"c7":"pageUrl","c8":"pageTitle","c9":"referrer"},"userDynamic":{"rn":"timeStamp"}}}}),new $.track.omniTracking({"base":"http://msnportal.112.2o7.net/b/ss/msnportalusenmoney/1/H.7-pdv-2/{0}?[AQB]&amp;{1}&amp;[AQE]","samplingRate":9,"commonMap":{"client":{"bh":"height","bw":"width","g":"pageUrl","s":"screenResolution","k":"cookieSupport"},"sitePage":{"pageName":"pageName"},"userDynamic":{"hp":"isHomePage"}},"common":{"ns":"msnportal"},"page":{"server":"Msn.com","cc":"USD","c1":"Portal"},"pageMap":{"client":{"c29":"pageUrl","c42":"silverlightVersion","ct":"connectionType","r":"referrer"},"sitePage":{"c1":"productName","c3":"department","c4":"subDepartment","c5":"contentType","c2":"lang","ch":"siteGroupId"},"userStatic":{"c22":"signedIn","c25":"birthdate","c26":"gender"},"userDynamic":{"c19":"settings","c7":"defaultSlotTrees","c23":"anid"}},"link":{"events":"events4"},"linkMap":{"sitePage":{"c17":"pageName"},"report":{"c12":"destinationUrl","c13":"contentModule","c15":"contentElement","c16":"headline","c18":"campaignId","oi":"sourceIndex","oid":"destinationUrl","ot":"nodeName","pev1":"destinationUrl","pev2":"headline","v11":"headline","v12":"destinationUrl"}},"eventList":["click","mouseenter","mouseleave","submit","impr"]}),new $.track.genericTracking({"base":"http://c.msn.com/c.gif?","commonMap":{"userStatic":{"rid":"requestId"},"userDynamic":{"rnd":"timeStamp"},"client":{"clid":"clientId"}},"impr":{"param":{"jsa":"view","udc":"true"},"paramMap":{"client":{"tp":"pageUrl","rf":"referrer"},"sitePage":{"di":"DomainIdentifier","pi":"PropertyIdentifier","ps":"PropertySpecific","lang":"lang","rid":"requestId"}}}}));//]]></script>
+
+
+      <script type="text/javascript" src="/views/shared/common/content/quotes.js"></script>
+      <script type="text/javascript" src="http://ajax.microsoft.com/ajax/4.0/1/MicrosoftAjax.js"></script>
+      <script type="text/javascript" src="http://ajax.microsoft.com/ajax/beta/0909/MicrosoftAjaxTemplates.js"></script>
+
+
+
+    <script type="text/javascript">
+        $.quotebroker.init
+        (
+            {
+                Src:"services.money.msn.com",
+                Interval:15,
+                Timeout:1200
+            }
+        )
+    </script>
+
+
+</head>
+
+<body >
+     <div id="wrapper">
+
+<div class="none" id="impr">
+<script type="text/javascript">/*<![CDATA[*/
+    $("<iframe style=\"z-index:-1;height:1;width:1;display:none;visibility:hidden;\" src=\"http://analytics.msn.com/sync.html\"></iframe>").prependTo("div#impr");
+    $(document).trigger("impr");//]]></script></div>
+
+        <div id="head">
+
+<div class="head1 w12">
+        <div class="top">
+            <ul class="network flat">
+                <li id="more" class="first flyout noscript">
+                    <a href="http://specials.msn.com/alphabet.aspx" class="flytrigger">More</a><div class="flycontainer">
+	<ul class="section">
+<li><a href="http://autos.msn.com/">Autos</a></li><li><a href="http://msn.careerbuilder.com/msn/default.aspx">Careers &amp; Jobs</a></li><li><a href="http://wonderwall.msn.com/">Celebrities</a></li><li><a href="http://www.delish.com/">Delish</a></li><li><a href="http://entertainment.msn.com/">Entertainment</a></li>
+	</ul><ul class="section">
+<li><a href="http://zone.msn.com/en-us/home">Games</a></li><li><a href="http://glo.msn.com/">Glo</a></li><li><a href="http://health.msn.com/">Health, Diet &amp; Fitness</a></li><li><a href="http://lifestyle.msn.com/">Lifestyle</a></li><li><a href="http://local.msn.com/news.aspx">Local Edition</a></li>
+	</ul><ul class="section">
+<li><a href="http://moneycentral.msn.com/home.asp">Money</a></li><li><a href="http://www.msnbc.msn.com/">News</a></li><li><a href="http://dating.msn.com/index.aspx?TrackingID=516163&amp;BannerID=670269">Online dating</a></li><li><a href="http://realestate.msn.com/">Real Estate &amp; Rentals</a></li><li><a href="http://msn.foxsports.com/">Sports</a></li>
+	</ul><ul class="section">
+<li><a href="http://www.bing.com/travel/?cid=msn_nav_lifestyle&amp;FORM=MSNNAV">Travel</a></li><li><a href="http://www.bing.com/videos/browse?from=en-us_msnhp">Video</a></li><li><a href="http://local.msn.com/weather.aspx">Weather</a></li><li><a href="http://msn.whitepages.com/">White Pages</a></li><li><a href="http://specials.msn.com/alphabet.aspx">Full MSN Index</a></li>
+	</ul>
+</div>
+                </li>
+                <li id="hotmail" class="flyout noscript">
+                    <a href="http://mail.live.com/" class="flytrigger unreadcount">Hotmail</a>
+                    <div class="flycontainer">
+                        <ul class="section">
+                            <li><a href="http://mail.live.com/?rru=inbox">Inbox</a></li>
+                            <li><a href="http://calendar.live.com/">Calendar</a></li>
+                            <li><a href="http://mail.live.com/?rru=contacts">Contacts</a></li>
+                            <li><span class="divider"></span></li>
+                            <li><a href="http://mail.live.com/?rru=compose">Send e-mail</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li id="messenger"><a href="http://explore.live.com/windows-live-messenger">Messenger</a></li>
+                <li class="last"><a href="http://www.bing.com/search/?FORM=MSMONY&mkt=en-US">Bing</a></li>
+            </ul>
+            <ul class="user flat">
+                <li class="first  ">
+
+                        <a id="hplink" href="http://www.myhomemsn.com/">Make MSN your homepage</a>
+                        <a id="binglink" href="http://www.bing.com/customizeBrowser">Make Bing your decision engine</a>
+
+                </li>
+
+        <li class="last"><span id="username">Welcome</span></li>
+
+            </ul>
+        </div>
+        <div class="bottom">
+            <div class="left">
+                <div class="brand">
+                    <div class="logo">
+                        <a href="http://www.msn.com/" title="msn.com"></a>
+                    </div>
+                    <div class="channel">
+                        <a href="http://money.msn.com/">Money</a>
+                    </div>
+                </div>
+
+
+<div class="websearch cf">
+    <input type="hidden" value="Search Money" class="helpertext" />
+    <h2>
+        Bing Search:</h2>
+    <form id="srchfrm1" method="get" action="http://moneycentral.msn.com/money.search">
+    <ul class="flat scopes">
+
+        <li class="first selected"><a href="http://moneycentral.msn.com/money.search">
+            Money</a></li>
+
+        <li class="sp">|</li>
+        <li class="last"><a href="http://www.bing.com/search">
+            Web</a></li>
+
+    </ul>
+
+    <div class="searchform typing">
+        <label accesskey="s" for="q1">
+            Bing search:</label>
+        <div class="searchinputarea">
+            <input id="q1" title="Search for" maxlength="215" name="q" class="text" />
+
+            <input class="image" alt="Search" title="Search" src="http://cpc.db3.s-msn.com/MSN/sc/i/7a/673791ebd41ee48b224a1bf7ae1eb2.gif" type="image" />
+            <img alt="" class="blogo" width="54" height="33" src="http://cpc.db3.s-msn.com/MSN/sc/i/64/01c729a3d8dc2b8e15ae60b04f30ed.gif" />
+            <input type="hidden" name="form" value="MSMONY" />
+            <input type="hidden" name="mkt" value="en-us" />
+
+        </div>
+    </div>
+    </form>
+    <div class="pop">
+        </div>
+</div>
+
+            </div>
+            <div class="right">
+                <div class="popt">
+                    <ul class="flat">
+
+                                    <li class="flyout noscript first">
+
+                                <span class="flytrigger">Page options</span>
+                                <div class="flycontainer alignright">
+                                    <ul class="section">
+                                        <li><a href="http://onlinehelp.microsoft.com/en-us/msn/ff808788.aspx">Make text larger</a></li>
+                                        <li><a class="icon on" id="asugoff"><img alt="enabled" height="7" width="7" src="http://cpc.db3.s-msn.com/MSN/sc/i/db/48883f57356bd8c56698a9046e20fd.png" /><span>Show search suggestions</span></a></li>
+                                        <li><a href="http://onlinehelp.microsoft.com/en-us/msn/money.aspx">Help</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                         <li class="sp">|</li>
+                            <li class="last">
+            <a href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;ct=1311612006&amp;rver=6.1.6195.0&amp;wp=MBI&amp;wreply=http:%2F%2Finvesting.money.msn.com%2Finvestments%2Fstock-price%3Fsymbol%3DGOOG&amp;lc=1033&amp;id=250710" class="dMSNME_1">Sign in</a>
+             </li>
+
+                        </ul>
+                </div>
+                <div class="echoice">
+
+                </div>
+            </div>
+    </div>
+</div>
+
+        </div>
+
+<div id="nav">
+    <div class="nav1">
+	<div class="t1tbg">
+
+	</div><div class="t1">
+		<ul>
+			<li class="first flyout noscript"><a class="flytrigger" href="http://money.msn.com/">Home</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li class="first"><a href="http://money.msn.com/">Home</a></li><li><a href="http://money.msn.com/business-news/">News</a></li><li><a href="http://money.msn.com/investing/">Investing</a></li><li><a href="http://money.msn.com/personal-finance/">Personal Finance</a></li><li><a href="https://secure.bundle.com/msn/">My Money</a></li><li><a href="http://money.msn.com/taxes/">Taxes</a></li><li><a href="http://realestate.msn.com/">Real Estate</a></li><li><a href="http://careers.msn.com/">Careers</a></li><li class="last"><a href="http://autos.msn.com/">Autos</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://money.msn.com/business-news/">News</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li class="first"><a href="http://money.msn.com/business-news/">headlines</a></li><li class="last"><a href="http://money.msn.com/money-video/">Video</a></li>
+				</ul>
+			</div></li><li class="selected"><a class="flytrigger" href="http://money.msn.com/investing/">Investing</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li class="first"><a href="http://moneycentral.msn.com/investor/portfolio-manager/portfolio.aspx">Portfolio Manager</a></li><li><a href="http://investing.money.msn.com/investments/market-summary/">Markets</a></li><li class="selected"><a href="http://money.msn.com/stocks/">Stocks</a></li><li><a href="http://money.msn.com/mutual-fund/">Mutual Funds</a></li><li><a href="http://money.msn.com/exchange-traded-fund/">ETFs</a></li><li><a href="http://money.msn.com/stock-broker/default.aspx">broker center</a></li><li class="last"><a href="http://money.msn.com/investment-advice/">investor pro</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://money.msn.com/personal-finance/">Personal Finance</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li class="first"><a href="http://money.msn.com/budgeting-savings/">Saving &amp; Budgeting</a></li><li><a href="http://money.msn.com/credit-and-debt/">Credit &amp; Debt</a></li><li><a href="http://money.msn.com/home-loans/">Loans</a></li><li><a href="http://money.msn.com/retirement/">Retirement</a></li><li><a href="http://money.msn.com/insurance/">Insurance</a></li><li><a href="http://money.msn.com/taxes/">Taxes</a></li><li class="last"><a href="http://money.msn.com/saving-money/video.aspx">your money</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="https://secure.bundle.com/msn/">My Money</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://realestate.msn.com/">Real Estate</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://careers.msn.com/">Careers</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://autos.msn.com/">Autos</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li></li>
+				</ul>
+			</div></li><li class="last flyout noscript"><a class="flytrigger" href="http://theinvestedlife.msn.com/?source=msnmoney">The Invested Life</a><div class="flycontainer noalign">
+				<ul class="sub">
+					<li></li>
+				</ul>
+			</div></li>
+		</ul><div class="t1bbg">
+
+		</div>
+	</div>
+</div>
+</div>
+        <div id="page" class="pa w12">
+
+    <div id="contenttop">
+        <script type="text/javascript" src="http://moneycentral.msn.com/inc/scr/ww.js"></script>
+<script type="text/javascript">
+    (function($)
+    {
+        $.extend(
+        {
+            qbeReadUserListUrl: "/mv/RecentQuotes/",
+            qbeDynamicUrl: "http%3a%2f%2fservices.money.msn.com%2fquoteservice%2fstreaming%3fsymbol%3d%7b0%7d%26format%3djson",
+            qbeDefault: "$INDU,$COMPX,$INX,-GC,TC10Y",
+            qbeRefreshRate: 20000,
+            qbePageGroup: "INVXTA",
+            qbeAP: "1440",
+            qbeMarketUrl: "/mv/MarketStatus",
+            qbeWWServiceHost: "moneycentral.msn.com",
+            qbeGetQuoteUrl: "/investments/stock-price?symbol=",
+            marketStatusLinkUrl: "/investments/market-summary",
+            qbeFadeTimer: 1000,
+            qbePauseTimer: 5000,
+            qbeStreamingTimeout: 1200 * 1000,
+            qbeLocalServer: "http://investing.money.msn.com"
+        })
+    })(jQuery);
+</script>
+
+
+<div class="qbe">
+</div>
+
+<style type="text/css">
+    .qbeitemcollection
+    {
+        filter: alpha(opacity=90);
+    }
+</style>
+
+<script type="text/javascript">
+    // This is the binding for QBE to the service host
+    $.quotewheel.registerBindToElement({
+        Host: $.qbeWWServiceHost,
+        Element: "txtqbe",
+        QuoteDetailUrl: function (symbol)
+        {
+            return $.qbeGetQuoteUrl + symbol + "&ocid=qbes";
+        }
+    })
+</script>
+
+        <div id="contentheader">
+
+<div class="pageheader">
+
+	<script type="text/javascript">
+	    $.quotebroker.registerBindToElement({ Tickers: [{ Symbol: "GOOG", Type: "Equity", JPFundBaseUnit: "0", CountryCode: "4628", IndicatorKey: "RTChange"}], Element: "quickquote" });
+	</script>
+
+    <div id="quickquote" class="sys-template">
+    <div class="qprc"><span class="tck">GOOG</span>
+
+        <span class="lp"><span sys:innerhtml="{binding RTLast}" sys:codeafter="$.quotebroker.setTitleProperties($dataItem, 'RTLast')">12.34</span></span><span><img height="16" width="16" sys:codeafter="$.quotebroker.DirectionalIndicator.setImageProperties($element,$dataItem)" src="http://cpc.db3.s-msn.com/MSN/sc/i/f0/f79515321c02a38539f048789011e7.gif" alt="Up"/></span><span class="chg"><span sys:innerhtml="{binding RTChange}"><span class="up">+5.70</span></span></span>
+        <span class="pchg"><span sys:innerhtml="{binding RTPercentChange}" sys:codeafter="$.quotebroker.setDisplay($element, $dataItem, 'RTPercentChange')"><span class="up">+0.92%</span></span></span>
+
+         <span class="msg">Real time</span>
+
+    </div>
+    <div class="cn">
+
+        <a href="http://investing.money.msn.com/investments/company-report/?symbol=GOOG">Google Inc</a>
+
+        <span class="ex">(NASDAQ)</span>
+        </div>
+        <div class="cls">
+
+        </div>
+
+        <ul class="tlbar">
+            <li>
+                <a href="http://money.msn.com/stock-broker/default.aspx"><img src="http://cpc.db3.s-msn.com/MSN/sc/i/46/85959facaafc7f179ec6e8684e1eea.png" width="51px" height="18px" alt="Trade now" title="Trade now"/></a>
+            </li>
+            <li>
+                <a href="/stock-market-quotes?symbol=GOOG"><img src="http://cpc.db3.s-msn.com/MSN/sc/i/e7/5969731b518629192c6680fd5c17af.gif" onmouseover="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/73/46453039a51293fd8e87699e057497.gif'" onmouseout="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/e7/5969731b518629192c6680fd5c17af.gif'" alt="Add to Watchlist" title="Add to Watchlist"/></a>
+            </li>
+            <li>
+                <a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=us:GOOG"><img src="http://cpc.db3.s-msn.com/MSN/sc/i/c7/2c3661f57c7b7a62ec197b650b3d50.png" onmouseover="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/d3/52b36ef5dccdef2c8da154133243fe.png'" onmouseout="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/c7/2c3661f57c7b7a62ec197b650b3d50.png'" alt="Get Chart" title="Get Chart"/></a>
+            </li>
+            <li>
+                <a href="http://moneycentral.msn.com/investor/research/printrep.asp?symbol=GOOG"><img src="http://cpc.db3.s-msn.com/MSN/sc/i/6e/347ab8f2a233705137650f0604aee5.gif" onmouseover="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/a9/30ff118c1f2d8e24bf5a8df8d2d203.gif'" onmouseout="this.src='http://cpc.db3.s-msn.com/MSN/sc/i/6e/347ab8f2a233705137650f0604aee5.gif'" alt="Print report" title="Print report"/></a>
+            </li>
+        </ul>
+
+     </div>
+
+</div>
+
+
+<div class="fourtile center noborder">
+
+<ul>
+<li class="first">
+<div class="ad">
+    <div id="ad5d05afc008404597beffe6706b9d8526">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INV4QA&amp;AP=1026", 120, 60, "ad5d05afc008404597beffe6706b9d8526",{acb:false});//]]></script>
+
+    </div>
+
+</div>
+</li><li>
+<div class="ad">
+    <div id="ad49362b7ea5614d15bc2313fb0e918512">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INV4QB&amp;AP=1026", 120, 60, "ad49362b7ea5614d15bc2313fb0e918512",{acb:false});//]]></script>
+
+    </div>
+
+</div>
+</li><li>
+<div class="ad">
+    <div id="ada367a371256440c3aa2753b17f69beda">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INV4QC&amp;AP=1026", 120, 60, "ada367a371256440c3aa2753b17f69beda",{acb:false});//]]></script>
+
+    </div>
+
+</div>
+</li><li class="last">
+<div class="ad">
+    <div id="ade02630ee37d449b4a8327eb405ca7667">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INV4QD&amp;AP=1026", 120, 60, "ade02630ee37d449b4a8327eb405ca7667",{acb:false});//]]></script>
+
+    </div>
+
+</div>
+</li>
+</ul>
+</div>
+        </div>
+
+    </div>
+    <div class="cogr cotb">
+	<div class="cotb js">
+		<ul class="cotb cf tier3nav">
+			<li class="first tabsel"><span class="flytrigger"><a href="http://investing.money.msn.com/investments/stock-price?symbol=GOOG">QUOTE</a></span><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first tabsel"><span><a href="http://investing.money.msn.com/investments/stock-price?symbol=GOOG">SUMMARY</a></span></li><li><a href="http://moneycentral.msn.com/investor/options?symbol=GOOG">OPTIONS</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?PT=7&amp;compsyms=&amp;D4=1&amp;DD=1&amp;D5=0&amp;DCS=2&amp;MA0=0&amp;MA1=0&amp;CF=0&amp;D7=&amp;D6=&amp;showtablbt=View+price+history+with+dividends%2Fsplits&amp;nocookie=1&amp;SZ=0&amp;symbol=GOOG">HISTORICAL PRICES</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://investing.money.msn.com/investments/company-report?symbol=GOOG">FUNDAMENTALS</a><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first"><a href="http://investing.money.msn.com/investments/company-report?symbol=GOOG">COMPANY REPORT</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/results/hilite.asp?symbol=GOOG">FINANCIAL HIGHLIGHTS</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/results/compare.asp?symbol=GOOG">KEY RATIOS</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/sec/filing.asp?symbol=GOOG">SEC FILINGS</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?symbol=GOOG">EARNINGS</a><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first"><a href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?symbol=GOOG">EARNINGS ESTIMATES</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsSurprise&amp;symbol=GOOG">EARNINGS SURPRISES</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=ConsensusEPSTrend&amp;symbol=GOOG">CONSENSUS EPS TREND</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&amp;symbol=GOOG">EARNINGS GROWTH RATES</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://moneycentral.msn.com/investor/invsub/analyst/recomnd.asp?symbol=GOOG">ANALYSIS</a><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first"><a href="http://moneycentral.msn.com/investor/invsub/analyst/recomnd.asp?symbol=GOOG">ANALYST RATINGS</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/StockRating/srsmain.asp?symbol=GOOG">STOCKSCOUTER</a></li>
+				</ul>
+			</div></li><li class="flyout noscript"><a class="flytrigger" href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?symbol=GOOG">FINANCIALS</a><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first"><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?symbol=GOOG">INCOME STATEMENT</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=Balance&amp;stmtView=Qtr&amp;symbol=GOOG">BALANCE SHEET</a></li><li><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=CashFlow&amp;stmtView=Ann&amp;symbol=GOOG">CASH FLOW</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=10YearSummary&amp;symbol=GOOG">10-YR SUMMARY</a></li>
+				</ul>
+			</div></li><li class="last flyout noscript"><a class="flytrigger" href="http://moneycentral.msn.com/ownership?symbol=GOOG">OWNERSHIP</a><div class="subnav flycontainer noalign">
+				<ul class="cf">
+					<li class="first"><a href="http://moneycentral.msn.com/ownership?symbol=GOOG">OWNERSHIP SUMMARY</a></li><li class="last"><a href="http://moneycentral.msn.com/investor/invsub/insider/trans.asp?symbol=GOOG">INSIDER TRADING</a></li>
+				</ul>
+			</div></li>
+		</ul>
+	</div>
+</div>
+
+            <div id="content">
+                <div id="subhead">
+
+                </div>
+                <div id="area1" class="re w8">
+
+
+    <div  class="ro"  id="grid_1_1"><div  class="ce ce1 w4" >
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>DETAILS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+    <table class=" mnytbl" summary="">
+        <caption class="hide"></caption>
+
+            <thead>
+                <tr  class="hide">
+                    <th id="tbl17c451c381924c57a705238417521f22" class="first" >
+
+<span >
+Symbol
+
+</span>
+
+
+
+                </th>
+            <th id="tbl2127f611f6f840b2a522a1094daf8cb8" class="last" >
+
+<span >
+Value ($)
+
+</span>
+
+
+
+                </th>
+
+                </tr>
+            </thead>
+
+
+            <tbody>
+
+                    <tr  class=" first">
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Previous Close
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+618.23
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Open
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+613.36
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Day's High
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+619.98
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Day's Low
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+613.00
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Volume
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+1.38 Mil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Avg Daily Vol (13 Wks)
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+2.89 Mil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Bid
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+619.70
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Bid Size
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+100
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Ask
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+619.82
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Ask Size
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+300
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+52-Wk High
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+642.96
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+52-Wk Low
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+447.65
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Dividend Rate
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+NA
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl17c451c381924c57a705238417521f22">
+
+<span >
+Yield
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbl2127f611f6f840b2a522a1094daf8cb8">
+
+<span >
+NA
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+            </tbody>
+    </table>
+
+        <ul class="mnytblftr">
+
+                <li>
+
+                                    <span class="foot">Quotes delayed 15 min</span>
+
+            </li>
+
+                <li>
+
+                                    <span class="foot">Last trade 7/25/2011 12:24 PM ET</span>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>STOCKSCOUTER</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+<div class="stksct">
+    <div class="rat">
+        <a href="http://moneycentral.msn.com/investor/StockRating/srsmain.asp?symbol=GOOG">7</a>
+    </div>
+    <div class="desc">
+        <span>
+            Rating:
+            <a href="http://moneycentral.msn.com/investor/StockRating/srsmain.asp?symbol=GOOG" class="tck">7 out of 10</a>
+        </span>
+        <br />
+        <a class="tck" href="http://moneycentral.msn.com/investor/StockRating/srsmain.asp">How StockScouter Works</a>
+    </div>
+    <div class="links">
+        <table>
+            <tr>
+                <td>
+                    Analyst Recommendation:
+                    <a href="http://moneycentral.msn.com/investor/invsub/analyst/recomnd.asp?symbol=GOOG" class="tck">Moderate Buy</a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>FINANCIAL HIGHLIGHTS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+    <table id="StaticTable" class=" mnytbl StaticTableClass" summary="">
+        <caption class="hide"></caption>
+
+            <thead>
+                <tr  class="hide">
+                    <th id="tbl2761b1a2d21d4ccabae1182cca0619da" class="first" >
+
+<span >
+Symbol
+
+</span>
+
+
+
+                </th>
+            <th id="tbla9494f4563de4ba48cb7c823017fa5ca" class="last" >
+
+<span >
+Value ($)
+
+</span>
+
+
+
+                </th>
+
+                </tr>
+            </thead>
+
+
+            <tbody>
+
+                    <tr  class=" first">
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Sales*
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+33.33 Bil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Income*
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+9.01 Bil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Sales Growth*
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+<span class="up">+24.00%</span>
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Income Growth*
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+<span class="up">+30.40%</span>
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Net Profit Margin
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+27.05%
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Debt/Equity Ratio
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+0.08
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Beta
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+1.18
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+EPS
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+23.45
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Forward P/E
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+16.72
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+P/E
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+34.56
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Market Cap
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+199.23 Bil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbl2761b1a2d21d4ccabae1182cca0619da">
+
+<span >
+Shares Outstanding
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
+
+<span >
+322.25 Mil
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+            </tbody>
+    </table>
+
+        <ul class="mnytblftr">
+
+                <li>
+
+                                    <a href="http://moneycentral.msn.com/investor/invsub/results/hilite.asp?symbol=GOOG">More</a>
+
+            </li>
+
+                <li>
+
+                                    <span class="foot">* last 12 months</span>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>TOP FUNDS HOLDING</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+    <table class=" mnytbl" summary="">
+        <caption class="hide"></caption>
+
+            <thead>
+                <tr  >
+                    <th id="tbldaa8ca4016f2426da0b5e61e13b38b7b" class="first" >
+
+<span >
+NAME
+
+</span>
+
+
+
+                </th>
+            <th id="tblc4a5d0c6ff8346efaea77b217b609a8b" class="last" >
+
+<span >
+% OWN
+
+</span>
+
+
+
+                </th>
+
+                </tr>
+            </thead>
+
+
+            <tbody>
+
+                    <tr  class=" first">
+                        <td class="first" headers="tbldaa8ca4016f2426da0b5e61e13b38b7b">
+
+<span >
+
+        <a class="tck" href="/investments/stock-price/?symbol=FCNTX">
+            Fidelity Contrafund
+        </a>
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tblc4a5d0c6ff8346efaea77b217b609a8b">
+
+<span >
+2.50%
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbldaa8ca4016f2426da0b5e61e13b38b7b">
+
+<span >
+
+        <a class="tck" href="/investments/stock-price/?symbol=RGAGX">
+            American Funds Growth Fund of America
+        </a>
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tblc4a5d0c6ff8346efaea77b217b609a8b">
+
+<span >
+2.00%
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+                    <tr  >
+                        <td class="first" headers="tbldaa8ca4016f2426da0b5e61e13b38b7b">
+
+<span >
+
+        <a class="tck" href="/investments/stock-price/?symbol=VTSSX">
+            Vanguard Total Stock Market Index Fund
+        </a>
+
+</span>
+
+
+
+                </td>
+            <td class="last" headers="tblc4a5d0c6ff8346efaea77b217b609a8b">
+
+<span >
+1.10%
+
+</span>
+
+
+
+                </td>
+
+                    </tr>
+
+            </tbody>
+    </table>
+
+        <ul class="mnytblftr">
+
+                <li>
+
+                                    <a href="http://moneycentral.msn.com/ownership?Holding=Mutual+Fund+Ownership&amp;Symbol=GOOG">More</a>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+    </div>
+    </div><div  class="ce ce2 cel w4" >
+    <div  class="co co2b2 coa2"  >
+        <div class="h2 cf">
+  <span>INTRADAY CHART</span>
+  <a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=us:GOOG&amp;&amp;CP=0&amp;PT=0" class="attr">Customize full-page chart</a>
+</div>
+
+    <div   class="br br1"  >
+
+
+<div>
+    <a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=us:GOOG&amp;&amp;CP=0&amp;PT=0"><img width="300" height="200" src="http://data.moneycentral.msn.com/scripts/chrtsrv.dll?Symbol=us:GOOG&amp;width=300&amp;height=200&amp;E1=0&amp;D4=1&amp;Legend=0&amp;AF=2&amp;Banner=5&amp;palette=2&amp;C1=3&amp;E8=1" alt=""/></a>
+</div>
+
+    </div>
+
+    <div   class="br br2 brl"  >
+
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=0" class="tck">1D</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=1" class="tck">5D</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=2" class="tck">10D</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=3" class="tck">1M</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=4" class="tck">3M</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=7" class="tck">1Y</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=8" class="tck">3Y</a></span>
+
+            <span class="chrtlinks"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=GOOG&amp;&amp;CP=0&amp;PT=10" class="tck">10Y</a></span>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>NEWS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+        <div  class="cogr cotb"><div  class="cof">
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>TOP</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <div class="tnl">
+
+            <div><ul>
+
+                    <li class="first"><div><a class="tnlnw" href="http://online.wsj.com/article/SB10001424053111903591104576467711532275104.html?ru=msn_money&mod=msn_money_ticker">BlackBerry Maker to Cut 2,000 Jobs</a></div>
+                    <div class="ts">
+
+                        <span>Wall Street Journal</span>
+
+                            <span class="separator">|</span>
+
+                    <span>13 minutes ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=AP&amp;date=20110725&amp;id=13989069">Stocks sink as debt limit remains unresolved</a></div>
+                    <div class="ts">
+
+                        <span>Associated Press</span>
+
+                            <span class="separator">|</span>
+
+                    <span>17 minutes ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://blogs.wsj.com/marketbeat/2011/07/25/research-in-motion-market-analysts-pan-job-cut-plan/?mod=msn_money_ticker">Research In Motion: Market, Analysts Pan Job-Cut Plan</a></div>
+                    <div class="ts">
+
+                        <span>Wall Street Journal</span>
+
+                            <span class="separator">|</span>
+
+                    <span>23 minutes ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://blogs.barrons.com/techtraderdaily/2011/07/25/netflix-jp-morgan-see-q2-beat-awaiting-impact-of-price-hikes/?mod=barrons_msnhttp://online.barrons.com/article/BL-TB-33501.html?">NFLX: JP Morgan, Lazard See Q2 Beat; Awaiting Impact Of Price Hikes</a></div>
+                    <div class="ts">
+
+                        <span>Barron&#39;s</span>
+
+                            <span class="separator">|</span>
+
+                    <span>26 minutes ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://www.thestreet.com/story/11197089/1/smartphone-owners-not-that-into-phone-calls.html?puc=msn&amp;cm_ven=msn">Smartphone Owners Not That Into Phone Calls</a></div>
+                    <div class="ts">
+
+                        <span>TheStreet.com</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://www.thestreet.com/story/11195971/1/5-must-haves-for-your-small-office.html?puc=msn&amp;cm_ven=msn">5 Must-Haves for Your Small Office</a></div>
+                    <div class="ts">
+
+                        <span>TheStreet.com</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://www.bloomberg.com/news/2011-07-25/u-s-stock-options-with-biggest-changes-in-implied-volatility.html?cmpid=msnmoney">U.S. Stock Options With Biggest Changes in Implied Volatility</a></div>
+                    <div class="ts">
+
+                        <span>Bloomberg</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a class="tnlnw" href="http://www.bloomberg.com/news/2011-07-24/boeing-e-trade-iridium-communications-loews-corp-u-s-equity-preview.html?cmpid=msnmoney">Ameritrade, E*Trade, Hollysys, Imax, Lorillard, Tenet: U.S. Equity Movers</a></div>
+                    <div class="ts">
+
+                        <span>Bloomberg</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=AP&amp;date=20110725&amp;id=13988821">Blackberry maker to cut 2,000 jobs, splits COO job</a></div>
+                    <div class="ts">
+
+                        <span>Associated Press</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=AP&amp;date=20110725&amp;id=13988869">Blackberry maker to cut 2,000 jobs, splits COO job</a></div>
+                    <div class="ts">
+
+                        <span>Associated Press</span>
+
+                            <span class="separator">|</span>
+
+                    <span>1 hour ago</span>
+
+                    </div>
+                    </li>
+
+
+            </ul></div>
+
+
+    </div>
+    <div class="tnlview">
+
+            <a href="http://money.msn.com/business-news/news.aspx?symbol=us:GOOG">View all news</a>
+
+    </div>
+
+
+    </div>
+
+    </div>
+    </div>
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>PRESS REL</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <div class="tnl">
+
+            <div><ul>
+
+                    <li class="first"><div><a  href="http://money.msn.com/business-news/article.aspx?feed=MW&amp;date=20110721&amp;id=13977517">Search Engines Hold Unique Staying Power - Research Report on Google Inc. and Baidu.com, Inc.</a></div>
+                    <div class="ts">
+
+                        <span>Market Wire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/21/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110719&amp;id=13965823">Zacks&#39; Voice of the People highlights opportunities with SPDR S&amp;P 500 ETF, CurrencyShares Euro Trust, PowerShares DB US Dollar Index Bullish, Apple and Google</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/19/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110719&amp;id=13965826">The Zacks Analyst Blog Highlights: Yahoo, Google, Microsoft, Wright Medical and ArthroCare Corporation</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/19/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110715&amp;id=13947027">The Zacks Analyst Blog Highlights: Google, Abbott Laboratories, Amgen, Pfizer and Johnson &amp; Johnson</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/15/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110711&amp;id=13920840">Zacks&#39; Voice of the People Highlights Opportunities with Apple, Google, Amazon and Netflix</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/11/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110707&amp;id=13878842">The Zacks Analyst Blog Highlights: Netflix, Amazon.com, Apple, Google and Coinstar</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/7/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=BW&amp;date=20110706&amp;id=13866882">Google to Announce Second Quarter 2011 Financial Results</a></div>
+                    <div class="ts">
+
+                        <span>Business Wire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/6/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110706&amp;id=13864961">Zacks Bull and Bear of the Day Highlights: BHP Billiton, Sears Holdings, Microsoft, Baidu and Google</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/6/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110705&amp;id=13859847">The Zacks Analyst Blog Highlights: Apple, Microsoft, Research In Motion and Google</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>7/5/2011</span>
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/business-news/article.aspx?feed=PR&amp;date=20110630&amp;id=13843429">Zacks&#39; Voice of the People highlights opportunities with LinkedIn, Pandora Media, Google, Microsoft and Apple</a></div>
+                    <div class="ts">
+
+                        <span>PR Newswire</span>
+
+                            <span class="separator">|</span>
+
+                    <span>6/30/2011</span>
+
+                    </div>
+                    </li>
+
+
+            </ul></div>
+
+
+    </div>
+    <div class="tnlview">
+
+            <a href="http://money.msn.com/business-news/news.aspx?symbol=us:GOOG">View all news</a>
+
+    </div>
+
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>COMMENTARY</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <div class="tnl">
+
+            <div><ul>
+
+                    <li class="first"><div><a  href="http://money.msn.com/stock-broker-guided/why-google-apple-cant-lift-market-fleckenstein.aspx">Why Google, Apple can&#39;t lift market</a></div>
+                    <div class="ts">
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/stock-broker-guided/6-cash-rich-stocks-to-buy-now-kiplinger.aspx">6 cash-rich stocks to buy now</a></div>
+                    <div class="ts">
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/mutual-fund/funds-betting-on-new-tech-boom-smartmoney.aspx">Funds betting on new tech boom</a></div>
+                    <div class="ts">
+
+                    </div>
+                    </li>
+
+
+                    <li><div><a  href="http://money.msn.com/investing/how-to-profit-from-a-boom-in-deals-jubak.aspx">How to profit from a boom in deals</a></div>
+                    <div class="ts">
+
+                    </div>
+                    </li>
+
+
+            </ul></div>
+
+
+    </div>
+    <div class="tnlview">
+
+    </div>
+
+
+    </div>
+
+    </div>
+    </div>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>VIDEO ON MSN MONEY</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+        <script type="text/javascript" src="http://img.widgets.video.s-msn.com/js/embed.js"></script>
+
+<div id="gcbecccaf6f99145c28a42b777506b9d5a">
+   <script type="text/javascript">
+   /*<![CDATA[*/
+       Msn.Video.createWidget('gcbecccaf6f99145c28a42b777506b9d5a', 'Gallery', 300, 316,
+       {
+        'configCsid' : 'MSNmoney',
+        'configName' : 'gallery_2x2_blue',
+        'gallery.categoryNames': '',
+        'gallery.categoryrequests':'videoByTag.aspx?mk=us&sf=ActiveStartDate&ns=ticker,VC_Supplier&tag=GOOG,MSNmoney'
+       }, 'wid1a6bda9d63424b25993b94dac19b8aa9');
+   /*]]>*/
+   </script>
+</div>
+
+
+    </div>
+
+    </div>
+    </div></div>
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>DATA PROVIDERS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+<div class="attribution"><p>Copyright © 2011 Microsoft. All rights reserved.</p><p>Quotes are real-time for NASDAQ, NYSE and AMEX. See delay times for other exchanges. </p><p>Fundamental company data and historical chart data provided by <a href="http://www.reuters.com/"         >Thomson Reuters</a> (<a href="http://about.reuters.com/media/customer_support/branding/popups/full_legal_notice.htm"         >click for restrictions</a>). Real-time quotes provided by <a href="http://www.batstrading.com/"         >BATS Exchange</a>. Real-time index quotes and delayed quotes supplied by <a href="http://www.interactivedata-rts.com/"         >Interactive Data Real-Time Services</a>. Fund summary, fund performance and dividend data provided by <a href="http://www.morningstar.com/"         >Morningstar Inc</a>. Analyst recommendations data provided by <a href="http://www.zacks.com/"         >Zacks Investment Research</a>. StockScouter data provided by <a href="http://www.gradientanalytics.com/"         >Gradient Analytics</a>. IPO data provided by <a href="http://www.hoovers.com/"         >Hoover's Inc</a>. Index membership data provided by <a href="http://www.six-telekurs.com/tkfich_index/tkfich_home.htm"         >SIX Telekurs</a>.</p><p>Japanese stock price data provided by <a href="http://www.nri.co.jp/english/"         >Nomura Research Institute Ltd</a>.; quotes delayed 20 minutes. Canadian fund data provided by <a href="http://www.cannex.com/"         >CANNEX Financial Exchanges Ltd</a>.</p></div>
+
+
+    </div>
+
+    </div>
+
+<div class="qtefooter">
+Financial data in US dollars | Page generated 12:40 PM ET
+</div>
+
+
+                </div>
+                <div id="area2" class="re w4">
+
+
+
+    <div  class="co co1b1 coa4"  >
+
+
+    <div   class="br br1 brl"  dir="ltr" >
+
+
+<div class="ad">
+    <div id="ad048851813b7040f4b373c58ffe48e8ed">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INVREC&amp;AP=1089", 300, 250, "ad048851813b7040f4b373c58ffe48e8ed",{acb:false});//]]></script>
+
+    </div>
+
+            <div class="adfb cf left none">
+                <a href="http://g.msn.com/AIPRIV/en-us" class="adch">
+                    <img src="http://cpc.db3.s-msn.com/MSN/sc/i/b8/2701bbe8906fd1db8c6fb3bdc39d5f.png" alt="Ad Choice" title="Ad Choice" height="12" width="68" />
+                </a>
+         <a href="https://secure.opinionlab.com/ccc01/o.asp?id=GeTjJUhA&amp;resize=false"         >Feedback</a>
+            </div>
+
+</div>
+
+    </div>
+
+    </div>
+    <div  class="ro" ><div  class="ce ce1 cel w4" ><div  class="cogr cotb"><div  class="cof">
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>RECENT QUOTES</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+<script type="text/javascript">
+(function($)
+    {
+        $.extend(
+        {
+            rqReadListUrl: "/mv/RecentQuotes/",
+            rqClearListUrl: "/mv/RecentQuotes/?cmd=DEL",
+            rqDynamicUrl: "http%3a%2f%2fservices.money.msn.com%2fquoteservice%2fstreaming%3fsymbol%3d%7b0%7d%26format%3djson",
+            rqLocalServer: "http://investing.money.msn.com"
+        })
+    })(jQuery);
+</script>
+
+
+
+<div class="rq">
+</div>
+    </div>
+
+    </div>
+    </div>
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>WATCHLIST</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function($)
+    {
+        var qwlControllerUrl = "/mv/QWL";
+        $.extend(
+        {
+            qwlDynamicServiceUrl: "http%3a%2f%2fservices.money.msn.com%2fquoteservice%2fstreaming%3fsymbol%3d%7b0%7d%26format%3djson",
+            qwlControllerReadUrl: qwlControllerUrl + "?cmd=read&muid={0}",
+            qwlControllerAddUrl: qwlControllerUrl + "?cmd=add&acct={0}&ticker={1}&muid={2}",
+            qwlControllerUpdateUrl: qwlControllerUrl + "?cmd=update&acct={0}&ticker={1}&qty={2}&muid={3}",
+            qwlControllerDeleteUrl: qwlControllerUrl + "?cmd=del&acct={0}&ticker={1}&muid={2}",
+            qwlControllerDeleteAcctUrl: qwlControllerUrl + "?cmd=delacct&acct={0}&muid={1}",
+            qwlControllerDeleteAllUrl: qwlControllerUrl + "?cmd=delall&muid={0}",
+            qwlNewsIconUrl: "http://money.msn.com" + "/business-news/news.aspx?symbol={0}",
+            qwlDefaultAccountLimit: 30,
+            qwlCustomAccountLimit: 50,
+            qwlLocalServer: "http://investing.money.msn.com"
+        })
+    })(jQuery);
+//]]>
+</script>
+
+<div class="qwlwherelisttxt">
+    <span class="hovertrigger">
+        <a class="where" href="http://onlinehelp.microsoft.com/en-us/msn/qwlnotyours.aspx" target="_blank">You&#39;re not signed in</a>
+        <div class="hovercontainer">
+          You’re not signed in to MSN Money, so you’re seeing the Watchlist that is tied to your computer. For a more consistent Watchlist experience, sign in to MSN Money.
+          <a href="http://onlinehelp.microsoft.com/en-us/msn/qwlnotyours.aspx"  target="_blank">Learn more</a>
+        </div>
+    </span>
+</div>
+<div class="qwlfullpgtxt">
+    <a href="/stock-market-quotes">View full page</a>
+</div>
+<div class="qwl">
+    <input type="text" name="txtsymbol" id="txtsymbol" size="5" maxlength="60" class="addinput text" />
+    <input type="button" name="addbtn" id="addbtn" class="btn" />
+    <div class="accountname"></div>
+    <div class="errormsg"></div>
+    <div class="th">
+        <div class="symbol">SYMBOL</div>
+        <div class="last">LAST</div>
+        <div class="change">CHANGE</div>
+        <div class="quantity">SHARES</div>
+    </div>
+    <div class="scrollcontainer"></div>
+    <div>
+        <div class="totals"></div>
+        <span class="qwlcommands">
+            <a href="http://onlinehelp.microsoft.com/en-us/msn/qwlnotyours.aspx" target="_blank">Where&#39;s my list?</a>
+            <span>|</span>
+            <a href="/" class="update">Update quotes</a>
+            <span>|</span>
+            <a href="/" class="clear">Clear all lists</a>
+        </span>
+
+    </div>
+    <div class="time">
+        <span class="dt">Quotes delayed at least 15 min</span>
+        <span class="lastupdated"></span>
+    </div>
+</div>
+    </div>
+
+    </div>
+    </div>
+
+    <div  class="co co1b1 coa4 sponcntgrp"  >
+
+
+    <div   class="br br1 brl"  >
+
+
+
+<div class="sponad">
+
+<div class="ad">
+    <div id="ad25d553bc54b447c7969f478497f5627c">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INVSRQ&amp;AP=1025", 120, 30, "ad25d553bc54b447c7969f478497f5627c",{acb:false});//]]></script>
+
+    </div>
+
+</div>
+
+<div class="sponby">Sponsored by: </div>
+</div>
+
+
+    </div>
+
+    </div>
+    </div></div><div >
+    <div  class="co co1b1 coa2 ruled"  >
+        <div class="h2 cf">
+  <span>MARKET UPDATE</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <div class="bms">
+
+
+        <div>[BRIEFING.COM] The major averages have recouped most of their losses as a rebound in technology shares has the Nasdaq down just 0.2%. E*TRADE Financial (ETFC 16.45, +0.81) is up close to 5.5% this morning on speculation competitor Ameritrade (AMTD 20
+
+
+        <span>...</span>
+
+                <span><a href="http://money.msn.com/business-news/news.aspx?briefing=stockticker">More</a></span>
+
+        </div>
+
+
+    </div>
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa4 ruled"  >
+        <div class="h2 cf">
+  <span>MORE MARKET NEWS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <ul class="linklist14 cf">
+
+        <li class=" first">
+<a href="http://money.msn.com/business-news/news.aspx?briefing=stockticker" title="Stock Ticker">Stock Ticker</a>
+        </li>
+
+        <li class="">
+<a href="http://money.msn.com/business-news/news.aspx?briefing=storystocks" title="Story Stocks">Story Stocks</a>
+        </li>
+
+        <li class="">
+<a href="http://money.msn.com/business-news/news.aspx?briefing=inplay" title="In Play">In Play</a>
+        </li>
+
+        <li class=" last">
+<a href="http://money.msn.com/business-news/news.aspx?briefing=shortstories" title="Short Stories">Short Stories</a>
+        </li>
+
+    </ul>
+
+    </div>
+
+    </div>
+    </div>
+
+    <div  class="co co1b1 coa2"  >
+        <div class="h2 cf">
+  <span>INVESTING TIPS AND TOOLS</span>
+</div>
+
+    <div   class="br br1 brl"  >
+
+
+    <ul class="linklist16">
+
+        <li class=" first">
+<a href="http://www.bing.com/finance/stockscreener" title="Stock screener on Bing">Stock screener on Bing</a>
+        </li>
+
+        <li class=" last">
+<a href="http://money.bundle.com/categories/" title="Message boards on Bundle">Message boards on Bundle</a>
+        </li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    <div  class="co co1b1 coa4"  >
+
+
+    <div   class="br br1 brl"  dir="ltr" >
+
+
+<div class="ad">
+    <div id="ad8c528ab2968f41ab97f34a4928b7fdaa">
+
+        <script type="text/javascript">/*<![CDATA[*/$.dap("&amp;PG=INVCXN&amp;AP=1089", 300, 250, "ad8c528ab2968f41ab97f34a4928b7fdaa",{acb:false});//]]></script>
+
+    </div>
+
+            <div class="adfb cf left none">
+                <a href="http://g.msn.com/AIPRIV/en-us" class="adch">
+                    <img src="http://cpc.db3.s-msn.com/MSN/sc/i/b8/2701bbe8906fd1db8c6fb3bdc39d5f.png" alt="Ad Choice" title="Ad Choice" height="12" width="68" />
+                </a>
+         <a href="https://secure.opinionlab.com/ccc01/o.asp?id=GeTjJUhA&amp;resize=false"         >Feedback</a>
+            </div>
+
+</div>
+
+    </div>
+
+    </div>
+
+    <script type="text/javascript">
+        (function ($) { $.extend({ commonUserTickers: "US:GOOG,US:P" }) })(jQuery);
+    </script>
+
+
+                </div>
+                <div id="area3" class="none">
+
+                </div>
+            </div>
+            <div id="subfoot">
+
+
+
+            </div>
+            <div id="foot">
+
+<div class="foot1 cf">
+    <ul class="primary">
+        <li class="first"><a href="http://go.microsoft.com/fwlink/?LinkId=74170">Privacy</a></li><li><a href="http://g.msn.com/0TO_/enus">Legal</a></li><li><a href="http://advertising.microsoft.com/msn/">Advertise</a></li><li class="last"><a href="http://www.msn.com/worldwide.aspx">MSN Worldwide</a></li>
+    </ul>
+    <ul class="secondary">
+        <li class="last"><a class="popuplink" href="http://onlinehelp.microsoft.com/en-us/msn/money.aspx">Help</a></li><li><a href="http://g.msn.com/AIPRIV/en-us">About our ads</a></li><li><a href="https://secure.opinionlab.com/ccc01/o.asp?ID=tOFDfuEU&amp;resize=false">Feedback</a></li><li><a href="http://money.msn.com/common/sitemap.aspx">Site map</a></li><li class="first"><a href="http://rss.msn.com/default.aspx">RSS</a></li>
+    </ul>
+    <div class="copyright">
+        <span>&copy; 2011 Microsoft</span>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    (function ($)
+    {
+        $.async("asyncCanary", function ()
+        {
+            $("div.cogr.coss").slideshow({ delay: 7000 });
+            $("div.cogr.cotb").tabGroup({ hover: { delay: 300} });
+
+            $("a.opennew").openNew();
+            $("a.mediapopup").mediaPopup();
+            $("a.openpopup").openPopup();
+
+            $("#hplink").promoLink();
+
+            $.autoSuggest({cookieDomain: 'msn.com'});
+
+            $(".websearch").bindSearch();
+
+             //Bind all flyouts
+            $("#head .flyout").flyout();
+            $("#nav .flyout").flyout();
+            $("ul.tier3nav .flyout").flyout({selectedElement: "ul.tier3nav .tabsel", selectedClass: "tabsel" });
+
+            $(".silverlightChart").chart();
+
+            //start the qbe
+            $(".qbe").quoteBoxEverywhere();
+
+            //start recent quotes module
+            $(".rq").recentQuotes();
+
+            //start quote watchlist
+            $(".qwl").quoteWatchList();
+
+            //start qwl full page
+            $(".qwlfp").qwlFullPage();
+
+            //currency converter
+            $(".currencyconverter").currencyConverter();
+
+            //unread count
+            $.hotmail.defaults.proxyurl = 'http://hotmailproxy.money.msn.com/pm/v1.0/getheaders.aspx';
+            $("#hotmail a.unreadcount").unreadCount();
+
+            //help window popup
+            var wwdth = 986;
+            $("a.popuplink").popuplink({settings: ("resizable=1,toolbar=0,status=0,menubar=0,scrollbars=1,top=" + (screen.availHeight * .125) + ",width=" + wwdth + ",height=" + (screen.availHeight * .75) + ",left=" + (wwdth / 4))});
+
+            //money ticker news new window
+            $("a.tnlnw").popuplink();
+        }, $.jsUrl);
+    }
+    )(jQuery);
+</script>
+
+</body>
+</html>
+

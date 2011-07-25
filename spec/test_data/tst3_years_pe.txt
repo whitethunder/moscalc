@@ -1,0 +1,254 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Key Financial Ratios: Financial Results - Visa Inc (V) - MSN Money</title><meta name="description" content="Compare key financial ratios of Visa Inc (V) to its industry and the S&P 500.  Compare growth rates, price ratios, profit margins, financial condition, investment returns and management efficiency.  See a ten year summary of key financial ratios." /><meta name="keywords" content="Visa Inc, V, growth rates, stock financial ratios" /><meta http-equiv="X-FRAME-OPTIONS" content="DENY" /><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.1.min.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/4.0/1/MicrosoftAjax.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/beta/0909/MicrosoftAjaxTemplates.js"></script><script type="text/javascript" src="/inc/scr/ajaxquotes.js"></script><script type="text/javascript">$.quotebroker.init({Src:"services.money.msn.com",Interval:20,Timeout:1200});</script><script type="text/javascript" src="http://ads1.msn.com/library/dap.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/inc/css/d613776ccfeac2ce887b0b108cb1d0.css" media="all" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="/inc/css/396220229119e8e6b91a60402d42e9.css" media="all" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/inc/css/73b368043b5d303b9db3c3e0169b63.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utility.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/cookies.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/fireandforget.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/getcookie.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/querystring.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/stringutils.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/timer.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/utilities/validate.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/hotmaildata/getmaildata.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/hotmaildata/unreadcount.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/search_box/autosuggest.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/search_box/autosuggest_external.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/search_box/websearch.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/flyout/flyout.js?v=503"></script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/async/jasync.js?v=503"></script>
+<link href="http://blstc.msn.com/br/gbl/lg/1/favicon.ico" rel="icon" type="x-icon" />
+<link href="http://blstc.msn.com/br/gbl/lg/1/favicon.ico" rel="shortcut icon" type="x-icon" />
+<link rel="meta" href="http://moneycentral.msn.com/labels.xml" type="application/rdf+xml" title="ICRA labels" />
+<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://moneycentral.msn.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 3)  gen true for "http://moneycentral.msn.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 3))' />
+<script type="text/javascript" src="/inc/scr/global.js?v=503"></script><script type="text/javascript" src="/inc/scr/ww.js?v=503"></script><link rel="stylesheet" type="text/css" href="/inc/css/blue.css?v=503" media="all" /><link rel="stylesheet" type="text/css" href="/inc/css/tabular.css?v=503" media="all" /><link rel="stylesheet" type="text/css" href="/inc/css/quotectrl.css?v=503" media="all" /><script type="text/javascript">
+				(function($)
+				{
+					$.extend(
+					{
+						qbeDynamicUrl		: "http%3a%2f%2fservices.money.msn.com%2fquoteservice%2fstreaming%3fsymbol%3d%7b0%7d%26format%3djson",
+						qbeDefault			: "$DJI,$COMPX,$INX,-GC,TC10Y",
+						qbeRefreshRate		: 20000,
+						qbeFadeTimer		: 1000,
+						qbePauseTimer		: 5000,
+						qbeStreamingTimeout	: 1200 * 1000,
+						qbePageGroup		: "INVXTA",
+						qbeAP				: "1440",
+						qbeReadUserListUrl	: "http://investing.money.msn.com/mv/RecentQuotes/",
+						qbeMarketUrl		: "http://investing.money.msn.com/mv/MarketStatus/",
+						qbeLocalServer		: "http://investing.money.msn.com",
+						qbeGetQuoteUrl		: "http://investing.money.msn.com/investments/stock-price?symbol=",
+						marketStatusLinkUrl	: "http://investing.money.msn.com/investments/market-summary"
+					})
+				})(jQuery);
+			</script><script type="text/javascript" src="/inc/Views/Shared/Core/Content/js/qbe.js?v=634414192160048084"></script>
+</head>
+<body>
+<div id="wrapper"><img width="1" height="1" src="http://c.msn.com/c.gif?TP=HTTP://MONEYCENTRAL.MSN.COM/INVESTOR/INVSUB/RESULTS/COMPARE.ASP&PS=32044&PI=7288&DI=7290&RF=" style="position:absolute;left:0px;top:0px;z-index:-1" /><div id="head"><div class="head1 w12"><div class="top"><ul class="network flat"><li id="more" class="first flyout"><a href="http://specials.msn.com/alphabet.aspx" class="flytrigger" target="_top">More</a><div class="flycontainer"><ul class="section"><li><a href="http://autos.msn.com/">Autos</a></li><li><a href="http://msn.careerbuilder.com/msn/default.aspx">Careers &amp; Jobs</a></li><li><a href="http://www.delish.com/">Cooking</a></li><li><a href="http://insidemsn.wordpress.com">Corrections &amp; Clarifications</a></li><li><a href="https://secure.opinionlab.com/ccc01/o.asp?ID=WpkpVtTB">Feedback</a></li><li><a href="http://specials.msn.com/alphabet.aspx">Full MSN Index</a></li><li><a href="http://games.msn.com/"><strong xmlns:msncp="urn:schemas-microsoft-com/contentpublishing/content">Games Preview</strong></a></li><li><a href="http://glo.msn.com/horoscopes/">Horoscopes</a></li></ul><ul class="section"><li><a href="http://latino.msn.com/">Latino</a></li><li><a href="http://local.msn.com/news.aspx">Local Edition</a></li><li><a href="http://www.bing.com/maps/default.aspx?FORM=MSNNAV">Maps &amp; Directions</a></li><li><a href="http://www.discovermsn.com/">Mobile</a></li><li><a href="http://my.msn.com/">My MSN</a></li><li><a href="http://dating.msn.com/index.aspx?TrackingID=516163&amp;BannerID=670268">Personals</a></li><li><a href="http://money.msn.com/stocks/">Quotes</a></li><li><a href="http://realestate.msn.com/">Real Estate/Rentals</a></li></ul><ul class="section"><li><a href="http://www.bing.com/shopping?FORM=SHOPH2">Shopping</a></li><li><a href="http://www.bing.com/travel/?cid=msn_nav_more&amp;FORM=MSNNAV ">Travel</a></li><li><a href="http://www.bing.com/videos/browse?from=en-us_msnhp">Videos</a></li><li><a href="http://local.msn.com/weather.aspx">Weather</a></li><li><a href="http://msn.whitepages.com/">White Pages</a></li><li><a href="http://wonderwall.msn.com/">Wonderwall</a></li><li><a href="http://yellowpages.msn.com/">Yellow Pages</a></li></ul></div></li><li id="hotmail" class="flyout noscript"><a href="http://mail.live.com" class="flytrigger unreadcount" target="_top">Hotmail</a><div class="flycontainer"><ul class="section"><li><a href="http://mail.live.com/?rru=inbox" target="_top">Inbox</a></li><li><a href="http://calendar.live.com" target="_top">Calendar</a></li><li><a href="http://mail.live.com/?rru=contacts" target="_top">Contacts</a></li><li><span class="divider"></span></li><li><a href="http://mail.live.com/?rru=compose" target="_top">Send e-mail</a></li></ul></div></li><li id="messenger"><a href="http://explore.live.com/windows-live-messenger" target="_top">Messenger</a></li><li class="last"><a href="http://bing.com" target="_top">Bing</a></li></ul><ul class="user flat"><li class="first"><a id="hplink" href="http://myhomemsn.com" target="_top">Make MSN your homepage</a><a id="binglink" href="http://www.bing.com/customizeBrowser">Make Bing your decision engine</a></li><li class="last"><span id="username" class="flytrigger">Welcome</span></li></ul></div><div class="bottom"><div class="left"><div class="brand"><div class="logo"><a href="http://msn.com" target="_top"><img alt="MSN" title="MSN" src="/inc/Views/Shared/Core/Content/images/header/msn_logo_standard.gif" style="visibility:visible!important" /></a></div><div class="channel"><a href="http://money.msn.com/" target="_top">Money</a></div></div>
+<div class="websearch cf">
+    <h2>Bing Search:</h2>
+    <form id="srchfrm1" method="get" action="http://moneycentral.msn.com/money.search" target="_top">
+        <ul class="flat scopes">
+            <li class="first selected"><a href="http://moneycentral.msn.com/money.search" target="_top">Money</a></li>
+            <li class="sp">|</li>
+            <li class="last"><a href="http://www.bing.com/search" target="_top">Web</a></li>
+        </ul>
+        <div class="searchform typing">
+            <label accesskey="s" for="q1">Bing search:</label>
+            <div class="searchinputarea">
+                <input id="q1" title="Search for" class="sidq text" maxlength="215" name="q" value="" />
+                <input class="spyglass image" alt="Search" title="Search" src="/inc/Views/Shared/Core/Content/images/header/search_button.gif" type="image" />
+                <img alt="" class="blogo" width="54" height="33" src="/inc/Views/Shared/Core/Content/images/header/bing.gif" />
+				<input type="hidden" value="Search Money" class="helpertext" />
+                <input type="hidden" value="MSMONY" name="form" />
+                <input type="hidden" value="en-US" name="mkt" />
+            </div>
+        </div>
+    </form>
+    <div class="pop"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	$.autoSuggest({cookieDomain:"msn.com"});
+});
+</script>
+</div><div class="right"><div class="popt"><ul class="flat"><li class="flyout first noscript"><span class="flytrigger">Page options</span><div class="flycontainer alignright"><ul class="section"><li><a href="http://specials.msn.com/IEIncreaseFont_preview.aspx?cp-documentid=9149805&amp;imageindex=1" target="_top">Increase font size</a></li><li><a class="icon on" id="asugoff"><img alt="enabled" height="7" width="7" src="/inc/Views/Shared/Core/Content/images/header/checkmark.png" /><span>Show search suggestions</span></a></li><li><a href="#" onclick="javascript:top.DoHelp();return false;">Help</a></li></ul></div></li><li class="sp">|</li><li class="last noscript"><a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1311612464&rver=5.5.4177.0&wp=MBI&wreply=http:%2F%2Fmoneycentral.msn.com%2Fpploggedin.aspx%3FPage%3Dhttp%253A%252F%252Fmoneycentral%252Emsn%252Ecom%252Finvestor%252Finvsub%252Fresults%252Fcompare%252Easp%26Query%3DPage%253DTenYearSummary%2526symbol%253DV&lc=1033&id=229">Sign in</a></li></ul></div><div class="echoice"></div></div></div></div></div><script type="text/javascript">phid="MC_3";</script>
+<div id="nav">
+	<div class="nav1">
+		<div class="t1tbg"></div>
+		<div class="t1">
+			<ul>
+				<li class="first flyout"><a class="flytrigger" href="http://money.msn.com/">Home</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="http://money.msn.com/business-news/">News</a>
+					<div class="flycontainer noalign">
+						<ul class="sub">
+							<li class="first"><a href="http://money.msn.com/business-news/">Headlines</a></li>
+							<li class="last"><a href="http://money.msn.com/money-video/">Video</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="selected"><a class="flytrigger" href="http://money.msn.com/investing/">Investing</a>
+					<div class="flycontainer noalign">
+
+<ul class="sub">
+<li class="first"><a href="http://moneycentral.msn.com/investor/portfolio-manager/portfolio.aspx" target="_top">portfolio manager</a></li>
+<li><a href="http://investing.money.msn.com/investments/market-summary/" target="_top">markets</a></li>
+<li class="selected"><a href="http://money.msn.com/stocks/" target="_top">stocks</a></li>
+<li><a href="http://money.msn.com/mutual-fund/" target="_top">mutual funds</a></li>
+<li><a href="http://money.msn.com/exchange-traded-fund/" target="_top">etfs</a></li>
+<li><a href="http://money.msn.com/stock-broker/" target="_top">broker center</a></li>
+<li class="last"><a href="http://money.msn.com/investment-advice/" target="_top">investor pro</a></li>
+</ul>
+
+
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="http://money.msn.com/personal-finance/">Personal Finance</a>
+					<div class="flycontainer noalign">
+						<ul class="sub">
+							<li class="first"><a href="http://money.msn.com/budgeting-savings/">Saving &amp; Budgeting</a></li>
+							<li><a href="http://money.msn.com/credit-and-debt/">Credit &amp; Debt</a></li>
+							<li><a href="http://money.msn.com/home-loans/">Loans</a></li>
+							<li><a href="http://money.msn.com/retirement/">Retirement</a></li>
+							<li><a href="http://money.msn.com/insurance/">Insurance</a></li>
+							<li><a href="http://money.msn.com/taxes/">Taxes</a></li>
+							<li class="last"><a href="http://money.msn.com/saving-money/video.aspx">Your Money</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="https://secure.bundle.com/msn">My Money</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="http://realestate.msn.com/">Real Estate</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="http://careers.msn.com/">Careers</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+				<li class="flyout"><a class="flytrigger" href="http://autos.msn.com">Autos</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+				<li class="last flyout"><a class="flytrigger" href="http://theinvestedlife.msn.com/?source=msnmoney">The Invested Life</a>
+					<div>
+						<ul class="sub">
+							<li></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+			<div class="t1bbg"></div>
+		</div>
+	</div>
+</div>
+
+<div id="page" class="pa w12"><div id="contenttop"><div class="qbe"></div><script type="text/javascript">$(".qbe").quoteBoxEverywhere();</script>
+
+
+<div id="contentheader"><div class="pageheader"><div class="sys-template" id="quickquote"><div style="font-size:240%;line-height:1.1em">Key Ratios</div><div class="qprc"><span class="tck">V</span><span class="lp"><span sys:innerhtml="{binding RTLast}">90.08</span></span><span><img sys:codeafter="$.quotebroker.DirectionalIndicator.setImageProperties($element,$dataItem)" src="/inc/images/trendup.gif" alt="Up" style="width:16px;height:16px" /></span><span class="chg"><span sys:innerhtml="{binding RTChange}"><span style="color:green">+0.56</span></span></span><span class="pchg"><span sys:innerhtml="{binding RTPercentChange}"><span style="color:green">+0.63%</span></span></span><span class="msg">Real time</span></div><div class="cn"><a href="http://investing.money.msn.com/investments/company-report?symbol=V">Visa Inc</a> <span class="ex">(NYSE)</span></div></div></div><div class="fourtile noborder"><!--PG=INV4QA,1026,INV4QB,1026,INV4QC,1026,INV4QD,1026--><ul><li class="first"><div class="ad"><script type="text/javascript">dap('&PG=INV4QA&AP=1026',120,60);</script></div></li><li><div class="ad"><script type="text/javascript">dap('&PG=INV4QB&AP=1026',120,60);</script></div></li><li><div class="ad"><script type="text/javascript">dap('&PG=INV4QC&AP=1026',120,60);</script></div></li><li><div class="ad"><script type="text/javascript">dap('&PG=INV4QD&AP=1026',120,60);</script></div></li></ul></div></div><script type="text/javascript">$.quotebroker.registerBindToElement({Tickers:[{Symbol:"V",Type:"Equity",JPFundBaseUnit:"0",CountryCode:"4628",IndicatorKey:"RTChange"}],Element:"quickquote"});</script></div><div id="content"><form action="" method="get" id="QlistCtl" name="QlistCtl"><div class="re w12 ro" id="toolbar"><ul class="linklist6"><li class="first"><a href="http://money.msn.com/stock-broker/" target="_top"><img src="/inc/images/TradeBtn51x18.png" style="width:51px;height:18px;border:none" title="Trade now" alt="Trade now" /></a></li><li><a href="http://investing.money.msn.com/stock-market-quotes/?symbol=V" target="_top"><img src="/inc/images/AddNormal16x16.png" style="width:16px;height:16px;border:none" title="Add to Watchlist" alt="Add to Watchlist" onmouseover="this.src = '/inc/images/AddHover16x16.png'" onmouseout="this.src = '/inc/images/AddNormal16x16.png'" /></a></li><li><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?symbol=V" target="_top"><img style="width:16px;height:16px;border:none" onmouseover="this.src = '/inc/images/ChartsHover16x16.png'" onmouseout="this.src = '/inc/images/ChartsNormal16x16.png'" title="Get chart" alt="Get chart" src="/inc/images/ChartsNormal16x16.png" /></a></li><li class="last"><a href="http://moneycentral.msn.com/investor/research/printrep.asp?symbol=V" target="_top"><img src="/inc/images/PrintNormal16x16.png" style="width:16px;height:16px;border:none" title="Print report" alt="Print report" onmouseover="this.src = '/inc/images/PrintHover16x16.png'" onmouseout="this.src = '/inc/images/PrintNormal16x16.png'" /></a></li><li style="float:right;margin-top:0px;margin-bottom:0.2em"><label for="symbol" accesskey="m">Find financial results for:</label> <input type="text" size="15" maxlength="100" class="textctrl" id="symbol" name="symbol" onfocus="if(this.value=='Name or symbol(s)')this.value=''" onblur="if('Name or symbol(s)'.length > 0 && this.value=='')this.value='V'" value="V" /> <input type="submit" value="Go" class="submit" /></li></ul></div></form>
+<div class="cogr cotb"> <div class="cotb js"><ul class="cotb cf tier3nav">
+<li class="first flyout noscript"><a href="http://investing.money.msn.com/investments/stock-price?symbol=V" class="flytrigger">QUOTE</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="/detail/stock_quote?symbol=V">SUMMARY</a></li>
+<li><a href="http://moneycentral.msn.com/investor/options/default.asp?symbol=V">OPTIONS</a></li>
+<li class="last"><a href="http://moneycentral.msn.com/investor/charts/chartdl.aspx?showtablbt=1&nocookie=1&symbol=V">HISTORICAL PRICES</a></li>
+</ul></div> </li>
+<li class="tabsel"><span class="flytrigger"><a href="http://investing.money.msn.com/investments/company-report?symbol=V">FUNDAMENTALS</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="http://investing.money.msn.com/investments/company-report?symbol=V">COMPANY REPORT</a></li>
+<li><a href="http://moneycentral.msn.com/investor/invsub/results/hilite.asp?symbol=V">FINANCIAL HIGHLIGHTS</a></li>
+<li class="tabsel"><span><a href="http://moneycentral.msn.com/investor/invsub/results/compare.asp?symbol=V">KEY RATIOS</a></span></li>
+<li class="last"><a href="/investor/sec/filing.asp?symbol=V">SEC FILINGS</a></li>
+</ul></div> </li>
+<li class="flyout noscript"><a href="http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?symbol=V" class="flytrigger">EARNINGS</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="/investor/invsub/analyst/earnest.asp?Page=EarningsEstimates&symbol=V">EARNINGS ESTIMATES</a></li>
+<li><a href="/investor/invsub/analyst/earnest.asp?Page=EarningsSurprise&symbol=V">EARNINGS SURPRISE</a></li>
+<li><a href="/investor/invsub/analyst/earnest.asp?Page=ConsensusEPSTrend&symbol=V">CONSENSUS EPS TREND</a></li>
+<li class="last"><a href="/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=V">EARNINGS GROWTH RATES</a></li>
+</ul></div> </li>
+<li class="flyout noscript"><a href="http://moneycentral.msn.com/investor/invsub/analyst/recomnd.asp?symbol=V" class="flytrigger">ANALYSIS</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="http://moneycentral.msn.com/investor/invsub/analyst/recomnd.asp?symbol=V">ANALYST RATINGS</a></li>
+<li class="last"><a href="http://moneycentral.msn.com/investor/StockRating/srsmain.asp?symbol=V">STOCKSCOUTER</a></li>
+</ul></div> </li>
+<li class="flyout noscript"><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?symbol=V" class="flytrigger">FINANCIALS</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=Income&stmtView=Qtr&symbol=V" id="INCTab" onclick="if(typeof(top.SwitchFinTab)!='undefined'){SwitchFinTab(this,null)}">INCOME STATEMENT</a></li>
+<li><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=Balance&stmtView=Qtr&symbol=V" id="BALTab" onclick="if(typeof(top.SwitchFinTab)!='undefined'){SwitchFinTab(this,null)}">BALANCE SHEET</a></li>
+<li><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=CashFlow&stmtView=Ann&symbol=V" id="CASTab" onclick="if(typeof(top.SwitchFinTab)!='undefined'){SwitchFinTab(this,null)}">CASH FLOW</a></li>
+<li class="last"><a href="http://moneycentral.msn.com/investor/invsub/results/statemnt.aspx?lstStatement=10YearSummary&symbol=V" id="SUM10YRTab" onclick="if(typeof(top.SwitchFinTab)!='undefined'){SwitchFinTab(this,null)}">10 YEAR SUMMARY</a></li>
+</ul></div> </li>
+<li class="last flyout noscript"><a href="http://moneycentral.msn.com/ownership?symbol=V">OWNERSHIP</a>
+</span><div class="subnav flycontainer noalign"><ul class="cf">
+<li class="first"><a href="http://moneycentral.msn.com/ownership?symbol=V">OWNERSHIP SUMMARY</a></li>
+<li class="last"><a href="http://moneycentral.msn.com/investor/invsub/insider/trans.asp?symbol=V">INSIDER TRANSACTIONS</a></li>
+</ul></div> </li>
+</ul></div> </div>
+
+
+<div class="co"><div class="cogr cotb"><div class="cotb js"><ul class="cotb cf tiertabbednav">
+<li class="first"><a href="/investor/invsub/results/compare.asp?Page=GrowthRates&symbol=V">GROWTH</a></li>
+<li><a href="/investor/invsub/results/compare.asp?Page=PriceRatios&symbol=V">PRICE RATIOS</a></li>
+<li><a href="/investor/invsub/results/compare.asp?Page=ProfitMargins&symbol=V">PROFIT MGN</a></li>
+<li><a href="/investor/invsub/results/compare.asp?Page=FinancialCondition&symbol=V">FINANCIAL CONDITION</a></li>
+<li><a href="/investor/invsub/results/compare.asp?Page=InvestmentReturns&symbol=V">INV RETURNS</a></li>
+<li><a href="/investor/invsub/results/compare.asp?Page=ManagementEfficiency&symbol=V">MGMT EFFICIENCY</a></li>
+<li class="last tabsel"><a href="/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=V">10-YR SUMMARY</a></li>
+</ul></div></div></div>
+
+<div class="re w8" id="area1"><div class="cogr co cf coa2 coc5 tabularblue6"><p>Industry: Business Services</p></div><div class="cogr co cf coa2 coc5 tabularblue5"><table><col /><colgroup span="4" /><thead><tr><th>&nbsp;</th><th style="text-align:right">Avg P/E</th><th style="text-align:right">Price/ Sales</th><th style="text-align:right">Price/ Book</th><th style="text-align:right">Net Profit Margin (%)</th></tr></thead><tbody><tr><td>09/10</td><td style="text-align:right">1.0</td><td style="text-align:right">7.73</td><td style="text-align:right">2.48</td><td style="text-align:right">36.8</td></tr><tr><td>09/09</td><td style="text-align:right">2.0</td><td style="text-align:right">8.44</td><td style="text-align:right">2.52</td><td style="text-align:right">34.0</td></tr><tr><td>09/08</td><td style="text-align:right">-3.0</td><td style="text-align:right">8.65</td><td style="text-align:right">2.33</td><td style="text-align:right">12.8</td></tr><tr><td>09/07</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right"><span style="color:red">-30.0</span></td></tr><tr><td>09/06</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">15.4</td></tr><tr><td>09/05</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">9.9</td></tr><tr><td>09/04</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">8.9</td></tr><tr><td>09/03</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right"><span style="color:red">-44.7</span></td></tr><tr><td>09/02</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">NA</td><td style="text-align:right">3.8</td></tr></tbody></table></div><div class="cogr co cf coa2 coc5 tabularblue5"><table><col /><colgroup span="5" /><thead><tr><th>&nbsp;</th><th style="text-align:right">Book Value/ Share</th><th style="text-align:right">Debt/ Equity</th><th style="text-align:right">Return on Equity (%)</th><th style="text-align:right">Return on Assets (%)</th><th style="text-align:right">Interest Coverage</th></tr></thead><tbody><tr><td>09/10</td><td style="text-align:right">$29.95</td><td style="text-align:right">0.00</td><td style="text-align:right">11.9</td><td style="text-align:right">8.9</td><td style="text-align:right">63.7</td></tr><tr><td>09/09</td><td style="text-align:right">$27.41</td><td style="text-align:right">0.00</td><td style="text-align:right">10.1</td><td style="text-align:right">7.3</td><td style="text-align:right">30.8</td></tr><tr><td>09/08</td><td style="text-align:right">$26.37</td><td style="text-align:right">0.07</td><td style="text-align:right">3.6</td><td style="text-align:right">2.3</td><td style="text-align:right">8.6</td></tr><tr><td>09/07</td><td style="text-align:right"><span style="color:red">-$.62</span></td><td style="text-align:right">-0.08</td><td style="text-align:right">214.8</td><td style="text-align:right"><span style="color:red">-24.5</span></td><td style="text-align:right"><span style="color:red">-17.9</span></td></tr><tr><td>09/06</td><td style="text-align:right">$.72</td><td style="text-align:right">0.13</td><td style="text-align:right">78.1</td><td style="text-align:right">15.4</td><td style="text-align:right">8.2</td></tr><tr><td>09/05</td><td style="text-align:right">$.16</td><td style="text-align:right">0.84</td><td style="text-align:right">210.7</td><td style="text-align:right">9.6</td><td style="text-align:right">4.2</td></tr><tr><td>09/04</td><td style="text-align:right"><span style="color:red">-$.29</span></td><td style="text-align:right">-0.14</td><td style="text-align:right"><span style="color:red">-93.9</span></td><td style="text-align:right">9.4</td><td style="text-align:right">3.9</td></tr><tr><td>09/03</td><td style="text-align:right"><span style="color:red">-$.55</span></td><td style="text-align:right">-0.40</td><td style="text-align:right">201.1</td><td style="text-align:right"><span style="color:red">-46.5</span></td><td style="text-align:right">NA</td></tr><tr><td>09/02</td><td style="text-align:right">$.55</td><td style="text-align:right">0.00</td><td style="text-align:right">13.5</td><td style="text-align:right">6.8</td><td style="text-align:right">NA</td></tr></tbody></table></div><div class="cogr co cf coa2 coc5 tabularblue6"><p class="miscnote">Financial data in U.S. dollars</p></div></div><div class="re w4" id="area2"><div class="co co1b1 coa4"><div class="br br1 brl"><div class="ad"><!--PG=INVIHP--><script type="text/javascript">dap('&PG=INVIHP&AP=1089',300,250);</script><div class="adfb cf left"><a class="adch" href="http://g.msn.com/AIPRIV/en-us"><img title="Ad Choice" alt="Ad Choice" src="/inc/images/adchoicesv4.png" width="77" height="15" /></a><pre><a href="#" onclick="javascript:top.O_LC({width:535,height:548,name:'adcomment',getUrl:function(){return 'https://secure.opinionlab.com/ccc01/o.asp?id=GeTjJUhA&resize=false';}});return false;"><pre>Feedback</pre></a></pre></div></div></div></div></div></div><div id="subfoot"><div class="co co1b1 coa2">
+	<div class="h2 cf"><span>DATA PROVIDERS</span></div>
+	<div class="br br1 brl">
+		<div class="attribution">
+<p>Copyright &#169; 2011 Microsoft. All rights reserved.</p>
+<p>Quotes are real-time for NASDAQ, NYSE and AMEX. See delay times for other exchanges.</p>
+<p>Fundamental company data and historical chart data provided by <a href="http://www.reuters.com/" target="_top">Thomson Reuters</a> (<a href="http://about.reuters.com/media/customer_support/branding/popups/full_legal_notice.htm" target="_top">click for restrictions</a>). Real-time quotes provided by <a href="http://batstrading.com/" target="_top">BATS Exchange</a>. Real-time index quotes and delayed quotes supplied by <a href="http://www.interactivedata-rts.com/" target="_top">Interactive Data Real-Time Services</a>. Fund summary, fund performance and dividend data provided by <a href="http://www.morningstar.com/" target="_top">Morningstar Inc</a>. Analyst recommendations provided by <a href="http://www.zacks.com/" target="_top">Zacks Investment Research</a>. StockScouter data provided by <a href="http://www.gradientanalytics.com" target="_top">Gradient Analytics</a>. IPO data provided by <a href="http://www.hoovers.com" target="_top">Hoover's Inc</a>. Index membership data provided by <a href="http://www.telekurs.com/tkfich_index/tkhoch_home.htm" target="_top">SIX Telekurs</a>.</p>
+<p>Japanese stock price data provided by <a href="http://www.nri.co.jp/english/" target="_top">Nomura Research Institute Ltd.</a>; quotes delayed 20 minutes. Canadian fund data provided by <a href="http://www.cannex.com/" target="_top">CANNEX Financial Exchanges Ltd</a>.</p>
+		</div>
+	</div>
+</div></div><div id="foot" style="clear:both">
+
+	<div class="foot1 cf">
+        <ul class="primary">
+            <li class="first"><a href="http://go.microsoft.com/fwlink/?LinkId=74170" target="_top">Privacy</a></li>
+            <li><a href="http://g.msn.com/0TO_/enus" target="_top">Legal</a></li>
+            <li><a href="http://advertising.microsoft.com/msn" target="_top">Advertise</a></li>
+            <li class="last"><a href="http://www.msn.com/worldwide.aspx" target="_top">MSN Worldwide</a></li>
+        </ul>
+        <ul class="secondary">
+
+            <li class="last"><a href="#" onclick="javascript:top.DoHelp();return false;">Help</a></li>
+            <li><a href="http://g.msn.com/AIPRIV/en-us" target="_top">About our ads</a></li>
+            <li><a href="#" onclick="javascript:top.O_LC();return false;">Feedback</a></li>
+            <li><a href="http://money.msn.com/common/sitemap.aspx" target="_top">Site map</a></li>
+            <li><a href="http://rss.msn.com/default.aspx" target="_top">RSS</a></li>
+
+        </ul>
+        <div class="copyright">
+            <span>&#169; 2011 Microsoft</span>
+        </div>
+    </div>
+</div></div></div><img src="http://switch.atdmt.com/action/MSN_enUS_Money" height="1" width="1" border="0" alt="" /><script type="text/javascript">var s_account="msnportalusenmoney";</script><div style="display:none"><script type="text/javascript" src="http://blstj.msn.com/br/chan/om/js/s_code.2010.12.13.js"></script><script type="text/javascript" src="/inc/chan/omni.ashx?p=%2finvestor%2finvsub%2fresults%2fcompare.asp&v=634402386613183505"></script><noscript><img src="http://msnportalmoney.112.2O7.net/b/ss/msnportalmoney/1/H.1--NS/0" height="1" width="1" border="0" alt="" /></noscript></div><script type="text/javascript">if(typeof(top.LogErr)!="undefined")window.onerror=top.LogErr;</script><!--C02:65.54.150.72:7/25/2011 9:47:44 AM-->
+</body>
+</html>
+

@@ -40,5 +40,25 @@ module Moscalc
     def historical_pe
       @engine.historical_pe
     end
+
+    def current_price
+      @engine.current_price
+    end
+
+    def current_eps
+      @engine.current_eps
+    end
+
+    def current_pe
+      @engine.current_pe
+    end
+
+    def market_cap
+      @engine.market_cap
+    end
+
+    def analyst_growth
+      @engine.analyst_growth
+    end
   end
 end
