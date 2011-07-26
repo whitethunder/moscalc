@@ -47,10 +47,14 @@ describe Moscalc::Stock do
     specify { @stock.equity_growth_rate(1).should be_within(0.001).of(0.09) }
     specify { @stock.revenue_growth_rate(1).should be_within(0.001).of(0.083) }
     specify { @stock.free_cash_flow_growth_rate(1).should be_within(0.001).of(0.077) }
-    specify { @stock.eps_growth_rate(10).should be_within(0.001).of(0.111) }
-    specify { @stock.equity_growth_rate(10).should be_within(0.001).of(0.09) }
-    specify { @stock.revenue_growth_rate(10).should be_within(0.001).of(0.083) }
-    specify { @stock.free_cash_flow_growth_rate(10).should be_within(0.001).of(0.077) }
+    specify { @stock.eps_growth_rate.should be_within(0.001).of(0.314) }
+    specify { @stock.equity_growth_rate.should be_within(0.001).of(0.169) }
+    specify { @stock.revenue_growth_rate.should be_within(0.001).of(0.141) }
+    specify { @stock.free_cash_flow_growth_rate.should be_within(0.001).of(0.122) }
+    specify { @stock.eps_growth_rate(10).should be_nil }
+    its(:intrinsic_value) { pending }
+    its(:margin_of_safety) { pending }
+    its(:score) { pending }
   end
 
   context 'with 3 years of data' do

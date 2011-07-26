@@ -65,29 +65,35 @@ module Moscalc
       @engine.average_pe
     end
 
-    def eps_growth_rate(years)
+    def eps_growth_rate(years=:max)
       growth_rate(eps, years)
     end
 
-    def equity_growth_rate(years)
+    def equity_growth_rate(years=:max)
       growth_rate(equity, years)
     end
 
-    def revenue_growth_rate(years)
+    def revenue_growth_rate(years=:max)
       growth_rate(revenue, years)
     end
 
-    def free_cash_flow_growth_rate(years)
+    def free_cash_flow_growth_rate(years=:max)
       growth_rate(free_cash_flow, years)
     end
 
     private
 
     def growth_rate(values, years)
-      return 0 if values.size == 0
-      return values.first if values.size == 1
+      case values.size
+        when 0 then return 0
+        when 1 then return values.first
+        when lambda {|e| years != :max && e <= years} then return nil
+      end
 
-      values = values[(-years - 1)..-1]
+      if years != :max
+        values = values[(-years - 1)..-1]
+      end
+
       total = 0.0
       values.inject do |previous, current|
         total += ((current - previous).to_f / previous.to_f)
