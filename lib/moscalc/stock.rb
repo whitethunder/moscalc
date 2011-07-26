@@ -60,5 +60,40 @@ module Moscalc
     def analyst_growth
       @engine.analyst_growth
     end
+
+    def average_pe
+      @engine.average_pe
+    end
+
+    def eps_growth_rate(years)
+      growth_rate(eps, years)
+    end
+
+    def equity_growth_rate(years)
+      growth_rate(equity, years)
+    end
+
+    def revenue_growth_rate(years)
+      growth_rate(revenue, years)
+    end
+
+    def free_cash_flow_growth_rate(years)
+      growth_rate(free_cash_flow, years)
+    end
+
+    private
+
+    def growth_rate(values, years)
+      return 0 if values.size == 0
+      return values.first if values.size == 1
+
+      values = values[(-years - 1)..-1]
+      total = 0.0
+      values.inject do |previous, current|
+        total += ((current - previous).to_f / previous.to_f)
+        current
+      end
+      total / (values.size - 1).to_f
+    end
   end
 end

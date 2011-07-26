@@ -43,6 +43,14 @@ describe Moscalc::Stock do
     its(:current_pe) { should == 34.56 }
     its(:market_cap) { should == 199_230_000_000 }
     its(:analyst_growth) { should == -7.7 }
+    specify { @stock.eps_growth_rate(1).should be_within(0.001).of(0.111) }
+    specify { @stock.equity_growth_rate(1).should be_within(0.001).of(0.09) }
+    specify { @stock.revenue_growth_rate(1).should be_within(0.001).of(0.083) }
+    specify { @stock.free_cash_flow_growth_rate(1).should be_within(0.001).of(0.077) }
+    specify { @stock.eps_growth_rate(10).should be_within(0.001).of(0.111) }
+    specify { @stock.equity_growth_rate(10).should be_within(0.001).of(0.09) }
+    specify { @stock.revenue_growth_rate(10).should be_within(0.001).of(0.083) }
+    specify { @stock.free_cash_flow_growth_rate(10).should be_within(0.001).of(0.077) }
   end
 
   context 'with 3 years of data' do
@@ -100,7 +108,7 @@ describe Moscalc::Stock do
     subject { @stock }
 
     its(:historical_pe) { should == (8..17).map(&:to_f) }
-    its(:average_pe) { pending }
+    its(:average_pe) { should be_within(0.01).of(25.28) }
   end
 
   context '3 years of PE ratios' do
@@ -124,6 +132,6 @@ describe Moscalc::Stock do
     subject { @stock }
 
     its(:historical_pe) { should == [1.0, 2.0, -3.0] }
-    its(:average_pe) { pending }
+    its(:average_pe) { should be_within(0.01).of(16.90) }
   end
 end

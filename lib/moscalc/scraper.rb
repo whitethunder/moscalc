@@ -12,55 +12,59 @@ module Moscalc
     end
 
     def eps
-      extract_advfn_numbers('Diluted EPS - Normalized')
+      @eps ||= extract_advfn_numbers('Diluted EPS - Normalized')
     end
 
     def roic
-      extract_advfn_numbers('ROCI\)')
+      @roic ||= extract_advfn_numbers('ROCI\)')
     end
 
     def equity
-      extract_advfn_numbers('total equity')
+      @equity ||= extract_advfn_numbers('total equity')
     end
 
     def revenue
-      extract_advfn_numbers('total revenue')
+      @revenue ||= extract_advfn_numbers('total revenue')
     end
 
     def free_cash_flow
-      extract_advfn_numbers('free cash flow')
+      @free_cash_flow ||= extract_advfn_numbers('free cash flow')
     end
 
     def cash_flow
-      extract_advfn_numbers('cash flow')
+      @cash_flow ||= extract_advfn_numbers('cash flow')
     end
 
     def long_term_debt
-      extract_advfn_numbers('long-term debt')
+      @long_term_debt ||= extract_advfn_numbers('long-term debt')
     end
 
     def historical_pe
-      extract_historical_pes
+      @historical_pe ||= extract_historical_pes
     end
 
     def current_price
-      extract_current_price
+      @current_price ||= extract_current_price
     end
 
     def current_eps
-      extract_current_eps
+      @current_eps ||= extract_current_eps
     end
 
     def current_pe
-      extract_current_pe
+      @current_pe ||= extract_current_pe
     end
 
     def market_cap
-      extract_market_cap
+      @market_cap ||= extract_market_cap
     end
 
     def analyst_growth
-      extract_analyst_growth
+      @analyst_growth ||= extract_analyst_growth
+    end
+
+    def average_pe
+      @average_pe ||= Moscalc::ema(extract_historical_pes << current_pe)
     end
 
     private
