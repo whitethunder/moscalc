@@ -59,8 +59,8 @@ module Moscalc
       @market_cap ||= extract_market_cap
     end
 
-    def analyst_growth
-      @analyst_growth ||= extract_analyst_growth
+    def analyst_growth_rate
+      @analyst_growth ||= extract_analyst_growth * 0.01
     end
 
     def average_pe

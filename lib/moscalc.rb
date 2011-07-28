@@ -13,8 +13,7 @@ module Moscalc
 end
 
 #TODO:
-#Future EPS
-#Future Value
-#Sticker Price
-#Margin of Safety
+#to_json
 #Make web requests simultaneously
+#Fakeweb returns bad data
+#All sorts of crazy negative values
