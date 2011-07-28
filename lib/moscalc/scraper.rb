@@ -60,7 +60,9 @@ module Moscalc
     end
 
     def analyst_growth_rate
-      @analyst_growth ||= extract_analyst_growth * 0.01
+      rate = extract_analyst_growth
+      return nil unless rate
+      @analyst_growth = rate * 0.01
     end
 
     def average_pe
@@ -143,7 +145,7 @@ module Moscalc
     end
 
     def extract_current_price
-      @quote_page[/<span.+?RTLast.+?>(\d+\.\d+)<\/span/, 1].to_f
+      @quote_page[/<span\s+class=.lp.>.+?>(\d+\.\d+)/, 1].to_f
     end
 
     def extract_current_eps
@@ -161,7 +163,8 @@ module Moscalc
     end
 
     def extract_analyst_growth
-      @growth_page[/<td>Company<\/td>.+?(?:<span.+?){3}<span.+?(-?\d+\.\d+)%<\/span>/, 1].to_f
+      rate = @growth_page[/<td>Company<\/td>.+?(?:<td.+?>){3}(?:<span.+?>)?(-?\d+\.\d+|NA)%?/, 1]
+      rate == 'NA' ? nil : rate.to_f
     end
 
     def market_cap_suffix_to_i(suffix)

@@ -34,11 +34,24 @@ module Moscalc
     end
 
     def ten_year_growth_rate
-      [analyst_growth_rate, equity_growth_rate].min
+      [analyst_growth_rate, equity_growth_rate].compact.min
     end
 
     def future_eps
       (1 + (eps_growth_rate ? eps_growth_rate : nil)) ** Years_To_Grow * current_eps
+    end
+
+    # Future P/E is the minimum of the historical P/E, EPS growth rate * 2, or 50. If we can't get an EPS growth rate or
+    # a historical P/E, the current P/E is a good alternative.
+    def future_pe
+      if eps_growth_rate || historical_pe
+        [eps_growth_rate ? eps_growth_rate * 200.0 : nil,
+         Moscalc.ema(historical_pe),
+         Max_Future_PE
+        ].compact.min
+      else
+        current_pe
+      end
     end
 
     def future_value
@@ -74,17 +87,5 @@ module Moscalc
       total / (values.size - 1).to_f
     end
 
-    # Future P/E is the minimum of the historical P/E, EPS growth rate * 2, or 50. If we can't get an EPS growth rate or
-    # a historical P/E, the current P/E is a good alternative.
-    def future_pe
-      if eps_growth_rate || historical_pe
-        [eps_growth_rate ? eps_growth_rate * 200.0 : nil,
-         Moscalc.ema(historical_pe),
-         Max_Future_PE
-        ].compact.min
-      else
-        current_pe
-      end
-    end
   end
 end
