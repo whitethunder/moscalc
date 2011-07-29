@@ -4,11 +4,16 @@ module Moscalc
   class Scraper
     def initialize(symbol)
       @symbol = symbol
-      @start_date, @end_date = start_and_end_date
-      @advfn_pages = financial_pages
-      @historical_pe_page = msn_historical_pe_page
-      @quote_page = msn_quote_page
-      @growth_page = msn_growth_page
+      threads = []
+      threads << Thread.new do
+        @start_date, @end_date = start_and_end_date
+        @advfn_pages = financial_pages
+      end
+      threads << Thread.new { @historical_pe_page = msn_historical_pe_page }
+      threads << Thread.new { @quote_page = msn_quote_page }
+      threads << Thread.new { @growth_page = msn_growth_page }
+
+      threads.each { |t| t.join }
     end
 
     def eps
@@ -80,9 +85,13 @@ module Moscalc
     end
 
     def financial_pages
-      pages = [advfn_page(@start_date)]
-      pages << advfn_page(@end_date) if @start_date != @end_date
-      pages.compact
+      threads, start_page, end_page = [], nil, nil
+      threads << Thread.new { start_page = advfn_page(@start_date) }
+      if @start_date != @end_date
+        threads << Thread.new { end_page = advfn_page(@end_date) }
+      end
+      threads.each { |t| t.join }
+      [start_page, end_page].compact
     end
 
     def start_and_end_date
