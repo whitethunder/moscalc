@@ -1064,7 +1064,7 @@ EPS
             <td class="last" headers="tbla9494f4563de4ba48cb7c823017fa5ca">
 
 <span >
-23.45
+2.34
 
 </span>
 

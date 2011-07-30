@@ -39,11 +39,13 @@ describe Moscalc::Stock do
     its(:cash_flow) { should == (6..15).map(&:to_f) }
     its(:long_term_debt) { should == (7..16).map(&:to_f) }
     its(:current_price) { should == 12.34 }
-    its(:current_eps) { should == 23.45 }
+    its(:current_eps) { should == 2.34 }
     its(:current_pe) { should == 34.56 }
     its(:market_cap) { should == 199_230_000_000 }
     its(:analyst_growth_rate) { should == 0.077 }
     its(:ten_year_growth_rate) { should == 0.077 }
+    its(:to_hash) { should be_an_instance_of Hash }
+    its(:to_string) { should be_an_instance_of String }
     specify { @stock.eps_growth_rate(1).should be_within(0.001).of(0.111) }
     specify { @stock.equity_growth_rate(1).should be_within(0.001).of(0.09) }
     specify { @stock.revenue_growth_rate(1).should be_within(0.001).of(0.083) }
@@ -53,10 +55,10 @@ describe Moscalc::Stock do
     specify { @stock.revenue_growth_rate.should be_within(0.001).of(0.141) }
     specify { @stock.free_cash_flow_growth_rate.should be_within(0.001).of(0.122) }
     specify { @stock.eps_growth_rate(10).should be_nil }
-    specify { @stock.future_eps.should be_within(0.001).of(360.733) }
-    specify { @stock.future_value.should be_within(0.01).of(811.65) }
-    specify { @stock.intrinsic_value.should be_within(0.01).of(200.63) }
-    specify { @stock.margin_of_safety.should be_within(0.001).of(0.938) }
+    specify { @stock.future_eps.should be_within(0.001).of(35.996) }
+    specify { @stock.future_value.should be_within(0.01).of(662.514) }
+    specify { @stock.intrinsic_value.should be_within(0.01).of(163.763) }
+    specify { @stock.margin_of_safety.should be_within(0.001).of(0.925) }
 #    specify { @stock.score.should be_within(0.1).of() }
   end
 

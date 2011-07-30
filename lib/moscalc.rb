@@ -1,8 +1,7 @@
 require 'moscalc/version'
+require 'moscalc/stock'
 
 module Moscalc
-  require 'moscalc/stock'
-
   EmaAlpha = 0.5
 
   def self.ema(values)
@@ -13,7 +12,5 @@ module Moscalc
 end
 
 #TODO:
-#to_json
-#Make web requests simultaneously
 #Fakeweb returns bad data
 #All sorts of crazy negative values
