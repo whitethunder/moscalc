@@ -2,7 +2,7 @@ require 'moscalc/scraper'
 
 module Moscalc
   class Stock
-    Attributes = [:eps, :roic, :equity, :revenue, :free_cash_flow, :cash_flow, :long_term_debt, :historical_pe,
+    Attributes = [:roic, :equity, :eps, :revenue, :free_cash_flow, :cash_flow, :long_term_debt, :historical_pe,
                   :current_price, :current_eps, :current_pe, :market_cap, :analyst_growth_rate, :average_pe]
     Max_Future_PE = 50
     Years_To_Grow = 10
@@ -46,7 +46,7 @@ module Moscalc
     def future_pe
       if eps_growth_rate || historical_pe
         [eps_growth_rate ? eps_growth_rate * 200.0 : nil,
-         Moscalc.ema(historical_pe),
+         Moscalc.ema(historical_pe + [current_pe]),
          Max_Future_PE
         ].compact.min
       else
@@ -64,6 +64,20 @@ module Moscalc
 
     def margin_of_safety
       1 - current_price / intrinsic_value
+    end
+
+    def to_hash
+      (Attributes + [
+        :eps_growth_rate, :equity_growth_rate, :revenue_growth_rate, :free_cash_flow_growth_rate, :ten_year_growth_rate,
+        :future_eps, :future_pe, :future_value, :intrinsic_value, :margin_of_safety
+      ]).inject({}) { |hash, key| hash[key] = send(key); hash }
+    end
+
+    def to_string
+      to_hash.inject("") do |string, (k, v)|
+        string << k.to_s.gsub('_', ' ').gsub(/\b([a-z])/) { $1.capitalize }
+        string << ": #{v}\n"
+      end
     end
 
     private
