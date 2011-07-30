@@ -172,7 +172,7 @@ module Moscalc
     end
 
     def extract_analyst_growth
-      rate = @growth_page[/<td>Company<\/td>.+?(?:<td.+?>){3}(?:<span.+?>)?(-?\d+\.\d+|NA)%?/, 1]
+      rate = @growth_page[/NEXT\s+5\s+YRS.+?(?:<td.+?){5}.+?(-?\d+\.\d+|NA)%?/m, 1]
       rate == 'NA' ? nil : rate.to_f
     end
 
