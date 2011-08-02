@@ -3,7 +3,7 @@ require 'fakeweb'
 
 describe Moscalc::Stock do
   context 'with 10 years of data' do
-    before do
+    before(:all) do
       @symbol = 'TST'
       FakeWeb.register_uri(
         :get,
@@ -63,7 +63,7 @@ describe Moscalc::Stock do
   end
 
   context 'with 3 years of data' do
-    before do
+    before(:all) do
       @symbol = 'TST3'
       FakeWeb.register_uri(
         :get,
@@ -97,7 +97,7 @@ describe Moscalc::Stock do
   end
 
   context '10 years of PE ratios' do
-    before do
+    before(:all) do
       @symbol = 'TST'
       FakeWeb.register_uri(
         :get,
@@ -121,7 +121,7 @@ describe Moscalc::Stock do
   end
 
   context '3 years of PE ratios' do
-    before do
+    before(:all) do
       @symbol = 'TST'
       FakeWeb.register_uri(
         :get,
