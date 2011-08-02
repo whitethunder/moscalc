@@ -38,7 +38,8 @@ module Moscalc
     end
 
     def future_eps
-      (1 + (eps_growth_rate ? eps_growth_rate : nil)) ** Years_To_Grow * current_eps
+      return nil unless(eps_growth_rate && current_eps)
+      (1 + eps_growth_rate) ** Years_To_Grow * current_eps
     end
 
     # Future P/E is the minimum of the historical P/E, EPS growth rate * 2, or 50. If we can't get an EPS growth rate or
@@ -55,14 +56,17 @@ module Moscalc
     end
 
     def future_value
+      return nil unless(future_eps && future_pe)
       future_eps * future_pe
     end
 
     def intrinsic_value
+      return nil unless future_value
       Minimum_Acceptable_Rate_Of_Return ** -10 * future_value
     end
 
     def margin_of_safety
+      return nil unless(current_price && intrinsic_value)
       1 - current_price / intrinsic_value
     end
 
@@ -83,6 +87,7 @@ module Moscalc
     private
 
     def calculate_growth_rate(values, years)
+      return nil unless values
       case values.size
         when 0 then return 0
         when 1 then return values.first

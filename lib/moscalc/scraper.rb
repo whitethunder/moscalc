@@ -71,7 +71,7 @@ module Moscalc
     end
 
     def average_pe
-      @average_pe ||= Moscalc::ema(extract_historical_pes << current_pe)
+      @average_pe ||= Moscalc::ema(extract_historical_pes << current_pe) rescue nil
     end
 
     private
@@ -79,6 +79,7 @@ module Moscalc
     def extract_advfn_numbers(type)
       @advfn_pages.inject([]) do |accum, page|
         s = page[/(#{type}.+<\/tr>)/, 1]
+        return nil unless s
         s.scan(/>(-?[\d,]+\.\d+)</) { |match| accum << match[0].gsub(/,/, '').to_f }
         accum
       end
@@ -149,12 +150,14 @@ module Moscalc
     def extract_historical_pes
       pes = []
       part = @historical_pe_page[/Net Profit Margin.+?<tbody>(.+?)<\/tbody>/m, 1]
+      return [nil] unless part
       part.scan(/<td>\d+\/\d+<\/td><td.+?>(-?\d+\.\d+|NA)<\/td>/) { |match| pes << match[0].to_f unless match[0] == 'NA' }
       pes
     end
 
     def extract_current_price
-      @quote_page[/<span\s+class=.lp.>.+?>(\d+\.\d+)/, 1].to_f
+      result = @quote_page[/<span\s+class=.lp.>.+?>(\d+\.\d+)/, 1]
+      result ? result.to_f : nil
     end
 
     def extract_current_eps
@@ -167,13 +170,13 @@ module Moscalc
 
     def extract_market_cap
       @quote_page =~ /<span.+?>\s*Market Cap\s*<\/span.+?<span.+?(-?\d+\.\d+)\s*(\w+)\s*/m
-      base = $1.to_f
-      base * market_cap_suffix_to_i($2)
+      return nil unless($1 && $2)
+      $1.to_f * market_cap_suffix_to_i($2)
     end
 
     def extract_analyst_growth
       rate = @growth_page[/NEXT\s+5\s+YRS.+?(?:<td.+?){5}.+?(-?\d+\.\d+|NA)%?/m, 1]
-      rate == 'NA' ? nil : rate.to_f
+      ['NA', nil].include?(rate) ? nil : rate.to_f
     end
 
     def market_cap_suffix_to_i(suffix)
@@ -186,7 +189,8 @@ module Moscalc
     end
 
     def extract_from_quote_page(type)
-      @quote_page[/<span.+?>\s*#{type}\s*<\/span.+?<span.+?(-?\d+\.\d+)\s*/m, 1].to_f
+      result = @quote_page[/<span.+?>\s*#{type}\s*<\/span.+?<span.+?(-?\d+\.\d+)\s*/m, 1]
+      result ? result.to_f : nil
     end
   end
 end

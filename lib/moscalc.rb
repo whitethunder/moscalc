@@ -5,7 +5,8 @@ module Moscalc
   EmaAlpha = 0.5
 
   def self.ema(values)
-    values.inject(values.shift) do |previous, current|
+    return nil unless values
+    values.compact.inject(values.shift) do |previous, current|
       EmaAlpha * current + (1 - EmaAlpha) * previous
     end
   end

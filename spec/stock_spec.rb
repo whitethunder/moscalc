@@ -96,7 +96,7 @@ describe Moscalc::Stock do
     its(:long_term_debt) { should == (7..9).map(&:to_f) }
   end
 
-  context '10 years of PE ratios' do
+  context 'with 10 years of PE ratios' do
     before(:all) do
       @symbol = 'TST'
       FakeWeb.register_uri(
@@ -120,7 +120,7 @@ describe Moscalc::Stock do
     its(:average_pe) { should be_within(0.01).of(25.28) }
   end
 
-  context '3 years of PE ratios' do
+  context 'with 3 years of PE ratios' do
     before(:all) do
       @symbol = 'TST'
       FakeWeb.register_uri(
@@ -142,5 +142,64 @@ describe Moscalc::Stock do
 
     its(:historical_pe) { should == (1..3).map(&:to_f) }
     its(:average_pe) { should be_within(0.01).of(18.41) }
+  end
+
+  context 'with bad data' do
+    before(:all) do
+      @symbol = 'TST'
+      FakeWeb.register_uri(
+        :get,
+        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        :body => "Garbage")
+      FakeWeb.register_uri(
+        :get,
+        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=5",
+        :body => "Garbage")
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        :body => "Garbage")
+      FakeWeb.register_uri(
+        :get,
+        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        :body => "Garbage")
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        :body => "Garbage")
+      @stock = Moscalc::Stock.new(@symbol)
+    end
+
+    subject { @stock }
+
+    its(:symbol) { should == @symbol }
+    its(:eps) { should be_nil }
+    its(:roic) { should be_nil }
+    its(:equity) { should be_nil }
+    its(:revenue) { should be_nil }
+    its(:free_cash_flow) { should be_nil }
+    its(:cash_flow) { should be_nil }
+    its(:long_term_debt) { should be_nil }
+    its(:current_price) { should be_nil }
+    its(:current_eps) { should be_nil }
+    its(:current_pe) { should be_nil }
+    its(:market_cap) { should be_nil }
+    its(:analyst_growth_rate) { should be_nil }
+    its(:ten_year_growth_rate) { should be_nil }
+    its(:to_hash) { should be_an_instance_of Hash }
+    its(:to_string) { should be_an_instance_of String }
+    specify { @stock.eps_growth_rate(1).should be_nil }
+    specify { @stock.equity_growth_rate(1).should be_nil }
+    specify { @stock.revenue_growth_rate(1).should be_nil }
+    specify { @stock.free_cash_flow_growth_rate(1).should be_nil }
+    specify { @stock.eps_growth_rate.should be_nil }
+    specify { @stock.equity_growth_rate.should be_nil }
+    specify { @stock.revenue_growth_rate.should be_nil }
+    specify { @stock.free_cash_flow_growth_rate.should be_nil }
+    specify { @stock.eps_growth_rate(10).should be_nil }
+    specify { @stock.future_eps.should be_nil }
+    specify { @stock.future_value.should be_nil }
+    specify { @stock.intrinsic_value.should be_nil }
+    specify { @stock.margin_of_safety.should be_nil }
   end
 end
