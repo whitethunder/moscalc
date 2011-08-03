@@ -13,5 +13,4 @@ module Moscalc
 end
 
 #TODO:
-#Fakeweb returns bad data
 #All sorts of crazy negative values

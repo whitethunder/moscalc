@@ -8,7 +8,7 @@ module Moscalc
     Years_To_Grow = 10
     Minimum_Acceptable_Rate_Of_Return = 1.15
 
-    attr_reader :symbol
+    attr_reader :symbol, :engine
     Attributes.each { |a| attr_reader a }
 
     def initialize(symbol)

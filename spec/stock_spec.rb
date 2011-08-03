@@ -4,7 +4,7 @@ require 'fakeweb'
 describe Moscalc::Stock do
   context 'with 10 years of data' do
     before(:all) do
-      @symbol = 'TST'
+      @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
         "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
@@ -26,6 +26,10 @@ describe Moscalc::Stock do
         "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
         :body => File.open('spec/test_data/msn_growth.txt').read)
       @stock = Moscalc::Stock.new(@symbol)
+    end
+
+    after(:all) do
+      FakeWeb.clean_registry
     end
 
     subject { @stock }
@@ -60,11 +64,21 @@ describe Moscalc::Stock do
     specify { @stock.intrinsic_value.should be_within(0.01).of(163.763) }
     specify { @stock.margin_of_safety.should be_within(0.001).of(0.925) }
 #    specify { @stock.score.should be_within(0.1).of() }
+
+    it 'should handle distant past negative PE ratios well' do
+      @stock.engine.stub!(:historical_pe).and_return([16.0, -4.0, 2.0, 12.0, 20.0, 14.0, 15.0, 19.0, 18.0, 16.0])
+      @stock.average_pe.should be_within(1).of(18)
+    end
+
+    it 'should handle recent past negative PE ratios well' do
+      @stock.engine.stub!(:historical_pe).and_return([16.0, 4.0, 2.0, 12.0, 20.0, 14.0, 15.0, -19.0, -18.0, -16.0])
+      @stock.average_pe.should be_within(1).of(-13)
+    end
   end
 
   context 'with 3 years of data' do
     before(:all) do
-      @symbol = 'TST3'
+      @symbol = 'TESTING3'
       FakeWeb.register_uri(
         :get,
         "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
@@ -85,6 +99,10 @@ describe Moscalc::Stock do
       @stock = Moscalc::Stock.new(@symbol)
     end
 
+    after(:all) do
+      FakeWeb.clean_registry
+    end
+
     subject { @stock }
 
     its(:eps) { should == (1..3).map(&:to_f) }
@@ -96,57 +114,9 @@ describe Moscalc::Stock do
     its(:long_term_debt) { should == (7..9).map(&:to_f) }
   end
 
-  context 'with 10 years of PE ratios' do
-    before(:all) do
-      @symbol = 'TST'
-      FakeWeb.register_uri(
-        :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
-        :body => File.open('spec/test_data/tst_historical_pe.txt').read)
-      FakeWeb.register_uri(
-        :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
-        :body => File.open('spec/test_data/msn_quote.txt').read)
-      FakeWeb.register_uri(
-        :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
-        :body => File.open('spec/test_data/msn_growth.txt').read)
-      @stock = Moscalc::Stock.new(@symbol)
-    end
-
-    subject { @stock }
-
-    its(:historical_pe) { should == (8..17).map(&:to_f) }
-    its(:average_pe) { should be_within(0.01).of(25.28) }
-  end
-
-  context 'with 3 years of PE ratios' do
-    before(:all) do
-      @symbol = 'TST'
-      FakeWeb.register_uri(
-        :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
-        :body => File.open('spec/test_data/tst3_years_pe.txt').read)
-      FakeWeb.register_uri(
-        :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
-        :body => File.open('spec/test_data/msn_quote.txt').read)
-      FakeWeb.register_uri(
-        :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
-        :body => File.open('spec/test_data/msn_growth.txt').read)
-      @stock = Moscalc::Stock.new(@symbol)
-    end
-
-    subject { @stock }
-
-    its(:historical_pe) { should == (1..3).map(&:to_f) }
-    its(:average_pe) { should be_within(0.01).of(18.41) }
-  end
-
   context 'with bad data' do
     before(:all) do
-      @symbol = 'TST'
+      @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
         "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
@@ -168,6 +138,10 @@ describe Moscalc::Stock do
         "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
         :body => "Garbage")
       @stock = Moscalc::Stock.new(@symbol)
+    end
+
+    after(:all) do
+      FakeWeb.clean_registry
     end
 
     subject { @stock }
@@ -201,5 +175,74 @@ describe Moscalc::Stock do
     specify { @stock.future_value.should be_nil }
     specify { @stock.intrinsic_value.should be_nil }
     specify { @stock.margin_of_safety.should be_nil }
+  end
+
+  context 'with 10 years of PE ratios' do
+    before(:all) do
+      @symbol = 'TESTING'
+      FakeWeb.register_uri(
+        :get,
+        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        :body => File.open('spec/test_data/tst_start_date.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=5",
+        :body => File.open('spec/test_data/tst_end_date.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        :body => File.open('spec/test_data/tst_historical_pe.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        :body => File.open('spec/test_data/msn_quote.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        :body => File.open('spec/test_data/msn_growth.txt').read)
+      @stock = Moscalc::Stock.new(@symbol)
+    end
+
+    after(:all) do
+      FakeWeb.clean_registry
+    end
+
+    subject { @stock }
+
+    its(:historical_pe) { should == (8..17).map(&:to_f) }
+    its(:average_pe) { should be_within(0.01).of(25.28) }
+  end
+
+  context 'with 3 years of PE ratios' do
+    before(:all) do
+      @symbol = 'TESTING'
+      FakeWeb.register_uri(
+        :get,
+        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        :body => File.open('spec/test_data/tst3_years_only.txt').read
+      )
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        :body => File.open('spec/test_data/tst3_years_pe.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        :body => File.open('spec/test_data/msn_quote.txt').read)
+      FakeWeb.register_uri(
+        :get,
+        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        :body => File.open('spec/test_data/msn_growth.txt').read)
+      @stock = Moscalc::Stock.new(@symbol)
+    end
+
+    after(:all) do
+      FakeWeb.clean_registry
+    end
+
+    subject { @stock }
+
+    its(:historical_pe) { should == (1..3).map(&:to_f) }
+    its(:average_pe) { should be_within(0.01).of(18.41) }
   end
 end
