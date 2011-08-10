@@ -69,11 +69,6 @@ describe Moscalc::Stock do
       @stock.engine.stub!(:historical_pe).and_return([16.0, -4.0, 2.0, 12.0, 20.0, 14.0, 15.0, 19.0, 18.0, 16.0])
       @stock.average_pe.should be_within(1).of(18)
     end
-
-    it 'should handle recent past negative PE ratios well' do
-      @stock.engine.stub!(:historical_pe).and_return([16.0, 4.0, 2.0, 12.0, 20.0, 14.0, 15.0, -19.0, -18.0, -16.0])
-      @stock.average_pe.should be_within(1).of(-13)
-    end
   end
 
   context 'with 3 years of data' do
