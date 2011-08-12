@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "moscalc/version"
 
 Gem::Specification.new do |s|
   s.name        = "moscalc"
-  s.version     = Moscalc::VERSION
+  s.version     = "0.1.3"
   s.authors     = ["Matt White"]
   s.email       = ["mattw922@gmail.com"]
   s.homepage    = ""
