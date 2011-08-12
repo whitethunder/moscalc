@@ -1,4 +1,3 @@
-require 'moscalc/version'
 require 'moscalc/stock'
 
 module Moscalc
