@@ -62,12 +62,19 @@ module Moscalc
 
     def intrinsic_value
       return nil unless future_value
-      Minimum_Acceptable_Rate_Of_Return ** -10 * future_value
+      Minimum_Acceptable_Rate_Of_Return ** -Years_To_Grow * future_value
     end
 
     def margin_of_safety
       return nil unless(current_price && intrinsic_value)
       1 - current_price / intrinsic_value
+    end
+
+    def mos_formula
+      puts "1 - (current_price: #{current_price}) / (intrinsic_value: #{intrinsic_value})"
+      puts "intrinsic_value: (Minimum_Acceptable_Rate_Of_Return: #{Minimum_Acceptable_Rate_Of_Return}) ** (-Years_To_Grow: #{Years_To_Grow}) * (future_value: #{future_value})"
+      puts "future_value: (future_eps: #{future_eps}) * (future_pe: #{future_pe})"
+      puts "future_eps: (1 + (eps_growth_rate: #{eps_growth_rate})) ** (Years_To_Grow: #{Years_To_Grow}) * (current_eps: #{current_eps})"
     end
 
     def to_hash
