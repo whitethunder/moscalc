@@ -90,9 +90,9 @@ module Moscalc
 
     def to_string
       string = "\n#{@symbol}\n"
-      to_hash.inject("") do |string, (k, v)|
-        string << k.to_s.gsub('_', ' ').gsub(/\b([a-z])/) { $1.capitalize }
-        string << ": #{v}\n"
+      to_hash.inject(string) do |str, (k, v)|
+        str << k.to_s.gsub('_', ' ').gsub(/\b([a-z])/) { $1.capitalize }
+        str << ": #{v}\n"
       end
     end
 
