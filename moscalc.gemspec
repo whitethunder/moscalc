@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "moscalc"
-  s.version     = "0.1.3"
+  s.version     = "0.1.4"
   s.authors     = ["Matt White"]
   s.email       = ["mattw922@gmail.com"]
   s.homepage    = ""
