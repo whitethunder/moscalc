@@ -51,24 +51,31 @@ describe Moscalc::Stock do
     its(:to_hash) { should be_an_instance_of Hash }
     its(:to_string) { should be_an_instance_of String }
     specify { @stock.eps_growth_rate(1).should be_within(0.001).of(0.111) }
+    specify { @stock.growth_rate(1).should == @stock.analyst_growth_rate }
     specify { @stock.equity_growth_rate(1).should be_within(0.001).of(0.09) }
     specify { @stock.revenue_growth_rate(1).should be_within(0.001).of(0.083) }
     specify { @stock.free_cash_flow_growth_rate(1).should be_within(0.001).of(0.077) }
     specify { @stock.eps_growth_rate.should be_within(0.001).of(0.314) }
+    specify { @stock.growth_rate.should == @stock.analyst_growth_rate }
     specify { @stock.equity_growth_rate.should be_within(0.001).of(0.169) }
     specify { @stock.revenue_growth_rate.should be_within(0.001).of(0.141) }
     specify { @stock.free_cash_flow_growth_rate.should be_within(0.001).of(0.122) }
     specify { @stock.eps_growth_rate(10).should be_nil }
-    specify { @stock.future_eps.should be_within(0.001).of(35.996) }
-    specify { @stock.future_value.should be_within(0.01).of(662.514) }
-    specify { @stock.intrinsic_value.should be_within(0.01).of(163.763) }
-    specify { @stock.margin_of_safety.should be_within(0.001).of(0.925) }
+    specify { @stock.future_eps.should be_within(0.001).of(4.913) }
+    specify { @stock.future_value.should be_within(0.01).of(75.665) }
+    specify { @stock.intrinsic_value.should be_within(0.01).of(18.703) }
+    specify { @stock.margin_of_safety.should be_within(0.001).of(0.34) }
 #    specify { @stock.score.should be_within(0.1).of() }
 
     it 'should handle distant past negative PE ratios well' do
       @stock.engine.stub!(:historical_pe).and_return([16.0, -4.0, 2.0, 12.0, 20.0, 14.0, 15.0, 19.0, 18.0, 16.0])
       @stock.average_pe.should be_within(1).of(18)
     end
+
+#    it 'should handle recent past negative PE ratios well' do
+#      @stock.engine.stub!(:historical_pe).and_return([16.0, 4.0, 2.0, 12.0, 20.0, 14.0, 15.0, -19.0, -18.0, -16.0])
+#      @stock.average_pe.should be_within(1).of(-13)
+#    end
   end
 
   context 'with 3 years of data' do
