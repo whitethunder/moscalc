@@ -72,6 +72,11 @@ describe Moscalc::Stock do
       @stock.average_pe.should be_within(1).of(18)
     end
 
+    it 'should ignore 0 values in growth rate calculations' do
+      @stock.stub!(:eps).and_return([0.0, 0.0, 1.0, 2.0])
+      @stock.eps_growth_rate.should == 1.0
+    end
+
 #    it 'should handle recent past negative PE ratios well' do
 #      @stock.engine.stub!(:historical_pe).and_return([16.0, 4.0, 2.0, 12.0, 20.0, 14.0, 15.0, -19.0, -18.0, -16.0])
 #      @stock.average_pe.should be_within(1).of(-13)

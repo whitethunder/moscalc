@@ -98,8 +98,9 @@ module Moscalc
 
     private
 
-    def calculate_growth_rate(values, years)
-      return nil unless values
+    def calculate_growth_rate(vals, years)
+      return nil unless vals
+      values = remove_leading_zero_values(vals)
       case values.size
         when 0 then return 0
         when 1 then return values.first
@@ -118,5 +119,14 @@ module Moscalc
       total / (values.size - 1).to_f
     end
 
+    def remove_leading_zero_values(values)
+      while true
+        if values.first == 0.0
+          values.shift
+        else
+          return values
+        end
+      end
+    end
   end
 end
