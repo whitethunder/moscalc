@@ -12,6 +12,11 @@ describe Moscalc do
       Moscalc.ema(values).should == 12.34
     end
 
+    it "should ignore nil values" do
+      values = [nil, 12.34, nil]
+      Moscalc.ema(values).should == 12.34
+    end
+
     it "should return nil when no values are given" do
       values = []
       Moscalc.ema(values).should be_nil
