@@ -120,7 +120,7 @@ module Moscalc
     end
 
     def msn_historical_pe_url
-      "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}"
+      "http://investing.money.msn.com/investments/key-ratios?symbol=#{@symbol}"
     end
 
     def msn_quote_url
@@ -128,7 +128,7 @@ module Moscalc
     end
 
     def msn_growth_url
-      "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}"
+      "http://investing.money.msn.com/investments/earnings-estimates?symbol=#{@symbol}"
     end
 
     def advfn_page(date)
