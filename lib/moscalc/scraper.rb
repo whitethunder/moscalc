@@ -115,36 +115,20 @@ module Moscalc
       [start_date, end_date]
     end
 
-    def advfn_url(date)
-      "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=#{date}"
-    end
-
-    def msn_historical_pe_url
-      "http://investing.money.msn.com/investments/key-ratios?symbol=#{@symbol}"
-    end
-
-    def msn_quote_url
-      "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}"
-    end
-
-    def msn_growth_url
-      "http://investing.money.msn.com/investments/earnings-estimates?symbol=#{@symbol}"
-    end
-
     def advfn_page(date)
-      open(advfn_url(date)) { |p| p.read }
+      open(Moscalc::advfn_url(@symbol, date)) { |p| p.read }
     end
 
     def msn_historical_pe_page
-      open(msn_historical_pe_url) { |p| p.read }
+      open(Moscalc::msn_historical_pe_url(@symbol)) { |p| p.read }
     end
 
     def msn_quote_page
-      open(msn_quote_url) { |p| p.read }
+      open(Moscalc::msn_quote_url(@symbol)) { |p| p.read }
     end
 
     def msn_growth_page
-      open(msn_growth_url) { |p| p.read }
+      open(Moscalc::msn_growth_url(@symbol)) { |p| p.read }
     end
 
     def extract_historical_pes

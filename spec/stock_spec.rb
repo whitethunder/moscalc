@@ -7,23 +7,23 @@ describe Moscalc::Stock do
       @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        Moscalc::advfn_url(@symbol, 0),
         :body => File.open('spec/test_data/tst_start_date.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=5",
+        Moscalc::advfn_url(@symbol, 5),
         :body => File.open('spec/test_data/tst_end_date.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        Moscalc::msn_historical_pe_url(@symbol),
         :body => File.open('spec/test_data/tst3_years_pe.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        Moscalc::msn_quote_url(@symbol),
         :body => File.open('spec/test_data/msn_quote.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        Moscalc::msn_growth_url(@symbol),
         :body => File.open('spec/test_data/msn_growth.txt').read)
       @stock = Moscalc::Stock.new(@symbol)
     end
@@ -88,20 +88,20 @@ describe Moscalc::Stock do
       @symbol = 'TESTING3'
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        Moscalc::advfn_url(@symbol, 0),
         :body => File.open('spec/test_data/tst3_years_only.txt').read
       )
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        Moscalc::msn_historical_pe_url(@symbol),
         :body => File.open('spec/test_data/tst3_years_pe.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        Moscalc::msn_quote_url(@symbol),
         :body => File.open('spec/test_data/msn_quote.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        Moscalc::msn_growth_url(@symbol),
         :body => File.open('spec/test_data/msn_growth.txt').read)
       @stock = Moscalc::Stock.new(@symbol)
     end
@@ -126,23 +126,23 @@ describe Moscalc::Stock do
       @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        Moscalc::advfn_url(@symbol, 0),
         :body => "Garbage")
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=5",
+        Moscalc::advfn_url(@symbol, 5),
         :body => "Garbage")
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        Moscalc::msn_historical_pe_url(@symbol),
         :body => "Garbage")
       FakeWeb.register_uri(
         :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        Moscalc::msn_quote_url(@symbol),
         :body => "Garbage")
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        Moscalc::msn_growth_url(@symbol),
         :body => "Garbage")
       @stock = Moscalc::Stock.new(@symbol)
     end
@@ -189,23 +189,23 @@ describe Moscalc::Stock do
       @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        Moscalc::advfn_url(@symbol, 0),
         :body => File.open('spec/test_data/tst_start_date.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=5",
+        Moscalc::advfn_url(@symbol, 5),
         :body => File.open('spec/test_data/tst_end_date.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        Moscalc::msn_historical_pe_url(@symbol),
         :body => File.open('spec/test_data/tst_historical_pe.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        Moscalc::msn_quote_url(@symbol),
         :body => File.open('spec/test_data/msn_quote.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        Moscalc::msn_growth_url(@symbol),
         :body => File.open('spec/test_data/msn_growth.txt').read)
       @stock = Moscalc::Stock.new(@symbol)
     end
@@ -225,20 +225,20 @@ describe Moscalc::Stock do
       @symbol = 'TESTING'
       FakeWeb.register_uri(
         :get,
-        "http://www.advfn.com/p.php?pid=financials&btn=start_date&mode=annual_reports&symbol=#{@symbol}&start_date=0",
+        Moscalc::advfn_url(@symbol, 0),
         :body => File.open('spec/test_data/tst3_years_only.txt').read
       )
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/results/compare.asp?Page=TenYearSummary&symbol=#{@symbol}",
+        Moscalc::msn_historical_pe_url(@symbol),
         :body => File.open('spec/test_data/tst3_years_pe.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://investing.money.msn.com/investments/stock-price?symbol=#{@symbol}",
+        Moscalc::msn_quote_url(@symbol),
         :body => File.open('spec/test_data/msn_quote.txt').read)
       FakeWeb.register_uri(
         :get,
-        "http://moneycentral.msn.com/investor/invsub/analyst/earnest.asp?Page=EarningsGrowthRates&symbol=#{@symbol}",
+        Moscalc::msn_growth_url(@symbol),
         :body => File.open('spec/test_data/msn_growth.txt').read)
       @stock = Moscalc::Stock.new(@symbol)
     end
