@@ -16,7 +16,7 @@ module Moscalc
   end
 
   def self.msn_historical_pe_url(symbol)
-    "http://investing.money.msn.com/investments/key-ratios?symbol=#{symbol}"
+    "http://investing.money.msn.com/investments/key-ratios?symbol=#{symbol}&page=TenYearSummary"
   end
 
   def self.msn_quote_url(symbol)

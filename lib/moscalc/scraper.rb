@@ -133,9 +133,9 @@ module Moscalc
 
     def extract_historical_pes
       pes = []
-      part = @historical_pe_page[/Net Profit Margin.+?<tbody>(.+?)<\/tbody>/m, 1]
+      part = @historical_pe_page[/Net Profit Margin.+?<tbody>(.+?)<\/tbody>/mi, 1]
       return [nil] unless part
-      part.scan(/<td>\d+\/\d+<\/td><td.+?>(-?\d+\.\d+|NA)<\/td>/) { |match| pes << match[0].to_f unless match[0] == 'NA' }
+      part.scan(/<td class="first">.+?<\/td>.+?<span>.+?(-?\d+\.\d+|NA)/im) { |match| pes << match[0].to_f unless match[0] == 'NA' }
       pes
     end
 
