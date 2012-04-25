@@ -50,10 +50,11 @@ module Moscalc
     # a historical P/E, the current P/E is a good alternative.
     def future_pe
       if growth_rate || historical_pe
-        [growth_rate ? growth_rate * 200.0 : nil,
+        pe = [growth_rate ? growth_rate * 200.0 : nil,
          Moscalc.ema(historical_pe + [current_pe]),
          Max_Future_PE
         ].compact.min
+        pe < 0 ? current_pe : pe
       else
         current_pe
       end
