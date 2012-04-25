@@ -140,7 +140,7 @@ module Moscalc
     end
 
     def extract_current_price
-      result = @quote_page[/<span\s+class=.lp.>.+?>(\d+\.\d+)/, 1]
+      result = @quote_page[/<span\s+class=.lp.>.*?(\d+\.\d+)/, 1]
       result ? result.to_f : nil
     end
 
