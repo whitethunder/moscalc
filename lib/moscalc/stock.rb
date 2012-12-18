@@ -50,7 +50,7 @@ module Moscalc
     # a historical P/E, the current P/E is a good alternative.
     def future_pe
       if pe_index = ARGV.index('-pe')
-        ARGV[pe_index + 1]
+        ARGV[pe_index + 1].to_i
       elsif growth_rate || historical_pe
         pe = [growth_rate ? growth_rate * 200.0 : nil,
          Moscalc.ema(historical_pe + [current_pe]),
