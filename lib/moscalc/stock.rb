@@ -49,7 +49,9 @@ module Moscalc
     # Future P/E is the minimum of the historical P/E, EPS growth rate * 2, or 50. If we can't get an EPS growth rate or
     # a historical P/E, the current P/E is a good alternative.
     def future_pe
-      if growth_rate || historical_pe
+      if pe_index = ARGV.index('-pe')
+        ARGV[pe_index + 1]
+      elsif growth_rate || historical_pe
         pe = [growth_rate ? growth_rate * 200.0 : nil,
          Moscalc.ema(historical_pe + [current_pe]),
          Max_Future_PE
